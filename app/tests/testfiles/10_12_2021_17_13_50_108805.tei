@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Tribological Behavior of AlCrSiN-Coated Tool Steel K340 Versus Popular Tool Steel Grades</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-10-31">31 October 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,76.54,168.28,78.32,12.31"><forename type="first">Kazimierz</forename><surname>Drozd</surname></persName>
+							<email>k.drozd@pollub.pl</email>
+							<idno type="ORCID">0000-0002-6605-1172</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Materials Engineering</orgName>
+								<orgName type="department" key="dep2">Faculty of Mechanical Engineering</orgName>
+								<orgName type="institution">Lublin University of Technology</orgName>
+								<address>
+									<postCode>20-618</postCode>
+									<settlement>Lublin</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,181.55,168.28,78.12,12.31"><forename type="first">Mariusz</forename><surname>Walczak</surname></persName>
+							<email>m.walczak@pollub.pl</email>
+							<idno type="ORCID">0000-0001-6728-9134</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Materials Engineering</orgName>
+								<orgName type="department" key="dep2">Faculty of Mechanical Engineering</orgName>
+								<orgName type="institution">Lublin University of Technology</orgName>
+								<address>
+									<postCode>20-618</postCode>
+									<settlement>Lublin</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,286.36,168.28,70.55,12.31"><forename type="first">Mirosaw</forename><surname>Szala</surname></persName>
+							<email>m.szala@pollub.pl</email>
+							<idno type="ORCID">0000-0001-6728-9134</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Materials Engineering</orgName>
+								<orgName type="department" key="dep2">Faculty of Mechanical Engineering</orgName>
+								<orgName type="institution">Lublin University of Technology</orgName>
+								<address>
+									<postCode>20-618</postCode>
+									<settlement>Lublin</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,410.07,168.28,84.39,12.31"><forename type="first">Kamil</forename><surname>Gancarczyk</surname></persName>
+							<email>kamilgancarczyk@prz.edu.pl</email>
+							<idno type="ORCID">0000-0002-5938-6636</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Materials Science</orgName>
+								<orgName type="department" key="dep2">Faculty of Mechanical Engineering and Aeronautics</orgName>
+								<orgName type="institution">Rzeszow University of Technology</orgName>
+								<address>
+									<addrLine>Powstancow Warszawy 12</addrLine>
+									<postCode>35-959</postCode>
+									<settlement>Rzeszow</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<address>
+									<addrLine>36 Nadbystrzycka St</addrLine>
+									<postCode>20-618</postCode>
+									<settlement>Lublin</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Tribological Behavior of AlCrSiN-Coated Tool Steel K340 Versus Popular Tool Steel Grades</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-10-31">31 October 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2474213D1C397E7A3995AF2F9B628E60</idno>
+					<idno type="DOI">10.3390/ma13214895</idno>
+					<note type="submission">Received: 21 September 2020; Accepted: 28 October 2020;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0" ident="GROBID" when="2021-10-12T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>cold/hot-work steel</term>
+					<term>sliding</term>
+					<term>friction</term>
+					<term>wear testing</term>
+					<term>XRD analysis</term>
+					<term>wear mechanism</term>
+					<term>hardness</term>
+					<term>heat treatment</term>
+					<term>thin film</term>
+					<term>abrasion</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,128.61,296.94,390.13,12.21;1,82.21,310.45,147.01,12.21">The tribological performance of metalwork steel tools is of vital importance in both cold and hot working processes.</s><s coords="1,234.13,310.45,284.60,12.21;1,82.21,323.95,38.26,12.21">One solution for improving metal tool life is the application of coatings.</s><s coords="1,123.57,323.95,395.17,12.21;1,82.21,337.46,437.78,12.21;1,81.88,350.97,276.68,12.21">This paper investigates the differences in quantitative wear behavior and wear mechanisms between AlCrSiN-coated and bare steel K340 and five reference tool steels: X155CrVMo12-1, X37CrMoV5-1, X40CrMoV5-1, 40CrMnMo7 and 90MnCrV8.</s><s coords="1,366.33,350.97,152.42,12.21;1,82.21,364.48,436.54,12.21;1,82.21,377.99,117.61,12.21">The investigated tool steels were heat-treated, while K340 was subjected to thermochemical treatment and then coated with an AlCrSiN hard film (K340/AlCrSiN).</s><s coords="1,202.32,377.99,316.42,12.21;1,82.21,391.50,230.97,12.21">The hardness, chemical composition, phase structure and microstructure of steels K340 and K340/AlCrSiN were examined.</s><s coords="1,319.44,391.50,199.29,12.21;1,82.21,405.01,285.93,12.21">Tribological tests were conducted using the ball-on-disc tester in compliance with the ASTM G99 standard.</s><s coords="1,372.71,405.01,146.23,12.21;1,82.21,418.52,341.38,13.28">The tests were performed under dry unidirectional sliding conditions, using an Al 2 O 3 ball as a counterbody.</s><s coords="1,427.72,418.52,91.02,12.21;1,82.21,432.03,436.54,12.21;1,82.21,445.54,122.85,12.21">The wear factor and coefficient of friction were estimated and analyzed with respect to hardness and alloying composition of the materials under study.</s><s coords="1,208.05,445.54,311.07,12.21;1,82.21,459.05,436.54,12.21;1,82.21,472.56,49.01,12.21">Scanning electron microscopy (SEM) observations were made to identify the sliding wear mechanisms of the analyzed tool steels and physical vapor deposition (PVD)-coated K340 steel.</s><s coords="1,137.47,472.56,381.27,12.21;1,82.21,486.07,281.39,12.21">In contrast to the harsh abrasive-adhesive wear mechanism observed for uncoated tool steels, the abrasive wear dominates in case of the AlCrSiN.</s><s coords="1,366.09,486.07,153.04,12.21;1,81.91,499.58,284.36,12.21">The deposited thin film effectively prevents the K340 substrate from harsh wear severe degradation.</s><s coords="1,369.37,499.58,149.37,12.21;1,82.21,513.09,436.53,12.21;1,82.34,526.60,40.58,12.43;1,125.19,527.94,8.07,18.01;1,135.52,526.26,32.78,13.69;1,168.30,525.23,3.79,9.28;1,174.24,526.26,344.50,13.69;1,82.21,540.11,169.13,12.21;1,253.39,541.45,8.07,18.01;1,263.51,539.77,51.98,13.69;1,317.55,541.45,8.07,18.01;1,327.67,539.77,32.02,13.69;1,359.69,538.74,3.79,9.28;1,365.63,539.77,42.62,13.69">Moreover, thanks to the deposited coating, the K340/AlCrSiN sample has a coefficient of friction (COF) of 0.529 and a wear factor of K = 5.68  10 7 m 3 N 1 m 1 , while the COF of the reference tool steels ranges from 0.70 to 0.89 and their wear factor ranges from 1.68  10 5 to 3.67  10 5 m 3 N 1 m 1 .</s><s coords="1,411.33,540.11,107.41,12.21;1,82.21,553.61,436.54,12.21;1,82.21,567.12,254.63,12.21">The AlCrSiN deposition reduces the wear of the K340 steel and improves its sliding properties, which makes it a promising method for prolonging the service life of metalwork tools.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p><s coords="1,97.80,675.35,422.19,12.21;1,76.54,688.86,208.98,12.21">Despite the development of new technologies such as sintered carbides and ceramic materials, tool steels are still widely used in the industry.</s><s coords="1,289.08,688.86,230.04,12.21;1,76.54,702.37,145.98,12.21">This results from the high quality, wide availability and fair price of these materials.</s><s coords="1,226.90,702.37,292.23,12.21;1,76.54,715.88,442.20,12.21;1,76.54,729.39,85.79,12.21">To obtain an effective and durable tool, it is necessary to employ a suitable heat treatment or surface layer modification technology or to deposit a coating with the required properties.</s><s coords="1,165.37,729.39,353.37,12.21;1,76.54,742.90,442.41,12.21;2,76.54,88.45,81.89,12.21">Another important aspect is to select a steel grade that exhibits properties meeting the requirements for a given tool application and maximizes the tool durability during the cold-or hot-working <ref type="bibr" coords="2,134.34,88.45,8.03,12.21" target="#b0">[1]</ref><ref type="bibr" coords="2,142.36,88.45,4.01,12.21" target="#b1">[2]</ref><ref type="bibr" coords="2,146.38,88.45,8.03,12.21" target="#b2">[3]</ref>.</s><s coords="2,161.51,88.45,357.23,12.21;2,76.54,101.96,256.09,12.21">Studies are still conducted to develop new materials <ref type="bibr" coords="2,393.92,88.45,11.62,12.21" target="#b3">[4]</ref> and methods for shaping microstructure, particularly surface layer, of tool steels <ref type="bibr" coords="2,318.52,101.96,10.58,12.21" target="#b4">[5]</ref>.</s></p><p><s coords="2,97.80,115.47,420.95,12.21;2,76.54,128.98,216.56,12.21">Tool steels are characterized by high hardness and resistance to abrasion and deformation, as well as the ability to withstand elevated temperatures.</s><s coords="2,296.19,128.98,222.56,12.21;2,76.54,142.49,442.60,12.21;2,76.54,156.00,362.77,12.21">These characteristics can be obtained by increasing the carbon content and the application of appropriate heat treatment as well as the use of high alloy steel grades and heat treatment, or by the application of appropriate coatings <ref type="bibr" coords="2,417.72,156.00,10.79,12.21" target="#b5">[6,</ref><ref type="bibr" coords="2,428.51,156.00,7.19,12.21" target="#b6">7]</ref>.</s></p><p><s coords="2,97.80,169.51,422.68,12.21">A key requirement for cold-work carbon steels is their high hardness and resistance to abrasion.</s><s coords="2,76.54,183.02,442.21,12.21;2,76.54,196.53,210.73,12.21">If high surface pressures are generated during tool operation, it is necessary to increase the resistance of core and surface layer or apply the coating.</s><s coords="2,292.59,196.53,226.15,12.21;2,76.54,210.04,199.82,12.21">The surface layer resistance must be high enough to carry the tool operation load and stresses.</s><s coords="2,280.21,210.04,238.53,12.21;2,76.54,223.55,40.94,12.21">This can be obtained by enriching steel with alloying elements.</s><s coords="2,120.50,223.55,398.24,12.21;2,76.54,237.06,442.21,12.21;2,76.54,250.57,51.62,12.21">The most popular grades of tool steel contain alloying elements showing a close affinity with carbon, i.e., Cr, Mo, W and V, which means that hard phases can be formed in the microstructure of these steels.</s><s coords="2,131.25,250.57,301.01,12.21">Such microstructure of steel leads to increased resistance to abrasion.</s><s coords="2,435.33,250.57,83.40,12.21;2,76.54,264.08,442.20,12.21;2,76.54,277.59,45.32,12.21">The use of alloying elements in appropriate proportions makes it possible to optimize strength and abrasive properties of tools <ref type="bibr" coords="2,100.28,277.59,10.79,12.21" target="#b4">[5,</ref><ref type="bibr" coords="2,111.06,277.59,7.19,12.21" target="#b7">8]</ref>.</s></p><p><s coords="2,97.80,291.09,338.16,12.21">A current trend is to improve the tribological performance of cold work tools.</s><s coords="2,439.03,291.09,79.70,12.21;2,76.54,304.60,442.20,12.21;2,76.12,318.11,295.20,12.21">Different attempts are made to this end, including transition-metal nitride coatings of (Ti,Zr)N <ref type="bibr" coords="2,406.21,304.60,10.49,12.21" target="#b8">[9]</ref>, for which the smallest wear rate was obtained at the atomic percentage of 46% nitrogen.</s><s coords="2,375.35,318.11,143.39,12.21;2,76.54,331.62,442.21,12.21;2,76.21,345.13,442.73,12.21;2,76.54,358.31,442.20,13.69;2,76.54,372.15,254.05,12.21">The authors of <ref type="bibr" coords="2,444.03,318.11,16.73,12.21" target="#b9">[10]</ref> investigated the characteristics of nitrogen atmosphere heat-treated CrAlSiN films after physical vapor deposition (PVD) coating and found that the PVD CrAlSiN film was able to retain the initial structure after annealing up to 800  C. The wear resistance of a PVD-TiAlN-coated tool was found superior compared to that of a fine shot peening modified surface tool <ref type="bibr" coords="2,311.31,372.15,15.42,12.21" target="#b10">[11]</ref>.</s><s coords="2,335.63,372.15,183.12,12.21;2,76.54,385.66,442.20,12.21;2,76.54,399.17,78.41,12.21">Following the results, many authors use PVD TiN-based thin films to reduce wear factor and mitigate the degradation processes of metallic substrates <ref type="bibr" coords="2,123.40,399.17,15.77,12.21" target="#b11">[12,</ref><ref type="bibr" coords="2,139.17,399.17,11.83,12.21" target="#b12">13]</ref>.</s></p><p><s coords="2,97.80,412.68,420.94,12.21;2,76.54,426.19,442.20,12.21;2,76.24,439.70,442.51,12.21;2,76.54,453.21,32.58,12.21">The major advantages of PVD include the following: almost unlimited variation regarding the chemical composition of the coating material, the principal tolerance of all substrate materials and the possibility of depositing compounds such as nitrides and carbides or materials such as diamond-like carbon.</s><s coords="2,112.21,453.21,408.28,12.21">The advantages of PVD also include the easy realization of layered or graded film structures.</s><s coords="2,76.15,466.72,442.59,12.21;2,76.26,480.23,442.74,12.21;2,76.54,493.74,85.43,12.21">Apart from the advantages, the technology also has some drawbacks, including the necessity of using vacuum and plasma equipment together with the line-of-sight process type, as well as the complex sample movement.</s><s coords="2,165.05,493.74,353.69,12.21;2,76.54,507.25,251.14,12.21">A high cost of PVD deposition in comparison with other technologies may be a significant disadvantage in the case of some applications.</s><s coords="2,330.77,507.25,187.97,12.21;2,76.21,520.75,310.12,12.21">PVD requires the use of complex machines (which are more and more widely available) and thus skilled operators.</s><s coords="2,389.46,520.75,129.28,12.21;2,76.54,534.26,442.20,12.21;2,76.54,547.77,88.86,12.21">In addition, the application of PVD coating is not the best solution for limited-time treatments because it usually takes a longer time than other methods.</s><s coords="2,97.80,561.28,420.94,12.21;2,76.54,574.79,442.60,12.21;2,76.54,588.30,388.07,12.21">Some researchers attempt to increase abrasion resistance of steels by depositing different combinations of coatings <ref type="bibr" coords="2,197.49,574.79,12.25,12.21" target="#b8">[9,</ref><ref type="bibr" coords="2,209.74,574.79,12.25,12.21" target="#b13">14,</ref><ref type="bibr" coords="2,222.00,574.79,12.25,12.21" target="#b14">15]</ref> (also known as nanolayers <ref type="bibr" coords="2,369.25,574.79,15.10,12.21" target="#b15">[16]</ref>), including those with only slightly different chemical composition <ref type="bibr" coords="2,249.48,588.30,13.47,12.21" target="#b16">[17]</ref><ref type="bibr" coords="2,262.95,588.30,4.49,12.21" target="#b17">[18]</ref><ref type="bibr" coords="2,267.44,588.30,13.47,12.21" target="#b18">[19]</ref> or chemical-composition gradient <ref type="bibr" coords="2,433.17,588.30,15.72,12.21" target="#b19">[20,</ref><ref type="bibr" coords="2,448.89,588.30,11.79,12.21" target="#b20">21]</ref>.</s><s coords="2,467.72,588.30,51.01,12.21;2,76.54,601.81,442.21,12.21;2,76.54,615.32,261.83,12.21">The highest improvement of the double layered CrAlSiN + CrN/C coating was nearly three times more reliable than that of the tool coated with a single CrAlSiN layer <ref type="bibr" coords="2,319.35,615.32,15.21,12.21" target="#b21">[22]</ref>.</s><s coords="2,341.45,615.32,177.30,12.21;2,76.54,628.83,442.20,12.21;2,76.54,642.34,442.20,12.21;2,76.54,655.85,161.47,12.21">According to Li <ref type="bibr" coords="2,412.19,615.32,15.21,12.21" target="#b22">[23]</ref>, the elastic modulus is a linear function of hardness (in GPa units) of nitride coatings, but the elements which do not create nitrides (Co, Cu, Fe, Ni and Mn) are inclined to form a metallic phase, which can disturb the crystalline structure and lead to amorphization.</s></p><p><s coords="2,97.80,669.36,422.69,12.21">Nitriding and/or PVD coating are popular surface treatment processes for hot-work tool steels.</s><s coords="2,76.23,682.87,444.26,12.21">The nitriding process helps increase the hardness of a workpiece surface up to at least 1200 HV.</s><s coords="2,76.23,696.38,442.51,12.21;2,76.12,709.89,444.37,12.21">Therefore, hardness of PVD deposited nitride binary coating systems does not exceed 30 GPa <ref type="bibr" coords="2,502.01,696.38,16.73,12.21" target="#b23">[24]</ref> which can be achieved by deposition of complex coating systems such as AlCrN and AlCrSiN <ref type="bibr" coords="2,489.03,709.89,15.73,12.21" target="#b16">[17,</ref><ref type="bibr" coords="2,504.75,709.89,11.80,12.21" target="#b24">25]</ref>.</s><s coords="2,76.23,723.40,442.52,12.21;2,76.54,736.90,246.80,12.21">The high functional properties of nitride coatings deposited on alloy steels result from the fact that such coatings remain stable at elevated temperature <ref type="bibr" coords="2,304.37,736.90,15.17,12.21" target="#b25">[26]</ref>.</s><s coords="2,326.46,736.90,192.67,12.21;2,76.54,750.41,442.21,12.21;3,76.54,88.45,307.71,12.21">Given that this treatment is characterized by a lower temperature than the polymorphic transition temperature and a longer time, PVD coatings can be deposited after quenching, sometimes together with tempering.</s><s coords="3,387.34,88.45,131.40,12.21;3,76.54,101.96,442.21,12.21;3,76.54,115.47,281.75,12.21">Nitride PVD coatings increase the potential applications for steels because-apart from high resistance to surface stresses/loads and abrasion-they also ensure resistance to the harsh environment.</s><s coords="3,361.38,115.47,157.36,12.21;3,76.54,128.98,443.45,12.21;3,76.12,142.49,442.62,12.21;3,76.54,156.00,107.76,12.21">The deposition of the Al-rich AlTiN thin films successfully prevents the steel substrate from the sliding wear and cavitation erosion <ref type="bibr" coords="3,500.79,128.98,15.36,12.21" target="#b26">[27]</ref>, while the silicon enrichment of the CrAlN coatings increases hardness by approximately 34% <ref type="bibr" coords="3,483.10,142.49,16.51,12.21" target="#b27">[28]</ref> and salt water resistance <ref type="bibr" coords="3,165.39,156.00,15.13,12.21" target="#b28">[29]</ref>.</s><s coords="3,187.32,156.00,331.43,12.21;3,76.15,169.17,239.55,13.69">The resistance to oxidation at elevated temperatures induces the formation of Al, Cr and Si oxides that remain stable up to 700  C <ref type="bibr" coords="3,296.80,169.51,15.12,12.21" target="#b27">[28]</ref>.</s><s coords="3,318.70,169.51,200.04,12.21;3,76.54,182.68,442.20,13.69;3,76.54,196.53,332.56,12.21">The CrAlSiN coating deposited by unbalanced magnetron sputtering exhibits better tribological and mechanical properties up to 700  C than the CrAlN coating, according to nanoindentation and tribological tests <ref type="bibr" coords="3,377.36,196.53,15.87,12.21" target="#b29">[30,</ref><ref type="bibr" coords="3,393.23,196.53,11.90,12.21" target="#b30">31]</ref>.</s><s coords="3,412.19,196.53,106.55,12.21;3,76.12,210.04,376.18,12.21">In addition, the average wear factor (about 0.08) of the CrAlSiN coating was lower at high temperature <ref type="bibr" coords="3,433.03,210.04,15.41,12.21" target="#b31">[32]</ref>.</s><s coords="3,456.14,210.04,62.60,12.21;3,76.54,223.55,443.45,12.21;3,76.54,237.06,442.41,12.21;3,76.54,250.57,153.36,12.21">CrAlSiN hard coatings with a metastable cubic wurtzite structure, where Al substitutes Cr in the CrN-based structure, are used for manufacturing dies, molds and cutting tools due to their properties, primarily high wear and oxidation resistance <ref type="bibr" coords="3,185.90,250.57,16.00,12.21" target="#b18">[19,</ref><ref type="bibr" coords="3,201.90,250.57,12.00,12.21" target="#b24">25,</ref><ref type="bibr" coords="3,213.90,250.57,12.00,12.21" target="#b32">33]</ref>.</s></p><p><s coords="3,97.80,264.08,422.19,12.21;3,76.54,277.59,442.20,12.21;3,76.24,291.09,177.97,12.21">Despite many tribological studies on PVD-coated tool steels, according to the authors knowledge, none of the recently published papers compares the wear behavior of AlCrSiN coating with a set of popular tool steels including grade K340.</s><s coords="3,257.29,291.09,261.46,12.21;3,76.54,304.60,209.27,12.21">The results of the anti-wear investigations are still important and interesting for scientists and technologists.</s><s coords="3,288.88,304.60,229.86,12.21;3,76.54,318.11,202.87,12.21">Therefore, this paper presents results of tribological studies on lesser-known cold-work steel K340.</s><s coords="3,282.52,318.11,236.21,12.21;3,76.54,331.62,144.40,12.21">The literature review demonstrates that the K340 steel has not been exhaustively tested.</s><s coords="3,224.05,331.62,294.70,12.21;3,76.54,345.13,60.13,12.21">There is practically no description of its tribological performance in the literature.</s><s coords="3,139.77,345.13,378.97,12.21;3,76.54,358.64,315.38,12.21">Compared to tool steels, this steel grade should offer many advantages, such as good machinability and small dimensional changes during heat treatment <ref type="bibr" coords="3,373.02,358.64,15.12,12.21" target="#b33">[34]</ref>.</s><s coords="3,394.97,358.64,123.77,12.21;3,76.54,372.15,320.38,12.21">The K340-coated by the hard films could broaden the steel future applications at elevated temperatures.</s><s coords="3,400.00,372.15,118.73,12.21;3,76.26,385.66,442.49,12.21;3,76.54,399.17,381.45,12.21">This research compared the quantitative wear resistance of AlCrSiN PVD-coated steel grade K340 with the bare steel K340 and a set of tool steels, as this problem has not been yet well documented in the literature.</s><s coords="3,461.07,399.17,58.91,12.21;3,76.54,412.68,442.20,12.21;3,76.54,426.19,442.20,12.21;3,76.54,439.70,209.59,12.21">Additionally, the current paper presents an innovative comparison of the sliding wear results obtained for K340 and a set of popular tool steels designated for cold-and hot-working, which gives an interesting remark for tool steels selection and performance.</s><s coords="3,289.16,439.70,229.57,12.21;3,76.54,453.21,442.20,12.21;3,76.54,466.72,118.08,12.21">Moreover, the dry sliding wear behavior and damage mechanisms of the K340 steel coated with an AlCrSiN thin film were investigated in relation to those of the reference tool steels.</s><s coords="3,197.74,466.72,321.01,12.21;3,76.24,480.23,442.70,12.21;3,76.54,493.74,360.55,12.21">The results presented in this paper may prove useful for fabrication and prolonging the service life of cold-working tools and this research introduces to the broader project for investigating the durability of the K340-coated tool steel at elevated temperatures.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and Methods</head><p><s coords="3,97.80,536.44,421.15,12.21;3,76.54,549.95,443.45,12.21;3,76.21,563.45,356.59,12.21">The main goal of this study was to investigate the differences in quantitative wear behavior and wear mechanism between AlCrSiN-coated and bare K340 steel and five reference tool steels: X155CrVMo12-1, X37CrMoV5-1, X40CrMoV5-1, 40CrMnMo7 and 90MnCrV8.</s><s coords="3,439.81,563.45,78.93,12.21;3,76.54,576.96,442.20,12.21;3,76.54,590.47,100.83,12.21">There are several reasons for selecting PVD-coated and uncoated K340 as well as cold-and hot-work tool steels as materials for analysis.</s><s coords="3,184.27,590.47,334.85,12.21;3,76.54,603.98,166.79,12.21">First, the wear behavior of steel K340 has not yet been comprehensively described in the scientific literature.</s><s coords="3,251.60,603.98,267.13,12.21;3,76.54,617.49,442.41,12.21;3,76.54,631.00,26.05,12.21">In addition, there are no studies describing the effects of depositing AlCrSiN coatings onto the K340 steel substrate, which is the primary objective of our study.</s><s coords="3,105.67,631.00,413.07,12.21;3,76.54,644.51,23.43,12.21">This coating is a universal candidate for both cold and hot metal forming and advanced cutting tools.</s><s coords="3,103.05,644.51,415.68,12.21;3,76.54,658.02,62.21,12.21">The AlCrSiN film deposition could facilitate the steel K340 operation at both room and elevated temperatures.</s><s coords="3,142.70,658.02,376.04,12.21;3,76.54,671.53,406.57,12.21">Secondly, to ensure a comprehensive analysis of the tribological performance of the K340 steel, we selected popular cold-and hot-working tool steel grades as reference materials.</s><s coords="3,486.19,671.53,33.80,12.21;3,76.12,685.04,444.37,12.21">Thirdly, while selecting the reference materials, we took into account the chemical composition of steel K340.</s><s coords="3,76.23,698.55,442.51,12.21;3,76.54,712.06,46.11,12.21">The chemical composition of K340 ranges in between the chemical element contents of the reference tool steels.</s><s coords="3,125.75,712.06,392.99,12.21;3,76.54,725.57,163.08,12.21">Finally, the literature does not provide any data about the wear rate of AlCrSiN thin films in comparison to the K340 tool steel.</s><s coords="3,242.95,725.57,275.79,12.21;3,76.54,739.08,388.07,12.21">Therefore, this work undertakes a quantitative comparison of tribological behaviors and wear rates for the coated steel and the references steel grades.</s></p><p><s coords="4,97.80,88.45,421.94,12.21;4,76.54,101.96,225.71,12.21">Two types of the K340 samples were investigated in the study, denoted as K340 (heat-treated) and K340/AlCrSiN (heat treated and PVD coated).</s><s coords="4,305.34,101.96,215.14,12.21">The steel grade K340 is used for cold work tools.</s><s coords="4,76.54,115.47,443.95,12.21">Its average hardness, measured according to standard <ref type="bibr" coords="4,323.24,115.47,15.42,12.21" target="#b34">[35]</ref>, in as-received condition was 225 HBW.</s><s coords="4,76.23,128.98,442.52,12.21;4,76.12,142.49,175.84,13.28">The K340 samples were first subjected to austenitization in a vacuum furnace and then quenched with an N 2 (5 bar) string (see Table <ref type="table" coords="4,240.95,142.49,3.67,12.21" target="#tab_0">1</ref>).</s><s coords="4,258.33,142.49,260.41,12.21;4,76.54,156.00,55.21,12.21">The final obtained hardness of the samples was equal to 62 HRC <ref type="bibr" coords="4,112.66,156.00,15.27,12.21" target="#b35">[36]</ref>.</s><s coords="4,134.86,156.00,385.63,12.21">After quenching, the K340 steel samples were subjected to four tempering processes.</s><s coords="4,76.23,169.17,442.51,13.69;4,76.54,183.02,304.27,12.21">Three of them involved heating the samples for 120 min to the temperature of 505  C and soaking for 240 (first tempering process) or 210 min (the next two processes).</s><s coords="4,383.91,183.02,136.08,12.21;4,76.54,196.19,320.37,13.69">In the final tempering process, the samples were heated up to 510  C for 120 min and soaked for 240 min.</s><s coords="4,400.00,196.53,118.75,12.21;4,76.24,210.04,159.63,12.21">Following every tempering process, the material was air-cooled.</s><s coords="4,97.80,607.25,301.24,12.21">One batch of K340 steel samples was prepared for further testing.</s><s coords="4,404.65,607.25,114.09,12.21;4,76.54,620.76,351.54,12.21">The other batch was first heat-treated and then subjected to additional treatment (nitriding and PVD).</s><s coords="4,431.61,620.76,87.13,12.21;4,76.54,634.27,442.20,12.21;4,76.54,647.78,443.95,12.21">In accordance with the objective of this study, the tribological behavior of the K340 and K340/AlCrSiN samples was analyzed in relation to the hardness and wear properties of popular hot-and cold-work tool steels.</s><s coords="4,76.54,661.29,442.20,12.21;4,76.54,674.80,208.81,12.21">For comparison purposes, two hot-work tool steel grades (X37CrMoV5-1 and X40CrMoV5-1) and three grades of cold-work steel were selected.</s><s coords="4,290.88,674.80,227.86,12.21;4,76.54,688.31,443.95,12.21">Standard chemical compositions of the tested tool steels are given in Table <ref type="table" coords="4,189.23,688.31,3.81,12.21" target="#tab_1">2</ref>. Data in the table are shown in a chromium content descending order.</s><s coords="4,76.15,701.82,382.66,12.21">All analyzed steel samples were subjected to quenching and tempering heat treatment.</s><s coords="4,461.90,701.82,58.09,12.21;4,76.54,715.33,442.20,12.21;4,76.54,728.84,442.20,12.21;4,76.54,742.35,126.85,12.21">Additionally, the chemical analysis of the K340 steel was performed with the Magellan Q8 spark emission spectrometer (Bruker, Germany); the Fe100 test channel was used to complete five analyses (sparking sequences) for every sample.</s></p><p><s coords="5,97.80,88.45,420.94,12.21;5,76.54,101.96,255.53,12.21">The samples used for hardness, chemical composition and tribological testing were made as discs with a diameter of 25 mm and a thickness of 6 mm.</s><s coords="5,335.17,101.96,183.57,12.21;5,76.12,115.47,374.14,12.21">The steel discs were subjected to grinding with water abrasive papers with the grain size of 200, 400, 600 and 1200, respectively.</s><s coords="5,453.36,115.47,66.63,12.21;5,76.54,128.98,442.21,12.21;5,76.24,142.49,224.32,12.21">After grinding, the samples were mechanically polished with a 3 m diamond particle suspension and 0.05 m oxide particle suspension, washed in acetone and dried.</s><s coords="5,304.05,142.49,214.69,12.21;5,76.54,156.00,443.45,12.21;5,76.23,169.51,443.76,12.21;5,76.54,183.02,255.90,12.21">Microstructures of the K340 and K340/AlCrSiN samples were examined by bright-field optical microscopy using Nikon MA200 (Nikon Corporation, Tokyo, Japan) and scanning electron microscopy with energy dispersive spectroscopy (SEM-EDS, Phenom World ProX, Phenom World, Waltham, MA, USA).</s><s coords="5,334.93,183.02,183.81,12.21;5,76.54,196.53,330.61,12.21">The chemical composition of AlCrSiN thin film was analyzed in the cross-section of the samples by SEM-EDS method.</s><s coords="5,97.80,376.48,421.94,12.21;5,76.54,389.99,167.63,12.21">Phase composition of the samples was identified with the use of the X-ray diffractometer (XRD) model ARL X'tra from Thermo Fisher.</s><s coords="5,247.26,389.99,134.13,12.21;5,384.02,389.99,134.72,12.21;5,76.54,403.16,105.46,13.69;5,184.66,404.85,8.07,18.01;5,194.79,403.16,165.47,13.69">A filtered copper lamp (CuK,  = 0.1542 nm), with a voltage of 40 kV, range 2 = 20   120  and step size 0.02  /3 s was used.</s><s coords="5,363.37,403.50,155.37,12.21;5,76.54,417.01,442.20,12.21;5,76.54,430.52,58.38,12.21">Phase composition was determined using the powder diffraction file (PDF) developed and issued by the International Centre for Diffraction Data (ICDD).</s></p><p><s coords="5,97.80,444.03,420.95,12.21;5,76.15,457.54,279.25,12.21">Hardness tests were conducted using the Vickers FM-700 microhardness meter with an automatic ARS 900 system (Future-Tech Corp.), according to standard <ref type="bibr" coords="5,336.43,457.54,15.18,12.21" target="#b36">[37]</ref>.</s><s coords="5,358.52,457.54,160.22,12.21;5,76.54,471.05,221.67,12.21">To ensure statistical accuracy, at least seven indentations were made in random locations.</s><s coords="5,301.22,471.05,217.52,12.21;5,76.54,484.56,317.89,12.21">After that, the Rockwell hardness was recalculated into the Vickers scale in compliance with the ISO 18265 standard <ref type="bibr" coords="5,375.15,484.56,15.42,12.21" target="#b37">[38]</ref>.</s><s coords="5,399.54,484.56,119.20,12.21;5,76.54,498.07,442.41,12.21;5,76.21,511.57,444.28,12.21">The deposited nitride film hardness was tested on the top of AlCrSiN film surface using an Ultra Nanoindentation Tester (Anton Paar GmbH, Ostfildern, Germany), in compliance with the procedures described in <ref type="bibr" coords="5,501.22,511.57,15.41,12.21" target="#b38">[39]</ref>.</s><s coords="5,76.23,525.08,442.52,12.21;5,76.12,538.59,125.76,12.21">The thin film nanohardness was measured for comparison with the surface macro hardness measured with Vickers hardness tester.</s></p><p><s coords="5,97.80,552.10,422.69,12.21">Wear tests were performed on a "ball-on-disc" tribotester manufactured by CSM Instruments.</s><s coords="5,76.15,565.61,444.33,13.28">Al 2 O 3 balls (manufactured by CSM Instruments) with a diameter of 6 mm were used as counterbodies.</s><s coords="5,76.23,579.12,442.51,12.21;5,76.54,592.63,84.61,12.21">The total test distance used for measuring coefficient of friction (COF) variation for a single sample was set equal to 1000 m.</s><s coords="5,164.23,592.63,354.51,12.21;5,76.23,606.14,33.32,12.21;5,97.80,713.00,420.95,12.21;5,76.54,726.51,171.38,12.21">The tests were performed at room temperature, under the conditions described in Table <ref type="table" coords="5,102.07,606.14,3.74,12.21" target="#tab_2">3</ref>. Wear was measured as the reduction of material volume in the form of a wear track resulting from the specimen-counterbody interaction.</s><s coords="5,251.00,726.51,267.74,12.21;5,76.12,740.01,444.37,12.21">The Dektak 150 profile contact tester from Veeco Instruments was used to measure the wear profile surface area along the specimen circumference (in 12 locations).</s><s coords="5,76.23,753.52,442.52,12.21;6,76.12,88.45,229.90,12.21">The wear volume was determined as the average value wear profile areas and the circumference of a wear track circle created during the ball-on-disc test.</s><s coords="6,309.11,88.45,210.02,12.43;6,76.54,101.96,351.06,12.21">After that, the wear factor K was determined by Equation (1) considering the wear volume, force and sliding distance in the test:</s></p><formula xml:id="formula_0" coords="6,216.07,124.30,302.67,32.92">K = Wear volume Applied f orce  Sliding distance (1)</formula><p><s coords="6,76.54,161.77,117.78,12.21;6,194.32,160.41,3.79,9.28;6,200.26,161.43,42.49,13.69">for which the unit is mm 3 N 1 m 1 .</s><s coords="6,250.24,161.77,268.70,12.21;6,76.54,175.28,392.49,12.21">After the tribological tests, to investigate the sliding wear mechanism, the samples wear tracks were examined using scanning electron microscope.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Materials Properties</head><p><s coords="6,97.80,241.19,422.68,12.21">Results of the hardness tests are given in Table <ref type="table" coords="6,297.98,241.19,3.66,12.21" target="#tab_3">4</ref>. Data in the table are ordered by Vickers hardness.</s><s coords="6,76.54,254.70,442.20,12.21;6,76.54,268.21,221.42,12.21">Following the heat treatment, the surface layer hardness of steel K340 is considerably higher (by at least 78 HV) than that of other tested steel grades.</s><s coords="6,301.07,268.21,218.91,12.21;6,76.54,281.72,442.20,12.21;6,76.54,295.23,304.63,12.21">As a result of the applied heat treating processes, i.e., nitriding and AlCrSiN coating deposition, the hardness of this material (samples denoted as K340/AlCrSiN) increased again by almost two times to over 1300 HV.</s><s coords="6,383.67,295.23,135.06,12.21;6,76.54,308.74,373.06,12.21">Regarding the five other tested grades of steel, their post-treatment mean hardness ranges between 518n and 669 HV.</s><s coords="6,452.07,308.74,66.67,12.21;6,76.54,322.25,396.07,12.21">These five steel grades include two heat-treated hot-work steels with a hardness of approximately 550 HV.</s><s coords="6,475.11,322.25,44.88,12.21;6,76.54,335.76,353.75,12.21;6,432.91,337.11,8.07,18.01;6,443.60,335.76,75.14,12.21;6,76.54,349.27,275.96,12.21">Moreover, the AlCrSiN hard film hardness estimated with nanohardness tester equals 29.1  8.9 GPa, which is superior to the hardness results obtained with the Vickers tester.</s><s coords="6,355.55,349.27,163.18,12.21;6,76.54,362.78,442.21,12.21;6,76.54,376.29,229.61,12.21">The estimated nano-hardness is in the range of values reported in the literature <ref type="bibr" coords="6,253.87,362.78,16.47,12.21" target="#b39">[40]</ref> and it agrees with the hardness reported for other nitride hard-films such us TiAlN, AlTiN and AlCrN <ref type="bibr" coords="6,274.60,376.29,15.77,12.21" target="#b30">[31,</ref><ref type="bibr" coords="6,290.37,376.29,11.83,12.21" target="#b40">41]</ref>.</s><s coords="6,97.80,555.07,306.64,12.21">Microstructure of the heat-treated K340 steel is shown in Figure <ref type="figure" coords="6,396.82,555.07,3.81,12.21" target="#fig_0">1</ref>.</s><s coords="6,411.11,555.07,107.63,12.21;6,76.54,568.58,380.49,12.21">Despite the presence of spheroidized carbides, martensite lathes are visible in the structure of the K340 sample.</s><s coords="6,460.14,568.58,58.60,12.21;6,76.54,582.09,442.20,12.21;6,76.21,595.60,49.39,12.21">The diffusion nitride layer on the K340 steel sample is visible to an average depth of about 100 m below the surface (Figure <ref type="figure" coords="6,109.63,595.60,7.99,12.21" target="#fig_0">1b</ref>).</s><s coords="6,128.61,595.60,391.87,12.21">One can see a two-phase structure with the sorbite matrix and brighter carbides (Figure <ref type="figure" coords="6,505.02,595.60,7.73,12.21" target="#fig_0">1a</ref>).</s><s coords="6,76.54,609.11,246.55,12.21">In addition, two types of carbides can be distinguished.</s><s coords="6,326.18,609.11,192.56,12.21;6,76.54,622.62,442.48,12.21;6,76.24,636.13,133.51,12.21">One is characterized by elongated grains of ferrite-based solid solution that are shredded relative to the direction of plastic deformation which took place during steel fabrication.</s><s coords="6,213.24,636.13,305.51,12.21;6,76.54,649.64,442.59,12.21;6,76.54,663.15,126.42,12.21">The other contains more uniformly distributed fine precipitations of alloy carbides (up to a few m in size) that, according to the literature of the subject <ref type="bibr" coords="6,443.56,649.64,15.22,12.21" target="#b41">[42]</ref>, are typically generated during tempering.</s><s coords="6,206.05,663.15,312.69,12.21;6,76.54,676.66,87.23,12.21;7,97.80,278.55,420.94,12.21;7,76.54,292.06,101.61,12.21">The microstructure in the center of the sample is similar to the structure shown in Figure <ref type="figure" coords="6,150.79,676.66,8.65,12.21" target="#fig_0">1b</ref>. Figure <ref type="figure" coords="7,129.55,278.55,5.08,12.21" target="#fig_1">2</ref> shows the SEM image of the AlCrSiN coating cross section on the nitride layer in the K340/AlCrSiN sample.</s><s coords="7,181.28,292.06,337.46,12.21;7,76.54,305.57,31.71,12.21">The thickness of PVD coating on the K340/AlCrSiN sample varies from 2.8 to 3.6 m.</s><s coords="7,111.64,305.57,407.10,12.21;7,76.54,319.08,187.62,12.21">Table <ref type="table" coords="7,138.06,305.57,5.08,12.21" target="#tab_4">5</ref> gives the average chemical composition of the deposited AlCrSiN coating obtained from EDS measurements for seven spots.</s><s coords="7,269.53,319.08,249.41,12.21;7,76.54,332.59,42.61,12.21">Data are ordered by atomic concentration of particular elements.</s><s coords="7,125.68,332.59,270.88,12.21">It can be seen that the coating has more Al atoms than Cr.</s><s coords="7,403.10,332.59,115.64,12.21;7,76.54,346.10,179.57,13.28;7,256.10,350.21,13.25,9.28;7,269.85,346.10,248.89,13.28;7,76.54,359.61,77.04,12.21">Nevertheless, the coating has an atomic stoichiometry of Al 0.23 Cr 0.17 Si 0.03 N, which is comparable with data reported in the literature <ref type="bibr" coords="7,119.54,359.61,12.76,12.21" target="#b43">[43]</ref><ref type="bibr" coords="7,132.31,359.61,4.25,12.21" target="#b44">[44]</ref><ref type="bibr" coords="7,136.56,359.61,12.76,12.21" target="#b45">[45]</ref>.</s><s coords="7,97.80,719.56,420.94,12.21;7,76.54,733.07,253.05,12.21">X-ray diffraction (XRD) was employed to analyze the phase content of steel K340 in as-received condition and after AlCrSiN coating deposition by PVD.</s><s coords="7,332.11,733.07,188.38,12.21">The obtained results are given in Figure <ref type="figure" coords="7,512.86,733.07,3.81,12.21" target="#fig_2">3</ref>.</s><s coords="7,76.23,746.58,442.71,12.21;7,76.54,760.09,442.20,12.21;8,76.54,88.45,62.99,12.21">The sample of K340 in as-received condition contains a ferrite phase (ICDD 04-002-1833) and neither cementite nor other carbides were identified by XRD, which is a typical result supported by the literature <ref type="bibr" coords="8,120.28,88.45,15.40,12.21" target="#b46">[46]</ref>.</s><s coords="8,142.61,88.45,377.87,12.21;8,76.54,101.96,442.20,12.21;8,76.54,115.47,43.49,12.21">Moreover, the presence of carbides is clear and can be clearly seen in Figures <ref type="figure" coords="8,486.14,88.45,30.59,12.21" target="#fig_1">1 and 2</ref>. Nevertheless, the phase composition of the nitride layer significantly differs from that of the K340 substrate.</s><s coords="8,127.73,115.47,391.01,12.21;8,76.54,128.98,201.83,12.21">Following the coating deposition, two phases can be distinguished: Cr(Al)N (ICDD 04-021-7700) and CrN0.9 (ICDD 01-083-5613).</s><s coords="8,281.44,128.98,238.54,12.21;8,76.54,142.49,395.88,12.21">The peaks of the CrN and AlN phases nearly overlap, being pairs with identical lattice planes (Miller indices), and are thus hard to differentiate.</s><s coords="8,475.50,142.49,43.24,12.21;8,76.54,156.00,442.21,12.21;8,76.15,169.51,224.48,12.21">Summing up, the structure of the thin film consists on the diverse crystalline phases and agrees with the XRD of AlCrSiN coatings reported by the literature <ref type="bibr" coords="8,269.08,169.51,15.77,12.21" target="#b16">[17,</ref><ref type="bibr" coords="8,284.85,169.51,11.83,12.21" target="#b24">25]</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Wear Behavior</head><p><s coords="8,97.80,422.98,420.95,12.21;8,76.54,436.49,222.57,12.21">A comparative analysis was conducted on the basis of the dry sliding ball-on-disc test done for all samples under the same environmental conditions.</s><s coords="8,302.22,436.49,216.52,12.21;8,76.54,450.00,249.99,12.21">Obtained average coefficients of friction are given in Table <ref type="table" coords="8,114.29,450.00,5.08,12.21" target="#tab_5">6</ref> and plotted in relation to distance in Figure <ref type="figure" coords="8,318.91,450.00,3.81,12.21" target="#fig_3">4</ref>.</s><s coords="8,329.71,450.00,189.03,12.21;8,76.54,463.51,165.33,12.21">The data in the table are listed in a reverse order of average friction coefficients.</s><s coords="8,245.98,463.51,272.75,12.21;8,76.54,477.02,39.02,12.21">For most tested steels, the average COF ranges between 0.70 and 0.89.</s><s coords="8,118.64,477.02,400.10,12.21;8,76.54,490.53,443.95,12.21">Regarding the cold-work steels, the highest COF was achieved by the X155CrVMo12-1 steel grade that is characterized by the highest carbon and chromium content out of the analyzed materials.</s><s coords="8,76.15,504.04,442.59,12.21;8,76.54,517.55,157.82,12.21">As for the other tested cold-work steel grades, the COF variations are not statistically significant considering the standard deviation.</s><s coords="8,237.44,517.55,281.30,12.21;8,76.21,531.06,375.04,12.21">It should, however, be pointed out that the lowest average COF (with narrow range variations over distance) is obtained for the K340/AlCrSiN sample.</s><s coords="8,454.26,531.06,64.48,12.21;8,76.54,544.57,442.20,12.21;8,76.54,558.08,165.75,12.21">The deposition of the AlCrSiN thin film onto the nitrided surface layer of the K340 steel sample effectively decreases the COF to an average value of 0.53.</s><s coords="8,247.17,558.08,271.57,12.21;8,76.54,571.59,282.62,12.21">The COF of the K340/AlCrSiN sample is lower than that of the steel samples due to superior hardness of the AlCrSiN film.</s><s coords="8,362.25,571.59,156.69,12.21;8,76.54,585.10,442.20,12.21;8,76.24,598.61,357.37,12.21">This implies that the abrasive wear mechanism is dominant in the thin film wear trace (as discussed in detail in a further section of the paper), resulting in a low wear volume (Figures <ref type="figure" coords="8,288.70,598.61,30.98,12.21" target="#fig_7">5 and 6</ref>) and stable wear process.</s><s coords="9,97.80,88.45,420.94,12.21;9,76.54,101.96,322.88,12.21">During the tribological test, the COF of most samples is stable and the standard deviation is lower by at least one order of magnitude than the average value (Table <ref type="table" coords="9,388.67,101.96,3.58,12.21" target="#tab_5">6</ref>).</s><s coords="9,402.50,101.96,116.25,12.21;9,76.21,115.47,442.54,12.21;9,76.54,128.98,86.44,12.21">The highest COF variation (standard deviation amounting to 12% of the average value) is observed for the sample of quenched and tempered K340.</s><s coords="9,165.97,128.98,352.77,12.21;9,76.54,142.49,203.12,12.21">This unstable behavior pattern of the COF may be explained by the microstructure of steel K340, in particular the carbide banding.</s><s coords="9,282.68,142.49,236.06,12.21;9,76.54,156.00,285.20,12.21">The numerous and relatively large carbides (Figures <ref type="figure" coords="9,508.97,142.49,9.76,12.21;9,76.54,156.00,23.53,12.21" target="#fig_1">1a  and 2</ref>) constitute a natural obstacle for the counterbody material.</s><s coords="9,364.83,156.00,153.91,12.21;9,76.54,169.51,443.95,12.21">After the wear-in stage, the contact surface area between the mating surfaces is increased and, in turn, the COF fluctuations are reduced.</s><s coords="9,76.15,183.02,442.59,12.21;9,76.54,196.53,442.21,12.21;9,76.12,210.04,52.34,12.21">As for the hot-work steels tested under dry friction conditions, both grades end up with the sliding distance with the relatively high COF amounting to 0.9, which exceeds the values reported for cold work steels.</s><s coords="9,104.54,128.33,378.42,10.98;9,85.43,140.47,290.26,10.98">During the tribological test, the COF of most samples is stable and the standard deviation is lower by at least one order of magnitude than the average value (Table <ref type="table" coords="9,366.03,140.47,3.22,10.98" target="#tab_5">6</ref>).</s><s coords="9,378.46,140.47,104.50,10.98;9,85.14,152.62,397.82,10.98;9,85.43,164.76,61.00,10.98">The highest COF variation (standard deviation amounting to 12% of the average value) is observed for the sample of quenched and tempered K340.</s><s coords="9,149.17,164.76,333.79,10.98;9,85.43,176.91,177.18,10.98">This unstable behaviour pattern of the COF may be explained by the microstructure of steel K340, in particular the carbide banding.</s><s coords="9,265.39,176.91,217.57,10.98;9,85.43,189.05,256.39,10.98">The numerous and relatively large carbides (Figures <ref type="figure" coords="9,474.01,176.91,8.96,10.98;9,85.43,189.05,21.15,10.98" target="#fig_1">1a  and 2</ref>) constitute a natural obstacle for the counterbody material.</s><s coords="9,344.60,189.05,138.36,10.98;9,85.43,201.20,399.10,10.98">After the wear-in stage, the contact surface area between the mating surfaces is increased and, in turn, the COF fluctuations are reduced.</s><s coords="9,85.08,213.34,397.88,10.98;9,85.43,225.49,397.53,10.98;9,85.06,237.63,47.05,10.98">As for the hot-work steels tested under dry friction conditions, both grades end up with the sliding distance with the relatively high COF amounting to 0.9, which exceeds the values reported for cold work steels.</s><s coords="9,104.54,707.82,228.91,11.18">Figure <ref type="figure" coords="9,131.64,707.82,4.39,10.98" target="#fig_5">5</ref> illustrates the wear factor K of the tested materials.</s><s coords="9,338.83,707.82,144.13,10.98;9,85.43,719.96,399.10,10.98">It can be read that the wear resistance of K340/AlCrSiN is almost two orders of magnitude higher than that of all reference materials.</s><s coords="9,85.15,732.11,397.99,10.98;9,97.80,711.89,256.36,12.43">The results in this figure also reveal that the wear resistance of steel K340 is in the range of the wear Figure <ref type="figure" coords="9,128.11,711.89,4.88,12.21" target="#fig_5">5</ref> illustrates the wear factor K of the tested materials.</s><s coords="9,357.20,711.89,161.54,12.21;9,76.54,725.40,443.95,12.21">It can be read that the wear resistance of K340/AlCrSiN is almost two orders of magnitude higher than that of all reference materials.</s><s coords="9,76.23,738.91,442.71,12.21;9,76.54,752.42,210.92,12.21">The results in this figure also reveal that the wear resistance of steel K340 is in the range of the wear rate reported for the steel grade X40CrMoV5-1.</s><s coords="9,290.55,752.42,228.18,12.21;10,76.21,88.45,442.54,12.21;10,76.54,101.96,300.64,12.21">The AlCrSiN thin film deposition on the K340 steel (sample denoted as K340/AlCrSiN) leads to a further significant increase in the wear resistance of this sample compared to the other tested steels hot-and cold-work alike.</s></p><p><s coords="10,97.80,115.47,250.15,12.21">Figure <ref type="figure" coords="10,128.76,115.47,4.98,12.21" target="#fig_7">6</ref> shows the macro-photographs of worn surfaces.</s><s coords="10,351.03,115.47,167.71,12.21;10,76.54,128.98,442.20,12.21;10,76.54,142.49,65.82,12.21">It can be observed that, apart from the K340/AlCrSiN sample, all other tool steels are characterized by the adhesive-smearing mechanism in the wear track.</s><s coords="10,145.44,142.49,374.55,12.43;10,76.21,156.00,442.54,12.21;10,76.24,169.51,135.88,12.21">In the case of the four steel grades with high values of wear factor K, i.e., 90MnCrV8, X155CrVMo12-1, 40CrMnMo7 and X37CrMoV5-1, the outside edges of the tracks additionally exhibit plowing of the wear products.</s><s coords="10,215.47,169.51,303.27,12.21;10,76.54,183.02,84.82,12.21">This points to galling and cyclic upsetting of the high portion of the deformed tribofilm.</s><s coords="10,164.30,183.02,354.94,12.21;10,76.54,196.53,163.06,12.21">This effect is the most noticeable in the wear track obtained for the X155CrVMo12-1 steel with the lowest wear resistance.</s><s coords="10,242.69,196.53,277.30,12.21;10,76.54,210.04,442.20,12.21;10,76.54,223.55,338.30,12.21">A similar material-deterioration morphology in the wear track, characterized by the dominant adhesive wear mode, was also observed for untreated Al-and Cu-based metal alloys tested at ambient temperature under dry sliding conditions <ref type="bibr" coords="10,395.75,223.55,15.27,12.21" target="#b47">[47]</ref>.</s><s coords="10,97.80,448.51,243.14,12.21">Table <ref type="table" coords="10,123.86,448.51,5.03,12.21" target="#tab_6">7</ref> shows the mean depth of obtained wear tracks.</s><s coords="10,344.05,448.51,174.70,12.21;10,76.54,462.02,443.95,12.21">The observed fluctuations in the profile depth can be explained by non-uniform deterioration of the wear track in a given wear mechanism.</s><s coords="10,76.23,475.53,309.78,12.21">The wear volume can be positive because of the adhesive wear mode.</s><s coords="10,389.09,475.53,129.85,12.21;10,76.54,489.04,442.20,12.21;10,76.54,502.55,354.05,12.21">To give an example, the wear mechanism of the X37CrMoV5-1 and X40CrMoV5-1 samples relies on an adhesive transfer of the worn material through the wear track and a relatively low penetration depth (Table <ref type="table" coords="10,419.80,502.55,3.60,12.21" target="#tab_6">7</ref>).</s><s coords="10,97.80,661.34,421.15,12.21;10,76.54,674.85,105.72,12.21">SEM examination of the obtained wear tracks made it possible to identify dominant wear mechanisms (Figure <ref type="figure" coords="10,171.25,674.85,3.67,12.21" target="#fig_8">7</ref>).</s><s coords="10,187.53,674.85,332.95,12.21">The results of SEM examination agree with the quantitative wear results.</s><s coords="10,76.23,688.36,442.51,12.21;10,76.54,701.87,167.80,12.21">The reason for the high wear resistance of the PVD-coated sample is the fact that the wear mechanisms of the thin film and tool steels differ.</s><s coords="10,249.79,701.87,268.94,12.21;10,76.54,715.38,442.20,12.21;10,76.12,728.89,24.24,12.21">The high wear resistance of the PVD-coated sample can be attributed to the dominance of abrasive wear, whereas the steels predominantly undergo adhesive wear.</s><s coords="10,104.41,728.89,359.16,12.21">This results in higher wear rates and friction coefficients of all tested tool steels.</s><s coords="10,467.61,728.89,51.12,12.21;10,76.54,742.40,442.21,12.21;10,76.12,755.91,52.07,12.21">It is known from the literature <ref type="bibr" coords="10,161.02,742.40,16.72,12.21" target="#b48">[48]</ref> that adhesive wear results in a lower wear rate of samples than the abrasive wear mode.</s><s coords="12,97.80,88.45,338.90,12.21">The K340/AlCrSiN sample (Figure <ref type="figure" coords="12,257.85,88.45,9.03,12.21" target="#fig_8">7a</ref>) exhibits the abrasive nature of wear.</s><s coords="12,440.33,88.45,78.41,12.21;12,76.24,101.96,442.51,12.21;12,76.54,115.47,175.93,12.21">The cyclic sliding process causes film cracking and fatigue-inducted delamination followed by a transfer of the spalling debris material across the wear track.</s><s coords="12,260.97,115.47,257.77,12.21;12,76.54,128.98,243.83,12.21">Additionally, the nitride coating shows the presence of lateral microcracks, which is the symptom of fatigue.</s><s coords="12,326.28,128.98,192.46,12.21;12,76.54,142.49,392.13,12.21">On the other hand, the wear of tool steels is affected by the adhesive damage and its mechanism has an abrasive-adhesive nature.</s><s coords="12,471.75,142.49,46.99,12.21;12,76.54,156.00,442.20,12.21;12,76.54,169.51,112.55,12.21">In the case of the K340 sample (Figure <ref type="figure" coords="12,199.94,156.00,8.31,12.21" target="#fig_8">7b</ref>), the wear process primarily starts with abrasion and proceeds in an abrasive-adhesive mode.</s><s coords="12,192.17,169.51,326.57,12.21;12,76.24,183.02,296.48,12.21">The worn surface of the K340 sample shows the presence of characteristic parallel abrasive grooves and scratches caused by microcutting.</s><s coords="12,380.65,183.02,138.09,12.21;12,76.54,196.53,352.35,12.21">In addition, the grooves have microcracks propagating perpendicularly to the sample movement direction.</s><s coords="12,435.12,196.53,83.62,12.21;12,76.54,210.04,410.46,12.21">These microcracks result from low-cycle fatigue of the surface layer due to the cyclic upsetting of the material.</s><s coords="12,490.72,210.04,28.02,12.21;12,76.54,223.55,442.21,12.21;12,76.54,237.06,201.90,12.21">At the same time, adhesive wear occurs, as demonstrated by the presence of the smeared tribofilm resulting from the transfer of secondary wear products.</s></p><p><s coords="12,97.80,250.57,420.94,12.21;12,76.24,264.08,442.50,12.21;12,76.12,277.59,270.02,12.21">The wear track surface of the 90MnCrV8 and X155CrVMo12-1 steels (Figure <ref type="figure" coords="12,445.39,250.57,17.38,12.21" target="#fig_8">7c,d</ref>) reveals the presence of continuous scratches, which is typical of steel and is caused by the free displacement of wear products along the sample/counterbody contact trace.</s><s coords="12,349.80,277.59,170.19,12.21;12,76.54,291.09,442.41,12.21;12,76.54,304.60,101.72,12.21">Moreover, as in the case of steel K340, these steels grades also, simultaneously, undergo adhesive wear, which is particularly visible for 90MnCrV8 (Figure <ref type="figure" coords="12,162.83,304.60,7.71,12.21" target="#fig_8">7c</ref>).</s><s coords="12,181.33,304.60,337.41,12.21;12,76.54,318.11,442.21,12.21;12,76.54,331.62,257.49,12.21">Generally, two patterns of material adhesive transfer can be observed for all tested reference steel samples: the first relies on delamination of the initial metallic material, while the second consists in wear debris transfer and final smearing.</s></p><p><s coords="12,97.80,345.13,420.94,12.21;12,76.54,358.64,254.85,12.21">Krbata et al. <ref type="bibr" coords="12,165.25,345.13,16.73,12.21" target="#b49">[49]</ref> demonstrated that the adhesive wear mechanism of this steel grade is more intensive at higher velocities during tribotesting.</s><s coords="12,339.94,358.64,178.80,12.21;12,76.54,372.15,442.20,12.21;12,76.21,385.66,52.03,12.21">In turn, steel X155CrVMo12-1 exhibits the microcracking of carbides, which was probably caused by surface deformation of the material (Figure <ref type="figure" coords="12,111.07,385.66,8.58,12.21" target="#fig_8">7d</ref>).</s><s coords="12,131.31,385.66,387.43,12.21;12,76.54,399.17,239.08,12.21">The carbide microcracks are the center of fracture nucleation as well as fatigue spalling and may lead to tool damage, as demonstrated in <ref type="bibr" coords="12,296.53,399.17,15.27,12.21" target="#b50">[50]</ref>.</s></p><p><s coords="12,97.80,412.68,420.94,12.21;12,76.54,426.19,442.20,12.21;12,76.54,439.70,149.38,12.21">An analysis of the wear surface of the 40CrMnMo7 sample (Figure <ref type="figure" coords="12,402.82,412.68,8.89,12.21" target="#fig_8">7e</ref>) shows the presence of abrasive wear (bright areas) and delamination together with the adhesive transfer of wear products along the wear path (dark areas).</s><s coords="12,229.84,439.70,289.40,12.21;12,76.54,453.21,442.20,12.21;12,76.54,466.72,230.87,12.21">The wear surface of the tested X37CrMoV5-1 and X40CrMoV5-1 steel samples is similar (Figure <ref type="figure" coords="12,219.75,453.21,8.02,12.21" target="#fig_8">7f</ref>,g) with the exception of X37CrMoV5-1 where delamination can additionally be observed on the wear track surface.</s><s coords="12,311.14,466.72,207.60,12.21;12,76.54,480.23,230.30,12.21">The susceptibility to delamination of this steel grade can be explained by a relatively low hardness.</s><s coords="12,309.94,480.23,208.81,12.21;12,76.24,493.74,89.64,12.21">As a result, this material is prone to this kind of plastic deformation.</s><s coords="12,168.96,493.74,349.78,12.21;12,76.54,507.25,442.40,12.21;12,76.54,520.75,316.01,12.21">In addition, due to a high content of chromium and carbon, the microstructure of X40CrMoV5-1 contains a higher amount of hard phase <ref type="bibr" coords="12,340.26,507.25,15.42,12.21" target="#b51">[51]</ref>, which could lead to a higher wear resistance than that of the X37CrMoV5-1 sample in the ball-on-disc test.</s><s coords="12,395.64,520.75,123.59,12.21;12,76.54,534.26,442.21,12.21;12,76.54,547.77,442.41,12.21;12,76.54,561.28,58.77,12.21">In the case of X40CrMoV5-1 steel (Figure <ref type="figure" coords="12,133.74,534.26,8.28,12.21" target="#fig_8">7g</ref>,h), the wear process was intensified by the additional abrasive action of wear debris that moving freely between the sample and counterbody surfaces and were rammed into the wear track surface.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p><s coords="12,97.80,603.98,420.95,12.21;12,76.54,617.49,442.20,12.21;12,76.54,631.00,106.28,12.21">The knowledge of tribological characteristics and wear mechanisms of materials makes it possible to develop comprehensive criteria of their selection when designing products for tool steels in the manufacturing industry.</s><s coords="12,185.91,631.00,332.84,12.21;12,76.12,644.51,442.62,12.21;12,76.54,658.02,443.95,12.21">The main goal of this study was to investigate the differences in quantitative wear behaviors and wear mechanisms between the AlCrSiN-coated and bare steel K340 and the reference tool steels X155CrVMo12-1, X37CrMoV5-1, X40CrMoV5-1, 40CrMnMo7 and 90MnCrV8.</s><s coords="12,76.23,671.53,442.52,12.21;12,76.24,685.04,124.25,12.21">The results presented in this study may prove useful for manufacturing cold-working tools and prolonging their service life.</s></p><p><s coords="12,97.80,698.55,420.95,12.21;12,76.54,712.06,442.20,12.21;12,76.54,725.57,191.43,12.21">The results of the ball-on-disc test conducted under dry sliding conditions have confirmed that the PVD AlCrSiN coat deposited onto the nitrided surface of steel K340 reduces the wear of this steel grade and improves its sliding properties.</s><s coords="12,273.23,725.57,245.71,12.21;12,76.54,739.08,54.44,12.43;12,133.38,740.43,8.07,18.01;12,143.85,738.74,41.77,13.69;12,185.62,737.72,3.79,9.28;12,191.56,738.74,237.33,13.69">Therefore, the lowest COF of 0.53 and the wear factor of K = 5.68  10 7 mm 3 N 1 m 1 were reported for the PVD-coated sample.</s><s coords="12,434.73,739.08,84.21,12.21;12,76.54,752.59,443.45,12.21;13,76.54,88.45,193.11,12.21">The superior wear resistance of the K340/AlCrSiN sample results from its higher hardness than those reported for steels, leading to the dominance of abrasive wear.</s><s coords="13,273.13,88.45,245.61,12.21;13,76.54,101.96,442.20,12.21;13,76.54,115.47,140.17,12.21">Additionally, the nitride coating shows the presence of lateral microcracks, which is the symptom of simultaneously occurring fatigue-induced thin film spallation and material transfer.</s></p><p><s coords="13,97.80,128.98,421.94,12.21;13,76.54,142.49,442.21,12.21;13,75.93,156.00,161.11,12.21">Regarding the tool steel samples, the highest wear resistance (estimated by average wear rate K) is observed for the samples in the following order: K340 &gt; X40CrMoV5-1 &gt; 40CrMnMo7 &gt; 90MnCrV8 &gt; X155CrVMo12-1 &gt; X37CrMoV5-1.</s><s coords="13,240.33,156.00,278.41,12.21;13,76.54,169.51,41.32,12.21;13,119.92,170.86,8.07,18.01;13,130.05,169.17,51.76,13.69;13,183.88,170.86,8.07,18.01;13,194.01,169.17,40.68,13.69;13,234.69,168.15,3.79,9.28;13,240.64,169.17,42.44,13.69">Their COF ranges from 0.70 to 0.89 and the wear factor ranges from 1.68  10 5 to 3.67  10 5 mm 3 N 1 m 1 .</s><s coords="13,286.18,169.51,232.55,12.21;13,76.54,183.02,242.13,12.21">This is related to the presence of hard carbide phases embedded in the ferrous matrix in their microstructure.</s><s coords="13,321.76,183.02,196.98,12.21;13,76.54,196.53,123.76,12.21">This implies that the sliding wear behavior is abrasive-adhesive in nature.</s><s coords="13,203.38,196.53,315.56,12.21;13,76.54,210.04,443.45,12.21;13,76.54,223.55,442.41,12.21;13,76.54,237.06,150.64,12.21">Following microcutting, parallel abrasive grooves are visible on the wear track surface; it is also determined that the adhesive transfer of the material relies on two patterns: the first one is the delamination of the initial metallic material, while the other consists in the transfer and final smearing of wear debris.</s></p><p><s coords="13,97.80,250.57,420.94,12.21;13,76.54,264.08,442.21,12.21;13,76.24,277.59,48.46,12.21">Summing up, in comparison to the set of reference tool steels, the PVD-deposition of AlCrSiN onto K340 steel reduces the wear rate and coefficient of friction, consequently improving its sliding properties.</s><s coords="13,133.48,277.59,385.27,12.21;13,76.54,291.09,443.95,12.21">Contrary to the abrasive-adhesive behavior of tool steels, the wear mechanism of K340/AlCrSiN has the abrasive mode and, therefore, successfully decreases the material loss.</s><s coords="13,76.15,304.60,442.87,12.21;13,76.54,318.11,212.29,12.21">Application of AlCrSiN coating seems promising method for prolonging the service life of metalwork and cutting tools manufactured from K340 steel.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="7,97.80,256.89,399.57,11.15;7,76.54,87.89,216.68,162.51"><head>Figure 1 .</head><label>1</label><figDesc><div><p><s coords="7,97.80,256.96,35.37,11.08">Figure 1.</s><s coords="7,135.95,256.89,361.42,10.99">Microstructure of the tested K340 steel samples: (a) core-area; and (b) nitrided surface layer.</s></p></div></figDesc><graphic coords="7,76.54,87.89,216.68,162.51" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="7,140.19,585.23,314.89,11.15;7,167.19,383.06,260.90,195.68"><head>Figure 2 .</head><label>2</label><figDesc><div><p><s coords="7,140.19,585.23,314.89,11.15">Figure 2. Scanning electron microscopy (SEM) image of K340/AlCrSiN sample.</s></p></div></figDesc><graphic coords="7,167.19,383.06,260.90,195.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="8,97.80,370.53,399.68,11.15;8,97.80,383.35,75.69,10.99;8,127.56,194.67,340.14,169.37"><head>Figure 3 .</head><label>3</label><figDesc><div><p><s coords="8,97.80,370.53,399.68,11.15;8,97.80,383.35,75.69,10.99">Figure 3. X-ray diffraction (XRD) pattern of the K340 sample in as-received condition and after AlCrSiN coating deposition.</s></p></div></figDesc><graphic coords="8,127.56,194.67,340.14,169.37" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="9,106.35,451.72,382.58,11.15;9,156.78,257.27,254.78,191.22"><head>Figure 4 .</head><label>4</label><figDesc><div><p><s coords="9,106.35,451.72,382.58,11.15">Figure 4. Curves illustrating variations in friction coefficient vs. distance for the tested materials.</s></p></div></figDesc><graphic coords="9,156.78,257.27,254.78,191.22" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4" coords="9,112.23,454.33,343.93,10.03;9,155.91,232.60,283.43,212.62"><head>Figure 4 .</head><label>4</label><figDesc><div><p><s coords="9,112.23,454.33,343.93,10.03">Figure 4. Curves illustrating variations in friction coefficient vs. distance for the tested materials.</s></p></div></figDesc><graphic coords="9,155.91,232.60,283.43,212.62" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5" coords="9,104.54,676.81,359.31,10.06;9,104.54,688.33,61.72,9.88"><head>Figure 5 .</head><label>5</label><figDesc><div><p><s coords="9,104.54,676.81,359.31,10.06;9,104.54,688.33,61.72,9.88">Figure 5. Diagram illustrating the wear factor K: (a) for the tested materials and (b) as a function of surface hardness.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6" coords="9,97.80,676.68,399.68,11.19;9,97.80,689.50,68.65,10.99"><head>Figure 5 .</head><label>5</label><figDesc><div><p><s coords="9,97.80,676.68,399.68,11.19;9,97.80,689.50,68.65,10.99">Figure 5. Diagram illustrating the wear factor K: (a) for the tested materials; and (b) as a function of surface hardness.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7" coords="10,149.87,426.11,295.53,11.15;10,127.56,248.70,340.18,170.92"><head>Figure 6 .</head><label>6</label><figDesc><div><p><s coords="10,149.87,426.19,35.37,11.08">Figure 6.</s><s coords="10,188.03,426.11,257.38,10.99">Worn surface of the samples tested under dry friction conditions.</s></p></div></figDesc><graphic coords="10,127.56,248.70,340.18,170.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8" coords="11,97.80,708.14,400.80,11.15;11,97.50,720.96,329.67,10.99;11,141.29,551.69,149.95,149.95"><head>Figure 7 .</head><label>7</label><figDesc><div><p><s coords="11,97.80,708.14,400.80,11.15;11,97.50,720.96,329.67,10.99">Figure 7. SEM microphotographs of the worn surfaces of: (a) K340/AlCrSiN; (b) K340; (c) 90MnCrV8; (d) X155CrVMo12-1; (e) 40CrMnMo7; (f) X37CrMoV5-1; (g); and X40CrMoV5-1 (h).</s></p></div></figDesc><graphic coords="11,141.29,551.69,149.95,149.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="4,133.05,235.71,328.88,360.42"><head>Table 1 .</head><label>1</label><figDesc><div><p><s coords="4,167.22,235.71,294.72,10.99">Technological parameters of heat treatment of the K340/AlCrSiN samples.</s></p></div></figDesc><table coords="4,133.71,256.36,325.76,326.58"><row><cell cols="2">Stage Chronologically</cell><cell>Time, min</cell><cell cols="3">Stage Temperature,  C at the Beginning Continuous at the End</cell></row><row><cell>Austenitization</cell><cell>preheating soaking reheating soaking reheating soaking</cell><cell>210 180 60 180 45 90</cell><cell>ambient 700 870</cell><cell>700 870 1030</cell><cell>700 870 1030</cell></row><row><cell></cell><cell>N 2 quenching</cell><cell></cell><cell>1030</cell><cell></cell><cell>ambient</cell></row><row><cell>Tempering</cell><cell>preheating tempering I air cooling preheating tempering II air cooling preheating tempering III air cooling preheating tempering IV air cooling</cell><cell>120 240 120 210 120 210 120 240</cell><cell>ambient 505 ambient 505 ambient 505 ambient 510</cell><cell>505 505 505 510</cell><cell>505 ambient 505 ambient 505 ambient 510 ambient</cell></row><row><cell>Nitriding</cell><cell>preheating soaking reheating nitriding air cooling</cell><cell>30 240 30 2400</cell><cell>ambient 450 540</cell><cell>450 540</cell><cell>450 540 ambient</cell></row><row><cell></cell><cell>PVD 1</cell><cell>300</cell><cell></cell><cell>445</cell><cell></cell></row></table><note><p><s coords="4,248.09,585.34,99.10,10.79">1 Physical vapor deposition.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="5,101.94,222.20,391.39,143.15"><head>Table 2 .</head><label>2</label><figDesc><div><p><s coords="5,154.77,222.20,319.60,10.99">Chemical composition of the tested K340 steel and the set of reference tool steels.</s></p></div></figDesc><table coords="5,101.94,243.36,391.39,108.81"><row><cell>Steel Grade</cell><cell>C</cell><cell>Si</cell><cell>Content of Element (Fe-Balance), wt. % Mn Cr Mo Ni V W</cell><cell>S</cell><cell>P</cell></row><row><cell cols="6">X155CrVMo12-1 1.525 0.350 0.400 12.000 1.000 K340 1.100 0.900 0.400 8.300 2.100 K340 1 1.111 0.767 0.406 8.297 1.961 0.329 0.530 0.071 0.002 0.021 0.850 0.030 0.030 0.500 X40CrMoV5-1 0.385 1.000 0.375 5.150 1.350 1.000 0.030 0.020 X37CrMoV5-1 0.370 1.000 0.375 5.150 1.300 0.400 0.030 0.020 40CrMnMo7 0.400 0.300 1.450 1.950 0.200 0.030 0.030 90MnCrV8 0.900 0.250 2.000 0.350 0.125 0.030 0.030</cell></row></table><note><p><s coords="5,237.43,354.57,120.42,10.79">1Results of spectrometer analysis.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="5,180.09,629.22,235.10,64.44"><head>Table 3 .</head><label>3</label><figDesc><div><p><s coords="5,252.38,629.22,124.39,10.99">Parameters of tribological tests.</s></p></div></figDesc><table coords="5,180.09,650.37,235.10,43.29"><row><cell cols="4">Parameter Load Linear Speed Rotational Diameter</cell></row><row><cell>Unit</cell><cell>N</cell><cell>cm s 1</cell><cell>mm</cell></row><row><cell>Value</cell><cell>10</cell><cell>10</cell><cell>6</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="6,87.74,400.99,419.79,142.95"><head>Table 4 .</head><label>4</label><figDesc><div><p><s coords="6,167.19,400.99,294.76,10.99">Treatment parameters and overall surface hardness of the tested materials.</s></p></div></figDesc><table coords="6,87.74,421.64,419.79,109.11"><row><cell>Steel Grade</cell><cell>Work</cell><cell cols="7">Processing Temperature,  C Austenitizing Tempering PVD HRC SD 1 , HRC HV SD 1 , HV Hardness</cell></row><row><cell>K340/AlCrSiN K340 90MnCrV8 X155CrVMo12-1 X40CrMoV5-1 X37CrMoV5-1 40CrMnMo7</cell><cell>cold cold cold cold hot hot cold</cell><cell>1030 1030 800 1020 1000 1020 800</cell><cell>505510 505510 270 270 300 270 270</cell><cell>445</cell><cell>62.0 58.8 57.0 53.5 51.3 50.3</cell><cell>1.2 0.6 0.2 0.9 0.9 0.8</cell><cell>1314 747 669 631 569 533 518</cell><cell>92 25 12 5 14 15 12</cell></row></table><note><p><s coords="6,260.14,533.16,75.00,10.79">1Standard deviation.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4" coords="7,160.77,604.29,273.45,96.67"><head>Table 5 .</head><label>5</label><figDesc><div><p><s coords="7,194.93,604.29,239.29,10.99">Average contents of elements in the analyzed AlCrSiN layer.</s></p></div></figDesc><table coords="7,161.17,625.45,255.62,75.52"><row><cell>Symbol</cell><cell></cell><cell cols="2">Concentration</cell><cell></cell></row><row><cell>N Al Cr Si</cell><cell>57.0 23.2 17.3 2.6</cell><cell>4.0 1.3 4.1 0.1</cell><cell>33.4 26.1 37.4 3.0</cell><cell>2.3 1.5 8.8 0.2</cell></row></table><note><p><s coords="7,205.01,641.21,44.08,11.08">Atomic, at.</s><s coords="7,251.86,641.21,47.06,11.08">% SD, at.</s><s coords="7,301.71,641.21,66.33,11.08">% Weight, wt.</s><s coords="7,370.82,641.21,50.05,11.08">% SD, wt.</s><s coords="7,423.65,641.21,7.97,11.08">%</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5" coords="8,138.41,624.28,318.45,113.79"><head>Table 6 .</head><label>6</label><figDesc><div><p><s coords="8,232.18,624.28,164.79,10.99">Friction coefficients of the tested samples.</s></p></div></figDesc><table coords="8,138.41,645.43,318.45,92.63"><row><cell>Sample Steel</cell><cell cols="3">Work Average Friction Coefficient Standard Deviation</cell></row><row><cell>X37CrMoV5-1 X155CrVMo12-1 X40CrMoV5-1 K340 40CrMnMo7 90MnCrV8 K340/AlCrSiN</cell><cell>hot cold hot cold cold cold cold</cell><cell>0.89 0.88 0.81 0.74 0.71 0.70 0.53</cell><cell>0.06 0.07 0.06 0.09 0.04 0.05 0.05</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6" coords="10,150.28,528.22,294.43,113.79"><head>Table 7 .</head><label>7</label><figDesc><div><p><s coords="10,184.44,528.22,260.27,10.99">Comparison of wear trace depths obtained for the tested samples.</s></p></div></figDesc><table coords="10,156.88,549.37,279.02,92.63"><row><cell>Sample</cell><cell cols="2">Wear Trace Depth, m Standard Deviation, m</cell></row><row><cell>K340/AlCrSiN K340 90MnCrV8 X40CrMoV5-1 X37CrMoV5-1 40CrMnMo7 X155CrMoV12-1</cell><cell>1.64 16.02 20.94 21.07 21.54 27.42 29.34</cell><cell>0.38 2.70 1.79 1.86 0.83 1.39 3.01</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="13,76.19,341.14,442.55,11.15;13,76.54,351.27,443.33,10.99;13,76.54,361.40,443.33,10.99;13,76.28,371.54,375.72,10.99">Author Contributions: Conceptualization, M.W. and K.D.; methodology, M.W. and K.D; software, K.D. and M.W; validation, M.W., K.D. and M.S.; formal analysis, K.D.; investigation, M.W., K.D., K.G. and M.S.; resources, M.W.; data curation, K.D.; writing-original draft preparation, K.D.; writing-review and editing, M.W. and M.S.; visualization, M.S.; supervision, K.D.; project administration, K.D.; and funding acquisition, K.D.</s><s coords="13,454.15,371.54,64.59,10.99;13,76.54,381.67,237.19,10.99">All authors have read and agreed to the published version of the manuscript.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding:</head><p><s coords="13,116.60,397.78,403.48,10.99;13,76.54,407.91,442.20,10.99;13,76.54,418.04,92.07,10.99">The project/research was financed in the framework of the project Lublin University of Technology-Regional Excellence Initiative, funded by the Polish Ministry of Science and Higher Education (contract No. 030/RID/2018/19).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p><s coords="13,163.74,434.15,171.30,10.99">The authors declare no conflict of interest.</s><s coords="13,338.94,434.15,179.80,10.99;13,76.54,444.28,442.21,10.99;13,76.27,454.42,75.37,10.99">The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="13,94.07,499.61,424.67,10.99;13,94.07,512.52,198.20,11.19" xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Properties of tool steels and their importance when used in a coated system</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Podgornik</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Sedlaek</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>uek</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Gutin</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/coatings10030265</idno>
+		<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,94.07,525.43,424.68,10.99;13,94.07,538.34,287.78,11.19" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Investigations of Anti-Wear Coatings in Terms of Their Applicability to Tools in the FSW Process</title>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Wieckowski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Wieczorek</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Lacki</surname></persName>
+		</author>
+		<idno type="DOI">10.12693/aphyspola.135.177</idno>
+		<ptr type="open-access" target="https://doi.org/10.12693/aphyspola.135.177" />
+	</analytic>
+	<monogr>
+		<title level="j">Acta Physica Polonica A</title>
+		<title level="j" type="abbrev">Acta Phys. Pol. A</title>
+		<idno type="ISSN">1898-794X</idno>
+		<idno type="ISSNe">0587-4246</idno>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="177" to="182" />
+			<date type="published" when="2019-02" />
+			<publisher>Institute of Physics, Polish Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,94.07,551.25,426.24,10.99;13,93.79,564.16,426.52,11.19;13,94.07,577.08,83.73,10.99" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The critical raw materials in cutting tools for machining applications: A review</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Rizzo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Goel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">L</forename><surname>Grilli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Iglesias</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Jaworska</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Lapkovskis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Novak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">O</forename><surname>Postolnyi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Valerini</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ma13061377</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="1377" />
+		</imprint>
+	</monogr>
+	<note>PubMed</note>
+</biblStruct>
+
+<biblStruct coords="13,94.07,589.99,424.68,11.19;13,93.79,602.90,164.96,11.19" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">NEW COMPOSITIONS OF TOOL STEELS FOR COLD AND HOT FORMING AND THEIR HARDENING CAPABILITIES</title>
+		<author>
+			<persName coords=""><forename type="first">V</forename><forename type="middle">N</forename><surname>Fedulov</surname></persName>
+		</author>
+		<idno type="DOI">10.21122/1683-6065-2018-2-119-123</idno>
+		<ptr type="open-access" target="https://lim.bntu.by/jour/article/download/2232/2209" />
+	</analytic>
+	<monogr>
+		<title level="j">Litiyo i Metallurgiya (FOUNDRY PRODUCTION AND METALLURGY)</title>
+		<title level="j" type="abbrev">Lit metall.</title>
+		<idno type="ISSN">1683-6065</idno>
+		<idno type="ISSNe">2414-0406</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="119" to="123" />
+			<date type="published" when="2018-07-07" />
+			<publisher>Belarusian National Technical University</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,94.07,615.81,425.80,11.19;13,94.07,628.72,95.37,10.99" xml:id="b4">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">A</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Krauss</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Steels</surname></persName>
+		</author>
+		<title level="m">ASM International: Materials Park</title>
+				<meeting><address><addrLine>OH, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+	<note>5th ed.</note>
+</biblStruct>
+
+<biblStruct coords="13,94.07,641.63,424.67,12.11;13,93.72,654.55,330.99,11.19" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Wear and friction behavior of TiB 2 thin-film coated AISI52100 steels under the lubricated condition</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>zkan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">A</forename><surname>Yilmaz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">A</forename><surname>Bakdemir</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Sulukan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10402004.2020.1784497</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribol. Trans</title>
+		<imprint>
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,94.07,667.46,424.68,10.99;13,94.07,680.37,426.25,10.99;13,93.74,693.28,185.27,11.19" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Properties of new-generation hybrid layers combining hardfacing and nitriding dedicated to improvement in forging tools&apos; durability</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kaszuba</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Widomski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Biaucki</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Lange</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Boryczko</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Walczak</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s43452-020-00080-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Civ. Mech. Eng</title>
+		<imprint>
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,94.07,706.19,424.67,10.99;13,94.07,719.10,219.15,11.19" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Towards hard yet self-lubricious CrAlSiN coatings</title>
+		<author>
+			<persName><forename type="first">Yuexiu</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jyh-Wei</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bo</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuxi</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dongliang</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Deen</forename><surname>Sun</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jallcom.2014.08.132</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Alloys and Compounds</title>
+		<title level="j" type="abbrev">Journal of Alloys and Compounds</title>
+		<idno type="ISSN">0925-8388</idno>
+		<imprint>
+			<biblScope unit="volume">618</biblScope>
+			<biblScope unit="page" from="132" to="138" />
+			<date type="published" when="2015-01" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,94.07,732.01,426.24,10.99;13,94.07,744.93,179.30,11.19" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effect of element contents on friction and wear behaviors of ternary nitride coatings</title>
+		<author>
+			<persName><forename type="first">Pei</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xibin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Jiao</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/ilt-07-2015-0099</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Industrial Lubrication and Tribology</title>
+		<title level="j" type="abbrev">Ind Lubrication and Tribology</title>
+		<idno type="ISSN">0036-8792</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="696" to="701" />
+			<date type="published" when="2016-09-12" />
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,89.39,424.67,10.99;14,94.07,102.30,329.13,11.19" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Characteristics of PVD-CrAlSiN films after post-coat heat treatments in nitrogen atmosphere</title>
+		<author>
+			<persName><forename type="first">Wei-Yu</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cheng-Hsun</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chi-Wei</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Da-Yung</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2010.11.137</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="3770" to="3775" />
+			<date type="published" when="2011-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,115.22,424.67,10.99;14,93.80,128.13,206.90,11.19" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Wear Resistance Improvement of Cold Work Tool Steel by Fine Shot Peening</title>
+		<author>
+			<persName><forename type="first">Varunee</forename><surname>Premanond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ratchanee</forename><surname>Hato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiraporn</forename><surname>Sripraserd</surname></persName>
+		</author>
+		<idno type="DOI">10.4028/www.scientific.net/msf.939.3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials Science Forum</title>
+		<title level="j" type="abbrev">MSF</title>
+		<idno type="ISSNe">1662-9752</idno>
+		<imprint>
+			<biblScope unit="volume">939</biblScope>
+			<biblScope unit="page" from="3" to="8" />
+			<date type="published" when="2018-11" />
+			<publisher>Trans Tech Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,141.04,424.67,10.99;14,94.07,153.95,361.71,11.19" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Friction and wear properties of TiN, TiAlN, AlTiN and CrAlN PVD nitride coatings</title>
+		<author>
+			<persName><forename type="first">Liu</forename><surname>Aihua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Deng</forename><surname>Jianxin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cui</forename><surname>Haibing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chen</forename><surname>Yangyang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhao</forename><surname>Jun</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijrmhm.2011.09.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Refractory Metals and Hard Materials</title>
+		<title level="j" type="abbrev">International Journal of Refractory Metals and Hard Materials</title>
+		<idno type="ISSN">0263-4368</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="82" to="88" />
+			<date type="published" when="2012-03" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,166.86,424.68,10.99;14,94.07,179.77,289.04,11.19" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Friction and tribological behavior of bare nitrided, TiAlN and AlCrN coated MDC-K hot work tool steel</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">R</forename><surname>Maity</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Patnaik</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ceramint.2020.04.015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ceram. Int</title>
+		<imprint>
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page" from="17280" to="17294" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,192.69,424.68,10.99;14,94.07,205.60,426.25,11.19;14,94.07,218.51,41.48,10.99" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Tribological behavior of duplex-coating on Vanadis 10 cold work tool steel</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">F</forename><surname>Zappelino</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">A S</forename><surname>De Almeida</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">P</forename><surname>Krelling</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">E</forename><surname>Da Costa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">C</forename><surname>Fontana</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">C G</forename><surname>Milan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2019.203133</idno>
+		<idno>203133:1-203133:15</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<imprint>
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page" from="442" to="443" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,231.42,426.24,10.99;14,93.64,244.33,202.48,11.19" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Dry friction and wear properties of several hard coating combinations</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Qu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2020.203352</idno>
+		<idno>203352:1-203352:15</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<imprint>
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page" from="456" to="457" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,257.24,424.67,10.99;14,94.07,270.16,255.77,11.19" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">CrAlSiN nanocomposite thin films for high-speed machining applications</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Puneet</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Valleti</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">V</forename><surname>Gopal</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">V</forename><surname>Joshi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10426914.2017.1303157</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Manuf. Process</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="371" to="377" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,283.07,424.68,10.99;14,94.07,295.98,377.04,11.19" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Design of AlCrSiN multilayers and nanocomposite coating for HSS cutting tools</title>
+		<author>
+			<persName><forename type="first">Weiwei</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wanglin</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shubao</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yue</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shihong</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tong-Yul</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sik-Chol</forename><surname>Kwon</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2015.05.191</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="803" to="810" />
+			<date type="published" when="2015-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,308.89,424.67,10.99;14,94.07,321.80,321.85,11.19" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Gradient architecture of Si containing layer and improved cutting performance of AlCrSiN coated tools</title>
+		<author>
+			<persName><forename type="first">Fei</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ying</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shihong</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lin</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qimin</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2019.02.021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">424-425</biblScope>
+			<biblScope unit="page" from="193" to="202" />
+			<date type="published" when="2019-04" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,334.71,424.68,10.99;14,94.07,347.62,242.17,11.19" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Interfacial structure, mechanical properties and thermal stability of CrAlSiN/CrAlN multilayer coatings</title>
+		<author>
+			<persName><forename type="first">Linqing</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuxiang</forename><surname>Xu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.matchar.2017.01.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials Characterization</title>
+		<title level="j" type="abbrev">Materials Characterization</title>
+		<idno type="ISSN">1044-5803</idno>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2017-03" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,360.54,424.67,10.99;14,94.07,373.45,424.68,11.19" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Development of Si-modified CrAlSiN nanocomposite coating for anti-wear application in extreme environment</title>
+		<author>
+			<persName><forename type="first">Chun-Chi</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hsien-Wei</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jyh-Wei</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jenq-Gong</forename><surname>Duh</surname></persName>
+			<idno type="ORCID">0000-0001-6558-3620</idno>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2015.06.090</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page" from="273" to="280" />
+			<date type="published" when="2015-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,386.36,424.67,10.99;14,94.07,399.27,426.24,11.19;14,94.07,412.18,41.48,10.99" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Influence of Al and Si content on structure and mechanical properties of arc evaporated AlCrSiN thin films</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Tritremmel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Lechthaler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Polcik</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Mitterer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tsf.2013.03.017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Thin Solid Films</title>
+		<title level="j" type="abbrev">Thin Solid Films</title>
+		<idno type="ISSN">0040-6090</idno>
+		<imprint>
+			<biblScope unit="volume">534</biblScope>
+			<biblScope unit="page" from="403" to="409" />
+			<date type="published" when="2013-05" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,425.09,424.67,10.99;14,94.07,438.01,348.16,11.19" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Comparison of Cutting Performance of Router with CrAlSiN and DLC Hard Coatings</title>
+		<author>
+			<persName><forename type="first">Yi</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jin-Shi</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiao-Yin</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wei-Yu</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wei</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.18178/ijmmm.2019.7.3.444</idno>
+		<ptr type="open-access" target="http://www.ijmmm.org/vol7/444-N0002.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Materials, Mechanics and Manufacturing</title>
+		<title level="j" type="abbrev">IJMMM</title>
+		<idno type="ISSN">1793-8198</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="124" to="127" />
+			<date type="published" when="2019-06" />
+			<publisher>EJournal Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,450.92,426.25,10.99;14,94.07,463.83,173.47,11.19" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Microstructures and properties of high-entropy alloy films and coatings: a review</title>
+		<author>
+			<persName><forename type="first">Wei</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ping</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">K</forename><surname>Liaw</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/21663831.2018.1434248</idno>
+		<ptr type="open-access" target="https://www.tandfonline.com/doi/pdf/10.1080/21663831.2018.1434248?needAccess=true" />
+	</analytic>
+	<monogr>
+		<title level="j">Materials Research Letters</title>
+		<title level="j" type="abbrev">Materials Research Letters</title>
+		<idno type="ISSNe">2166-3831</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="199" to="229" />
+			<date type="published" when="2018-02-20" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,476.29,424.67,11.44;14,94.07,489.65,425.80,11.19;14,93.62,502.56,73.40,11.19" xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Experimental study of the influence of deposition of multilayer CrN/CrCN PVD coating on austenitic steel on resistance to cavitation erosion</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">K</forename><surname>Krella</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Czy niewski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Gilewicz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Gajowiec</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/coatings10050487</idno>
+		<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">487</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,515.48,424.68,10.99;14,93.80,528.39,393.35,11.19" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Influence of Ni-addition on mechanical, tribological properties and oxidation resistance of AlCrSiN coatings</title>
+		<author>
+			<persName><forename type="first">Zhe</forename><forename type="middle">R</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bin</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yu</forename><forename type="middle">X</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quan</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qimin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ceramint.2018.11.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ceramics International</title>
+		<title level="j" type="abbrev">Ceramics International</title>
+		<idno type="ISSN">0272-8842</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="3735" to="3742" />
+			<date type="published" when="2019-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,541.30,424.67,10.99;14,94.07,554.21,361.43,11.19" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">High temperature scratch testing of hard PVD coatings deposited on surface treated tool steel.</title>
+		<author>
+			<persName><forename type="first">Jaume</forename><surname>Pujante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Montserrat</forename><surname>Vilaseca</surname></persName>
+			<idno type="ORCID">0000-0003-0472-0497</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Casellas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Dolors</forename><surname>Riera</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2014.06.040</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="352" to="357" />
+			<date type="published" when="2014-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.06,567.12,424.68,10.99;14,93.72,580.03,370.01,11.19" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Cavitation Erosion and Sliding Wear Mechanisms of AlTiN and TiAlN Films Deposited on Stainless Steel Substrate</title>
+		<author>
+			<persName><forename type="first">Mirosaw</forename><surname>Szala</surname></persName>
+			<idno type="ORCID">0000-0003-1059-8854</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Mariusz</forename><surname>Walczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kamil</forename><surname>Pasierbiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mariusz</forename><surname>Kamiski</surname></persName>
+			<idno type="ORCID">0000-0003-2728-3031</idno>
+		</author>
+		<idno type="DOI">10.3390/coatings9050340</idno>
+		<ptr type="open-access" target="https://www.mdpi.com/2079-6412/9/5/340/pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Coatings</title>
+		<title level="j" type="abbrev">Coatings</title>
+		<idno type="ISSNe">2079-6412</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">340</biblScope>
+			<date type="published" when="2019-05-25" />
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,592.95,424.67,10.99;14,94.07,605.86,209.87,11.19" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Improved mechanical and thermal properties of CrAlN coatings by Si solid solution</title>
+		<author>
+			<persName><forename type="first">Chang</forename><forename type="middle">B</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wang</forename><surname>Pei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Feng</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.vacuum.2015.12.024</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Vacuum</title>
+		<title level="j" type="abbrev">Vacuum</title>
+		<idno type="ISSN">0042-207X</idno>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="180" to="184" />
+			<date type="published" when="2016-03" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,618.77,424.67,10.99;14,94.07,631.68,407.37,11.19" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Structure and tribological performances of CrAlSiN coatings with different Si percentages in seawater</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">Q</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">W</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">Q</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">P</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2017.06.038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="591" to="599" />
+			<date type="published" when="2017-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,644.59,424.67,10.99;14,94.07,657.50,316.59,11.19" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effect of Annealing Temperature on Tribological Properties and Material Transfer Phenomena of CrN and CrAlN Coatings</title>
+		<author>
+			<persName><forename type="first">Linlin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">X</forename><surname>Nie</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11665-013-0748-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Materials Engineering and Performance</title>
+		<title level="j" type="abbrev">J. of Materi Eng and Perform</title>
+		<idno type="ISSN">1059-9495</idno>
+		<idno type="ISSNe">1544-1024</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="560" to="571" />
+			<date type="published" when="2013-10-19" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,670.42,426.25,10.99;14,94.07,683.33,426.24,10.99;14,93.81,696.24,193.74,11.19" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Correlating high temperature mechanical and tribological properties of CrAlN and CrAlSiN hard coatings</title>
+		<author>
+			<persName><forename type="first">Alja</forename><surname>Drnovek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marisa</forename><surname>Rebelo De Figueiredo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hi</forename><surname>Vo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ao</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shraddha</forename><forename type="middle">J</forename><surname>Vachhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Szilard</forename><surname>Kolozsvri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Hosemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Franz</surname></persName>
+			<idno type="ORCID">0000-0003-4842-7276</idno>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2019.05.044</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="361" to="368" />
+			<date type="published" when="2019-08" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,709.15,426.24,10.99;14,93.79,722.06,207.67,11.19" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Tribological Performance of CrAlSiN Coatings at High Temperatures</title>
+		<author>
+			<persName><forename type="first">Tomas</forename><surname>Polcar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tomas</forename><surname>Vitu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jozef</forename><surname>Sondor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Albano</forename><surname>Cavaleiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ppap.200932307</idno>
+		<idno type="ark">ark:/67375/WNG-0CLPCPC7-0</idno>
+		<idno type="istexId">6B75199A517E0689B6A756670D6083D554DCFD7E</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Plasma Processes and Polymers</title>
+		<title level="j" type="abbrev">Plasma Processes Polym.</title>
+		<idno type="ISSN">1612-8850</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">S1</biblScope>
+			<biblScope unit="page" from="S935" to="S940" />
+			<date type="published" when="2009-06" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,94.07,734.97,424.68,10.99;14,94.07,747.88,254.08,11.19" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">High temperature properties of CrAlN, CrAlSiN and AlCrSiN coatings  Structure and oxidation</title>
+		<author>
+			<persName><forename type="first">Tomas</forename><surname>Polcar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Albano</forename><surname>Cavaleiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.matchemphys.2011.03.078</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials Chemistry and Physics</title>
+		<title level="j" type="abbrev">Materials Chemistry and Physics</title>
+		<idno type="ISSN">0254-0584</idno>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="195" to="201" />
+			<date type="published" when="2011-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,89.39,426.25,10.99;15,94.07,102.30,424.67,10.99;15,93.62,115.22,52.60,10.99" xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Cold Work Tool Steel</title>
+		<author>
+			<persName coords=""><forename type="first">Voestalpine</forename><surname>Bohler Edelstahl Gmbh</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">&amp;</forename><surname>Co</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">G</forename></persName>
+		</author>
+		<ptr target="http://www.bohler-edelstahl.com/app/uploads/sites/92/2020/07/productdb/api/k340en_isodur.pdf" />
+		<imprint>
+			<date type="published" when="2020-07" />
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,128.13,424.67,11.19;15,94.07,141.04,243.81,10.99" xml:id="b34">
+	<analytic>
+		<title/>
+		<idno>PN-EN ISO 6506-1:2014-12</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Test Method; International Organization for Standardization</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>Metallic Materials-Brinell Hardness Test-Part</note>
+</biblStruct>
+
+<biblStruct coords="15,94.07,153.95,424.68,11.19;15,94.07,166.86,243.81,10.99" xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Metallic Materials-Rockwell Hardness Test-Part 1: Test Method; International Organization for Standardization</title>
+		<idno>PN-EN ISO 6508-1:2016-10</idno>
+		<imprint>
+			<date type="published" when="2016" />
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,179.77,425.80,11.19;15,94.07,192.69,297.49,10.99" xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Metallic and Other Inorganic Coatings-Vickers and Knopp Microhardness Tests; International Organization for Standardization</title>
+		<idno>PN-EN ISO 4516-1:2004</idno>
+		<imprint>
+			<date type="published" when="2004" />
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,205.60,424.85,11.19;15,94.07,218.51,397.15,10.99" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Metallic Materials-Conversion of Hardness Values; International Organization for Standardization</title>
+		<idno>PN-EN ISO 18265:2014-02</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BIBC II, Chemin de Blandonnet</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="1214" />
+		</imprint>
+	</monogr>
+	<note>CP</note>
+</biblStruct>
+
+<biblStruct coords="15,94.07,231.42,424.68,10.99;15,94.07,244.33,426.25,11.19;15,94.07,257.24,41.48,10.99" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Adhesion and mechanical properties of TiAlN and AlTiN magnetron sputtered coatings deposited on the DMSL titanium alloy substrate</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Walczak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Pasierbiewicz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Szala</surname></persName>
+		</author>
+		<idno type="DOI">10.12693/APhysPolA.136.294</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Phys. Pol. A</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="294" to="298" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,270.16,426.25,10.99;15,93.81,283.07,202.70,11.19" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">High-temperature tribological properties of CrAlN, CrAlSiN and AlCrSiN coatings</title>
+		<author>
+			<persName><forename type="first">Tomas</forename><surname>Polcar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Albano</forename><surname>Cavaleiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2011.08.037</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">206</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1244" to="1251" />
+			<date type="published" when="2011-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,295.98,425.79,10.99;15,94.07,308.89,398.27,11.19" xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Tribological Behavior of TiAlN, AlTiN, and AlCrN Coatings at Boundary Lubricating Condition</title>
+		<author>
+			<persName><forename type="first">Dou</forename><surname>zkan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yaman</forename><surname>Erarslan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Egemen</forename><surname>Sulukan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Levent</forename><surname>Kara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alper Ylmaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Bar</forename><surname>Yac</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11249-018-1111-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Letters</title>
+		<title level="j" type="abbrev">Tribol Lett</title>
+		<idno type="ISSN">1023-8883</idno>
+		<idno type="ISSNe">1573-2711</idno>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="152" />
+			<date type="published" when="2018-11-02" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,321.80,351.61,11.19" xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Hashmi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">F</forename><surname>Batalha</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">J</forename><surname>Van Tyne</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Yilbas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comprehensive Materials Processing</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,449.06,321.80,70.81,10.99;15,94.07,334.71,168.65,10.99" xml:id="b42">
+	<monogr>
+		<title/>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Elsevier</publisher>
+			<pubPlace>Newnes; Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,347.62,424.67,10.99;15,93.72,360.54,285.01,11.19" xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Effect of Plasma Nitriding Pretreatment on the Mechanical Properties of AlCrSiN-Coated Tool Steels</title>
+		<author>
+			<persName><forename type="first">Yin-Yu</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Siddhant</forename><surname>Amrutwar</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ma12050795</idno>
+		<ptr type="open-access" target="https://www.mdpi.com/1996-1944/12/5/795/pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Materials</title>
+		<title level="j" type="abbrev">Materials</title>
+		<idno type="ISSNe">1996-1944</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">795</biblScope>
+			<date type="published" when="2019-03-07" />
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+	<note>PubMed</note>
+</biblStruct>
+
+<biblStruct coords="15,94.07,373.45,424.86,10.99;15,94.07,386.36,299.99,11.19" xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Pre-, intermediate, and post-treatment of hard coatings to improve their performance for forming and cutting tools</title>
+		<author>
+			<persName coords=""><forename type="first">Saleh</forename><forename type="middle">B</forename><surname>Abusuilik</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2015.07.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page" from="384" to="395" />
+			<date type="published" when="2015-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,399.27,424.67,10.99;15,93.80,412.18,405.65,11.19" xml:id="b45">
+	<analytic>
+		<title level="a" type="main">A superhard CrAlSiN superlattice coating deposited by multi-arc ion plating: I. Microstructure and mechanical properties</title>
+		<author>
+			<persName><forename type="first">Shihong</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lei</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qimin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mingxi</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2012.05.144</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">214</biblScope>
+			<biblScope unit="page" from="160" to="167" />
+			<date type="published" when="2013-01" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,425.09,424.67,10.99;15,94.07,438.01,426.25,11.19;15,94.07,450.92,41.48,10.99" xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Effect of annealing time and temperature parameters on the microstructure, hardness, and strain-hardening coefficients of 42CrMo4 steel</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Szala</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Winiarski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first"></forename><surname>Wjcik</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Bulzak</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ma13092022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,463.83,424.85,10.99;15,94.07,476.74,426.24,12.11;15,94.07,489.65,122.96,11.19" xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Comparative study on the cavitation erosion and sliding wear of cold-sprayed Al/Al 2 O 3 and Cu/Al 2 O 3 coatings, and stainless steel, aluminium alloy, copper and brass</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Szala</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>atka</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Walczak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Winnicki</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/met10070856</idno>
+		<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,502.56,424.67,10.99;15,94.07,515.48,352.18,11.19" xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Investigation of the surface properties and wear properties of AISI H11 steel treated by auxiliary heating plasma nitriding</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Z</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">X</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Z</forename><surname>Yan</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/coatings10060528</idno>
+		<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,94.07,528.39,424.67,10.99;15,93.69,541.30,171.18,12.21" xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Wear behaviour of high strength tool steel 90MnCrV8 in contact</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Krbata</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Eckert</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Majerik</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Barenyi</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/met10060756</idno>
+		<imprint/>
+	</monogr>
+	<note>with Si 3 N 4 . Metals 2020, 10, 756. [CrossRef</note>
+</biblStruct>
+
+<biblStruct coords="15,94.07,554.21,424.67,10.99;15,94.07,567.12,424.68,10.99;15,93.77,580.03,178.01,11.19" xml:id="b50">
+	<analytic>
+		<title level="a" type="main">The influence of structure on the results of the nitriding of ledeburitic chromium steels. Part VI. Ion nitriding of NC11LV steel burnishing after hardening on martensitic structure</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Berkowski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Borowski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Z</forename><surname>Rybak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obrbka Plast. Met</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3" to="14" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>in Polish</note>
+</biblStruct>
+
+<biblStruct coords="15,94.07,592.95,424.67,10.99;15,94.07,605.86,425.80,11.19;15,93.79,618.77,182.73,11.19" xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Comparison of the thermal fatigue resistance and structure of the 47CrMoWVTiCeZr16-26-8 hot-work tool steel with X40CrMoV5-1 type one</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Dobrzaski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Mazurkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Hajduczek</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Madejski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0924-0136(01)00721-x</idno>
+		<idno type="PII">S0924-0136(01)00721-X</idno>
+		<idno type="ark">ark:/67375/6H6-3L8Q1MZ7-6</idno>
+		<idno type="istexId">7DE2912891C0345E35727E3021EC64F20E189384</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Materials Processing Technology</title>
+		<title level="j" type="abbrev">Journal of Materials Processing Technology</title>
+		<idno type="ISSN">0924-0136</idno>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">1-3</biblScope>
+			<biblScope unit="page" from="527" to="538" />
+			<date type="published" when="2001-06" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,76.54,640.86,442.21,11.15;15,76.54,650.99,44.12,10.99" xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Publisher&apos;s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

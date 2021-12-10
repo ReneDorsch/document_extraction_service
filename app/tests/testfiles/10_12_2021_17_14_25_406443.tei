@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evaluation of Tribological Properties and Condition of Ti6Al4V Titanium Alloy Surface</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Mechanical Engineering Faculty in Slavonski Brod</publisher>
+				<availability status="unknown"><p>Copyright Mechanical Engineering Faculty in Slavonski Brod</p>
+				</availability>
+				<date type="published" when="2018-05">2018-05</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,264.12,141.51,52.88,10.25"><forename type="first">Jerzy</forename><surname>Jozwik</surname></persName>
+						</author>
+						<title level="a" type="main">Evaluation of Tribological Properties and Condition of Ti6Al4V Titanium Alloy Surface</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Tehnicki vjesnik - Technical Gazette</title>
+						<title level="j" type="abbrev">Teh. vjesn.</title>
+						<idno type="ISSN">1330-3651</idno>
+						<idno type="eISSN">1848-6339</idno>
+						<imprint>
+							<publisher>Mechanical Engineering Faculty in Slavonski Brod</publisher>
+							<biblScope unit="volume">25</biblScope>
+							<biblScope unit="issue">Supplement 1</biblScope>
+							<date type="published" when="2018-05" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">FFDB9195978FAC2B859414A334FDA482</idno>
+					<idno type="DOI">10.17559/tv-20160521145125</idno>
+					<ptr type="open-access" target="https://hrcak.srce.hr/file/295392" />
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0" ident="GROBID" when="2021-10-12T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>friction coefficient</term>
+					<term>surface topography</term>
+					<term>titanium alloys</term>
+					<term>wear rate</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,73.26,168.53,324.36,8.16">This paper evaluates the tribological properties and the state of the surface of Ti6Al4V (Grade 5) titanium alloy.</s><s coords="1,399.64,168.53,139.14,8.16;1,42.54,177.70,128.72,8.16">Tribological analysis of samples was conducted at room and elevated temperature (150C).</s><s coords="1,173.64,177.70,294.34,8.16">The wear rate was evaluated with a ball-on-disc tribotester, in accordance with ASTM G-133 norm.</s><s coords="1,470.35,177.70,68.23,8.16;1,42.55,186.88,231.08,8.16">For the load of 5N, the average friction coefficient , measured at room temperature, was equal to 0.52.</s><s coords="1,275.17,186.88,156.84,8.16">Comparative values, =0.49, were recorded at 150C.</s><s coords="1,433.61,186.88,105.00,8.16;1,42.55,196.06,432.91,8.17">The wear rate for samples subjected to testing at room temperature amounted to 45.1110-5 mm 3 N 1 M 1 , whereas at temperature of 150C there was a rise to 53.0110 5 mm 3 N 1 M 1 .</s><s coords="1,477.72,196.07,60.78,8.16;1,42.54,205.24,455.48,8.17">The wear rate of the counterbody (ball) at room temperature amounted to 18.3510 -5 mm 3 N 1 M 1 , while at elevated temperature of 150C it decreased to 1.7910 -5 mm 3 N 1 M 1 .</s><s coords="1,500.22,205.25,38.38,8.16;1,42.55,214.42,420.63,8.16">4. During the analysis of the surface after tribological test, loose particles serving as an abradant and plastic deformations of the surface layers were observed.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">INTRODUCTION</head><p><s coords="1,56.78,288.88,219.66,9.71;1,42.56,300.34,233.85,9.71;1,42.56,311.86,233.84,9.71;1,42.56,323.39,137.60,9.71">Tribological wear can be defined as a form of wear of machine part elements as a result of friction which causes the change in weight, structure and physical properties of the surface layer in contact areas.</s><s coords="1,183.53,323.39,92.78,9.71;1,42.56,334.85,152.80,9.71">It is the most common type of wear between friction pairs.</s><s coords="1,200.00,334.85,76.41,9.71;1,42.56,346.37,233.91,9.71;1,42.56,357.90,195.40,9.71">Hence efforts into increasing the wear resistance of friction pairs material and identifying phenomena emerging during friction.</s><s coords="1,240.32,357.90,36.09,9.71;1,42.56,369.36,233.84,9.71;1,42.56,380.88,207.47,9.71">Studying the changes contributes to a better understanding of wear mechanisms and therefore helps to counteract them.</s><s coords="1,252.51,380.88,23.95,9.71;1,42.57,392.41,215.80,9.71">These concerns all the materials used for friction pairs <ref type="bibr" coords="1,235.90,392.41,7.49,9.71" target="#b0">[1]</ref><ref type="bibr" coords="1,243.39,392.41,3.75,9.71" target="#b1">[2]</ref><ref type="bibr" coords="1,243.39,392.41,3.75,9.71" target="#b2">[3]</ref><ref type="bibr" coords="1,247.13,392.41,7.49,9.71" target="#b3">[4]</ref>.</s></p><p><s coords="1,56.79,403.87,219.63,9.71;1,42.57,415.39,140.66,9.71">Currently, one of the most significant structural materials is titanium and its alloys.</s><s coords="1,186.00,415.39,90.43,9.71;1,42.57,426.91,177.41,9.71">It can be characterised by high melting temperature (1675 C).</s><s coords="1,226.23,426.91,50.19,9.71;1,42.57,438.38,233.85,9.71;1,42.57,449.90,233.82,9.71;1,42.57,461.36,151.53,9.71">Taking into consideration its mechanical strength and substantial corrosion resistance as well as biocompatibility, its application range becomes extensive.</s><s coords="1,197.29,461.36,79.14,9.71;1,42.57,472.89,233.84,9.71;1,42.57,484.41,233.87,9.71;1,42.57,495.87,233.81,9.71;1,42.57,507.39,233.90,9.71;1,42.57,518.92,162.46,9.71">Titanium alloys are widely used in numerous branches of industry including those where elements work at elevated temperatures, such as in the aircraft industry (turbine elements), the shipbuilding industry, the chemical industry or in medicine (for example implant manufacturing).</s><s coords="1,211.29,518.92,65.14,9.71;1,42.57,530.38,233.91,9.71;1,42.56,541.90,233.90,9.71;1,42.56,553.43,233.83,9.71;1,42.56,564.89,233.94,9.71;1,42.56,576.41,72.52,9.71">Wanget al. <ref type="bibr" coords="1,264.75,518.92,11.68,9.71" target="#b4">[5]</ref> presented thermal oxidation process under water vapor environment on biomedical titanium alloys for 4 h at different treatment temperature changing from 600 C to 800 C to improve the surface properties for the application of artificial joints.</s><s coords="1,117.86,576.41,158.55,9.71;1,42.56,587.94,142.90,9.71">Practical application of titanium alloys, however, entails certain limitations.</s><s coords="1,187.82,587.94,88.65,9.71;1,42.56,599.40,233.97,9.71;1,42.56,610.92,151.71,9.71">What needs to be paid attention to specifically is its lower wear resistance compared to other basic metal alloys.</s><s coords="1,197.28,610.92,79.10,9.71;1,42.56,622.44,233.85,9.71;1,42.56,633.91,233.82,9.71;1,42.56,645.43,23.63,9.71">Saravanan et al. <ref type="bibr" coords="1,264.70,610.92,11.67,9.71" target="#b5">[6]</ref> presented the sliding wear behaviour of the -irradiated Ti6Al4V alloy against the arc deposited TiN surface on SS 316L.</s><s coords="1,70.71,645.43,205.67,9.71;1,42.57,656.95,233.92,9.71;1,42.57,668.42,233.87,9.71;1,42.57,679.94,233.87,9.71;1,42.57,691.46,72.95,9.71">Tribological properties of titanium and its alloys influence the course of manufacturing processes, especially those connected with plastic forming, and are frequently a limiting factor as far as their application is concerned <ref type="bibr" coords="1,88.77,691.46,10.85,9.71" target="#b6">[7,</ref><ref type="bibr" coords="1,104.67,691.46,7.23,9.71" target="#b7">8]</ref>.</s><s coords="1,120.63,691.46,155.79,9.71;1,42.57,702.93,233.90,9.71;1,42.57,714.45,233.88,9.71;1,42.57,725.91,233.87,9.71;1,42.57,737.43,14.20,9.71">The problem arising during working titanium and its alloys is galling and creation of protrusions on tool surface, which exert a negative impact on the quality of manufactured goods and the durability of tools <ref type="bibr" coords="1,42.57,737.43,10.65,9.71" target="#b8">[9]</ref>.</s><s coords="1,59.18,737.43,217.28,9.71;1,42.56,748.96,79.36,9.71">Budinski <ref type="bibr" coords="1,97.64,737.43,16.71,9.71" target="#b10">[10]</ref> presented that titanium alloys have poor abrasion resistance.</s><s coords="1,125.42,748.96,150.97,9.71;1,42.56,760.42,233.85,9.71;1,42.56,771.94,233.82,9.71;1,304.76,266.02,233.88,9.71;1,304.76,277.49,81.53,9.71">Nowadays, there are still attempts to improve their tribological properties through the methods of surface engineering and better understanding of wear mechanisms in relation to the evaluation of the surface condition <ref type="bibr" coords="1,348.62,277.49,15.82,9.71" target="#b11">[11,</ref><ref type="bibr" coords="1,370.46,277.49,11.87,9.71" target="#b12">12]</ref>.</s><s coords="1,392.37,277.49,146.29,9.71;1,304.76,289.01,233.92,9.71;1,304.76,300.53,167.14,9.71">The state of the material surface influences multiple properties such as: wear resistance, resistance to abrasive wear and corrosion.</s></p><p><s coords="1,318.99,311.99,219.66,9.71;1,304.77,323.52,211.00,9.71">Among titanium alloys it is Ti6Al4V (Grade 5) that has found the widest range of industrial applications.</s><s coords="1,520.77,323.52,17.82,9.71;1,304.77,335.04,91.07,9.71">It is a two-phase + alloy.</s><s coords="1,398.20,335.04,140.43,9.71;1,304.78,346.50,233.94,9.71;1,304.78,358.03,170.98,9.71">In order to improve the tribological properties of the Ti6Al4V alloy, various methods of surface engineering were employed <ref type="bibr" coords="1,456.58,358.03,15.35,9.71" target="#b13">[13]</ref>.</s><s coords="1,479.92,358.03,58.72,9.71;1,304.78,369.55,233.84,9.71;1,304.77,381.01,233.93,9.71;1,304.77,392.54,233.85,9.71;1,304.77,404.06,32.57,9.71">Garbacz et al. <ref type="bibr" coords="1,304.78,369.55,16.71,9.71" target="#b14">[14]</ref> presented that resistance to wear was increased through formation of intermetallic layers on the titanium alloy from Ti-Al configuration, with the use of a duplex method.</s><s coords="1,343.35,404.06,195.27,9.71;1,304.77,415.52,233.86,9.71;1,304.78,427.04,30.82,9.71">Another way to raise titanium hardness and surface resistance to abrasive wear was to implant N, O and Si ions.</s><s coords="1,338.80,427.04,199.90,9.71;1,304.78,438.57,233.86,9.71;1,304.78,450.03,233.91,9.71;1,304.77,461.55,233.90,9.71;1,304.77,473.08,233.91,9.71;1,304.77,484.54,20.86,9.71">What is necessary for the application of titanium and its alloys in the areas where resistance to wear is required is a better understanding of friction and wear mechanisms, which can therefore lead to improvement of tribological properties with no impact on the remaining ones.</s><s coords="1,331.23,484.54,207.40,9.71;1,304.77,496.06,233.87,9.71;1,304.77,507.59,233.87,9.71;1,304.77,519.05,88.55,9.71">Chassaing et al. <ref type="bibr" coords="1,405.87,484.54,16.72,9.71" target="#b15">[15]</ref> developed a specific foilworkpiece thermocouple to monitor interface temperature reached during friction contact at high sliding velocities for a Ti6Al4V tribopair.</s><s coords="1,398.85,519.05,139.82,9.71;1,304.77,530.57,233.88,9.71;1,304.77,542.03,217.17,9.71">A very useful technique for the analysis of changes in temperature, which can be applied in tribological investigations is thermography <ref type="bibr" coords="1,489.45,542.03,12.19,9.71" target="#b16">[16]</ref><ref type="bibr" coords="1,505.70,542.03,12.19,9.71" target="#b17">[17]</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">MATERIAL AND METHODS</head><p><s coords="1,321.76,588.07,216.91,9.71;1,304.77,599.53,181.04,9.71">A widely applied in industry titanium alloy, Ti6Al4V (Grade 5), served as the object of the study.</s><s coords="1,489.18,599.53,49.34,9.71;1,304.77,611.05,143.26,9.71">Its chemical composition is presented in Tab. 1.</s><s coords="1,451.10,611.05,87.56,9.71;1,304.76,622.57,87.76,9.71">Samples were cut out of a 30-mm-thick bar.</s><s coords="1,321.72,693.39,216.94,9.71;1,304.75,704.85,233.93,9.71;1,304.76,716.37,11.98,9.71">Tribological tests were carried out with the use of a high-temperature tribotester THT 1000 Anton Parr, Fig. <ref type="figure" coords="1,304.76,716.37,7.99,9.71" target="#fig_0">1a</ref>.</s><s coords="1,324.55,716.37,214.10,9.71;1,304.76,727.90,40.30,9.71">Testing was in compliance with ASTM G133 standards.</s><s coords="1,351.62,727.90,187.07,9.71;1,304.75,739.36,65.32,9.71">Ball-on-disc type contact arrangement was applied, Fig. <ref type="figure" coords="1,357.55,739.36,8.35,9.71" target="#fig_0">1b</ref>.</s><s coords="1,372.55,739.36,166.09,9.71;1,304.75,750.88,182.23,9.71">Titanium alloy samples were in the shape of a disc, 29.5 mm in diameter and 6 mm high.</s><s coords="1,488.91,750.88,49.71,9.71;1,304.75,762.40,233.90,9.71;1,304.75,773.87,26.26,9.71">What served as counterbodies were balls, 6 mm in diameter, made of Al2O3.</s><s coords="1,333.48,773.85,175.79,9.71">During the tests the load of 5N was applied.</s></p><p><s coords="2,73.68,59.31,216.82,9.71;2,56.70,70.77,160.17,9.71">The tests were conducted at 0.3 m/s sliding velocity of the friction pair, on the 8 mm radius.</s><s coords="2,221.27,70.77,69.27,9.71;2,56.70,82.29,104.15,9.71">The total sliding distance was set at 400 m.</s><s coords="2,163.32,82.29,127.30,9.71;2,56.70,93.82,233.91,9.71;2,56.70,105.28,233.88,9.71;2,56.70,116.80,233.85,9.71;2,56.70,128.32,87.28,9.71">Since Ti6Al4V alloy is used for the production of elements working at elevated temperatures, hence tribological tests were carried out at room temperature (about 26C) and at elevated temperature (150 C).</s><s coords="2,146.28,128.32,144.26,9.71;2,56.70,139.79,233.82,9.71;2,56.70,151.31,51.46,9.71">The temperature was measured with the use of a thermocouple, fixed 2 mm from the friction surface area.</s><s coords="2,111.53,151.31,178.99,9.71;2,56.70,162.83,110.98,9.71">The actual temperature, however, can reach considerably higher values.</s><s coords="2,170.69,162.83,119.92,9.71;2,56.70,174.30,233.85,9.71;2,56.70,185.82,213.58,9.71">During the trials, the changes in the value of the following parameters were registered: friction coefficient, friction force and temperature.</s><s coords="2,275.09,185.82,15.55,9.71;2,56.70,197.28,159.17,9.71">The frequency of data collection was 10 Hz.</s><s coords="2,73.68,501.75,216.86,9.71;2,56.70,513.27,233.93,9.71;2,56.70,524.74,233.85,9.71;2,56.70,536.26,233.89,9.71;2,56.70,547.72,55.07,9.71">Serving as a comparative measure of wear, which takes into account the load and the length of the stroke a new wear rate for a friction pair was calculated in compliance with ASTMG133 and with the use of the following Eq.</s><s coords="2,114.25,547.72,14.14,9.71">( <ref type="formula" coords="2,117.79,547.72,3.53,9.71" target="#formula_0">1</ref>).</s></p><formula xml:id="formula_0" coords="2,58.74,571.43,230.97,27.36">f d n V w F l = <label>(1)</label></formula><p><s coords="2,56.70,613.23,233.94,9.72;2,56.71,624.75,134.65,9.71">where: w d -wear rate, V f -wear volume, F n -loading force, l -length of the stroke (distance).</s></p><p><s coords="2,70.92,636.21,219.60,9.71;2,56.70,647.74,233.82,9.71;2,56.70,659.26,216.50,9.71">The measure of the sample wear was a volumetric decrease, which occurred as a wear scar resulting from the interaction between the sample and the counterbody.</s><s coords="2,276.63,659.26,13.90,9.71;2,56.70,670.72,233.93,9.71;2,56.70,682.24,233.82,9.71;2,56.70,693.77,47.08,9.71">For that purpose, using a contact profilometer Surtronic 3+, a profile area was measured perpendicularly to the sample wear scars.</s><s coords="2,108.90,693.77,181.69,9.71;2,56.70,705.23,159.75,9.71">The measurements were performed on the perimeter of the sample (at ten points).</s><s coords="2,219.70,705.23,70.87,9.71;2,56.70,716.75,74.20,9.71">The length of the stroke was 4 mm.</s><s coords="2,134.70,716.75,155.93,9.71;2,56.70,728.28,233.89,9.71;2,56.70,739.74,233.87,9.71;2,56.70,751.26,83.14,9.71">Volumetric wear was specified as the product of the average value of the sample wear area and the perimeter of a wear scar circle which appeared during the ball-on-disc test.</s><s coords="2,143.21,751.26,147.33,9.71;2,56.69,762.79,14.20,9.71">The following equation was applied <ref type="bibr" coords="2,56.69,762.79,10.65,9.71" target="#b1">(2)</ref>.</s></p><formula xml:id="formula_1" coords="2,319.84,59.73,231.54,11.74">f V A L = <label>(2)</label></formula><p><s coords="2,318.90,87.81,233.95,9.71;2,318.91,99.27,146.13,9.71">where: V f -wear volume, A -average cross-sectional area of the track, L -length of the stroke.</s></p><p><s coords="2,335.90,110.79,216.86,9.71;2,318.91,122.32,233.90,9.71;2,318.91,133.78,121.90,9.71">The counterbody wear was calculated by measuring the diameter of the ball wear with the use of a metallographic microscope.</s><s coords="2,447.25,133.78,105.54,9.71;2,318.90,145.30,99.16,9.71">The following equations were applied (3) and ( <ref type="formula" coords="2,407.41,145.30,3.55,9.71" target="#formula_2">4</ref>).</s></p><formula xml:id="formula_2" coords="2,319.84,171.36,232.31,57.61"> (3 ) 3 h V r h  =   (3) 2 2 2 d h r r   =      <label>(4)</label></formula><p><s coords="2,318.90,244.77,233.86,9.71;2,318.91,256.30,207.34,9.71;2,333.15,267.76,219.66,9.71;2,318.93,279.28,188.37,9.71">where: r-sphere radius (3 mm), h -spherical cap height, d -spherical cap diameter (experimentally measured) After the completion of tribological tests, the evaluation of the wear surface was carried out.</s><s coords="2,510.07,279.28,42.68,9.71;2,318.93,290.81,233.85,9.71;2,318.93,302.27,233.85,9.71;2,318.93,313.79,29.21,9.71">In order to analyse obtained results, the surfaces of samples and counterbodies were examined also prior to tribological testing.</s><s coords="2,356.42,313.79,196.38,9.71;2,318.93,325.31,233.96,9.71;2,318.94,336.78,233.87,9.71;2,318.94,348.30,122.14,9.71">During the first stage, surfaces underwent evaluation of roughness Ra parameters, which were measured with a Surtronic 3+ profilographometer prior to and after tribological tests.</s><s coords="2,448.77,348.30,104.04,9.71;2,318.94,359.82,129.89,9.71">Afterwards, microscopic examination was carried out.</s><s coords="2,456.10,359.82,96.70,9.71;2,318.94,371.29,233.87,9.71;2,318.94,382.81,223.44,9.71">The microstructure of samples was observed at various magnifications with the use of a metalographic microscope, Nikon Eclipse e100.</s><s coords="2,544.44,382.81,8.31,9.71;2,318.95,394.33,233.92,9.71;2,318.95,405.80,233.93,9.71;2,318.95,417.32,233.93,9.71;2,318.95,428.84,97.91,9.71">In order to measure the topography and evaluate the mechanism of the samples and counterbodies surface wear, an optical measuring instrument called 3D InfiniteFocus G5 of Alicona was used.</s><s coords="2,419.15,428.84,133.67,9.71;2,318.95,440.30,233.86,9.71">Wolpert-Wilson Tukon 2500 was a hardness tester applied for hardness examination.</s><s coords="2,318.95,451.83,135.76,9.71">Vickers method was employed.</s><s coords="2,460.37,451.83,92.46,9.71;2,318.95,463.35,233.81,9.71">Surface hardness was identified for the load of 1 kg (HV1).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">DISCUSSION</head><p><s coords="2,333.12,509.26,219.61,9.71;2,318.91,520.72,233.83,9.71;2,318.91,532.24,233.94,9.71;2,318.91,543.77,92.20,9.71">The process of material wear depends on multiple factors such as friction pair material type, contact temperature, roughness, load and sliding velocity, hardness and surface condition.</s><s coords="2,415.38,543.77,137.43,9.71;2,318.91,555.23,233.89,9.71;2,318.91,566.75,233.89,9.71;2,318.91,578.28,233.76,9.71;2,318.90,589.74,183.11,9.71">Trials conducted with the use of a Surtronic 3+ profilographometer (in compliance with the PN ISO 4288 standard) showed that after grinding the roughness parameter Ra of the frontal surface was similar for all the samples and equalled Ra = 1.23 m.</s><s coords="2,504.06,589.74,48.73,9.71;2,318.90,601.26,215.21,9.71">The average hardness of the sample surface amounted to 328 HV1.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Tribological Testing</head><p><s coords="2,335.89,647.20,216.86,9.71;2,318.91,658.66,184.38,9.71">What was identified with the use of the equation (2) at the first stage of the tests was volumetric wear.</s><s coords="2,505.35,658.66,47.44,9.71;2,318.91,670.18,233.84,9.71;2,318.91,681.71,45.60,9.71;2,364.38,680.55,3.24,6.28;2,367.62,681.69,2.51,9.71">For the load of 5 N, measured at room temperature, it amounted to 0.902 mm <ref type="bibr" coords="2,364.38,680.55,3.24,6.28" target="#b2">3</ref> .</s><s coords="2,377.64,681.69,175.11,9.71;2,321.43,693.15,50.45,9.71;2,371.82,692.01,3.24,6.28;2,375.06,693.15,2.51,9.71">At elevated temperature it was higher -1.062 mm 3 .</s><s coords="2,382.14,693.15,170.55,9.71;2,318.90,704.67,135.83,9.71;2,454.68,703.53,3.24,6.28;2,461.64,704.67,91.21,9.71;2,318.89,716.19,77.93,9.71">As far as the counterbody mass wear is concerned, it equalled 0.366 mm 3 for the load of 5 N at room temperature.</s><s coords="2,403.25,716.19,149.59,9.71;2,318.89,727.65,227.99,9.71;2,546.78,726.51,3.24,6.28;2,550.02,727.65,2.51,9.71">In this case, elevated temperature translated to considerably smaller wear rate of 0.034 mm <ref type="bibr" coords="2,546.78,726.51,3.24,6.28" target="#b2">3</ref> .</s></p><p><s coords="2,333.12,739.17,219.73,9.71;2,318.90,750.69,233.95,9.71;2,318.90,762.16,233.83,9.71;2,318.90,773.68,233.91,9.71;3,42.54,59.31,233.84,9.71;3,42.54,70.77,42.52,9.71">Having analysed the results of the volumetric wear, it was noticed that along with the increase of the temperature the wear of the samples was slightly higher, whereas for the counterbodies it was lower, which proved the influence of the working sliding contact temperature on material properties.</s><s coords="3,91.74,70.77,184.66,9.71;3,42.54,82.29,90.82,9.71">Maximum Herzian stresses for 5 N load amounted to 974 MPa.</s><s coords="3,135.78,82.29,140.56,9.71;3,42.54,93.82,233.76,9.71;3,42.54,105.28,160.78,9.71">Fig. <ref type="figure" coords="3,154.02,82.29,5.01,9.71">2</ref> presents the volumetric wear of the samples and counterbodies at both room (about 26 C) and elevated temperatures (150 C).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 2 Volumetric wear</head><p><s coords="3,59.52,294.75,216.87,9.71;3,42.54,306.21,233.83,9.71;3,42.54,317.74,35.32,9.71">Major factors taken into account while calculating and characterising wear volume were load and friction distance.</s><s coords="3,79.92,317.74,196.48,9.71;3,42.54,329.26,233.86,9.71;3,42.54,340.72,172.67,9.71">Having employed a comparative measure of wear based on both load and friction distance, wear rate for a friction pair was calculated using Eq. ( <ref type="formula" coords="3,204.60,340.72,3.54,9.71" target="#formula_0">1</ref>).</s><s coords="3,217.74,340.72,58.74,9.71;3,42.55,352.24,233.85,9.71;3,42.55,363.77,233.89,9.71;3,42.55,375.23,132.70,9.71">Fig. <ref type="figure" coords="3,236.16,340.72,5.01,9.71" target="#fig_1">3</ref> presents the wear rate of the tribological trial for the load of 5 N. Analysing its value, the increase for the samples at room temperature could be observed.</s><s coords="3,180.12,375.23,38.13,9.71;3,218.22,374.07,6.90,6.28;3,228.78,375.21,15.54,9.71;3,244.20,374.07,3.24,6.28;3,247.44,375.21,7.23,9.71;3,254.70,374.07,6.90,6.28;3,261.66,375.21,7.80,9.71;3,269.40,374.07,6.96,6.28;3,42.54,386.73,233.95,9.71;3,42.54,398.25,50.26,9.71">45.1110 5 mm 3 N 1 m 1 was the wear rate value for the samples at room temperature.</s><s coords="3,100.02,398.25,176.45,9.71;3,42.54,409.71,108.33,9.71;3,150.90,408.57,6.90,6.28;3,166.26,409.71,15.54,9.71;3,181.74,408.57,3.24,6.28;3,184.98,409.71,7.23,9.71;3,192.24,408.57,6.90,6.28;3,199.20,409.71,7.80,9.71;3,206.88,408.57,6.96,6.28;3,213.84,409.71,2.51,9.71">At elevated temperature it was higher, amounting to 53.0110 5 mm 3 N 1 m 1 .</s><s coords="3,226.20,409.71,50.21,9.71;3,42.54,421.23,233.87,9.71;3,42.54,432.75,38.19,9.71;3,80.76,431.61,6.90,6.28;3,92.88,432.75,15.54,9.71;3,108.36,431.61,3.24,6.28;3,111.60,432.75,7.23,9.71;3,118.86,431.61,6.90,6.28;3,125.82,432.75,7.80,9.71;3,133.50,431.61,6.90,6.28;3,140.40,432.75,136.09,9.71;3,42.54,444.21,233.87,9.71;3,42.54,455.73,68.19,9.71;3,110.76,454.59,6.90,6.28;3,119.28,455.73,15.54,9.71;3,134.70,454.59,3.24,6.28;3,137.94,455.73,7.23,9.71;3,145.20,454.59,6.90,6.28;3,152.16,455.73,7.80,9.71;3,159.96,454.59,6.90,6.28;3,166.86,455.73,2.51,9.71">As far as counterbodies were concerned, at room temperature it was 18.3510 5 mm 3 N 1 m 1 , whereas elevated temperature contributed to its distinct decrease and amounted to the value of 1.7910 5 mm 3 N 1 m 1 .</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 3 Wear rate</head><p><s coords="3,56.76,639.27,219.65,9.71;3,42.55,650.73,108.32,9.71">The mean friction coefficient at room temperature was 0.2, the maximum one 0.5.</s><s coords="3,153.64,650.73,122.75,9.71;3,42.55,662.26,233.92,9.71;3,42.55,673.78,139.71,9.71">As far as elevated temperature was concerned, the mean friction coefficient was comparable and amounted to 0.49.</s><s coords="3,185.15,673.78,91.16,9.71;3,42.55,685.24,206.97,9.71">The maximum friction coefficient for the same temperature equalled 0.63.</s><s coords="3,252.53,685.24,23.85,9.71;3,42.55,696.76,233.93,9.71;3,42.55,708.29,160.48,9.71">Fig. <ref type="figure" coords="3,271.36,685.24,5.01,9.71" target="#fig_2">4</ref> presents alterations of the mean and maximum coefficient at both room and elevated temperatures.</s></p><p><s coords="3,56.76,719.75,219.68,9.71;3,42.55,731.27,148.31,9.71">In the course of conducted tribological tests, friction coefficient changes were registered.</s><s coords="3,194.83,731.27,81.53,9.71;3,42.55,742.80,233.86,9.71;3,42.55,754.26,10.19,9.71">Fig. <ref type="figure" coords="3,214.62,731.27,5.01,9.71" target="#fig_3">5</ref> demonstrates changes for the load of 5 N registered at a distance of 400 m.</s><s coords="3,57.79,754.26,218.67,9.71;3,42.55,765.78,233.91,9.71;3,304.75,59.34,147.28,9.71">As can be seen on the graph below, contact point abrasion took place at a distance of 100 m after which stable work manner was observed.</s><s coords="3,456.84,59.34,81.75,9.71;3,304.75,70.80,233.82,9.71;3,304.75,83.28,54.40,9.71">Changes of friction coefficient were highly similar at both room and elevated temperatures.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">Surface Examination after Friction</head><p><s coords="3,321.72,466.48,216.85,9.71;3,304.74,478.00,97.43,9.71">The next stage of the research consisted in examining the surface after friction.</s><s coords="3,404.23,478.00,134.32,9.71;3,304.74,489.52,233.84,9.71;3,304.75,500.98,233.87,9.71;3,304.75,512.51,201.41,9.71">Fig. <ref type="figure" coords="3,422.05,478.00,5.01,9.71" target="#fig_4">6</ref> shows roughness parameter Ra changes after friction at room and elevated temperatures for the load of 5 N. Obtained results were compared to initial roughness from before tribological tests.</s><s coords="3,511.45,512.51,27.25,9.71;3,304.75,524.03,188.37,9.71">Before friction, roughness parameter Ra was 1.23 m.</s><s coords="3,495.78,524.03,42.81,9.71;3,304.74,535.49,233.87,9.71;3,304.74,547.02,33.52,9.71">Registered values of parameter Ra, on the other hand, were higher than initially.</s><s coords="3,343.38,547.02,195.24,9.71;3,304.74,558.54,233.81,9.71;3,304.75,570.00,233.81,9.71;3,304.75,581.52,36.76,9.71">After friction at room temperature, roughness parameter Ra was registered at the level of 1.62 m, whereas elevated temperature translated to the increase to 2.06 m.</s><s coords="3,344.77,581.52,193.84,9.71;3,304.74,593.05,233.86,9.71;3,304.76,604.51,233.89,9.71;3,304.76,616.03,125.20,9.71">What influenced roughness parameter Ra were, inter alia, material transferring in a contact area, occurring of solid particles which intensify the abrasive nature of the wear and oxidizing the surface.</s><s coords="4,70.92,59.31,219.68,9.71;4,56.69,70.77,233.88,9.71;4,56.69,82.29,53.08,9.71">Then, in order to identify occurring phenomena and wear mechanisms, friction surfaces underwent microscope observations.</s><s coords="4,111.77,82.29,178.94,9.71;4,56.69,93.82,159.46,9.71">Fig. <ref type="figure" coords="4,129.60,82.29,5.01,9.71">7</ref> shows the surface after friction at room temperature for the ball and the sample.</s><s coords="4,218.76,93.82,71.84,9.71;4,56.69,105.28,233.89,9.71;4,56.69,116.80,33.16,9.71">The observed ball wear trace at room temperature is close to the round shape, Fig. <ref type="figure" coords="4,77.87,116.80,7.99,9.71">7a</ref>.</s><s coords="4,95.21,116.80,195.31,9.71;4,56.69,128.32,214.17,9.71">At elevated temperature, however, it is more irregular and closer to the elliptical shape, Fig. <ref type="figure" coords="4,258.88,128.32,7.99,9.71">8a</ref>.</s><s coords="4,275.02,128.32,15.61,9.71;4,318.90,59.33,233.85,9.71;4,318.90,70.79,233.82,9.71;4,318.90,82.31,134.92,9.71">The shape of the ball wear trace, Fig. <ref type="figure" coords="4,469.61,59.33,8.35,9.71">7b</ref>, is more regular compared to the one at elevated temperature, where plastic material deformation is distinct.</s><s coords="4,458.75,82.31,93.99,9.71;4,318.90,93.84,233.92,9.71;4,318.90,105.30,71.08,9.71">A hike of the friction coefficient proving the increase of the friction resistance was not observed.</s><s coords="4,392.04,105.30,160.72,9.71;4,318.90,116.82,190.53,9.71">Fig. <ref type="figure" coords="4,409.92,105.30,5.01,9.71">8</ref> shows the surface after friction for the ball and the sample at elevated temperature.</s><s coords="4,56.70,726.82,233.85,9.71;4,56.70,738.34,140.79,9.71">Microscope observations of the surface revealed characteristic mechanisms of wear.</s><s coords="4,200.03,738.34,90.51,9.71;4,56.70,749.86,233.86,9.71;4,56.70,761.32,105.88,9.71">What could be noticed on the surface were irregularities with distinct microcutting marks, Fig. <ref type="figure" coords="4,142.26,761.32,16.26,9.71" target="#fig_6">9b-c</ref>.</s><s coords="4,167.52,761.32,123.06,9.71;4,56.70,772.85,233.86,9.71;4,318.90,703.85,93.52,9.71">After friction, loose particles serving as an abradant and intensifying surface micro-cutting were observed.</s><s coords="4,416.28,703.85,136.46,9.71;4,318.90,715.37,233.85,9.71">Similar phenomena take place in real conditions where tribological systems interact.</s><s coords="4,318.90,726.84,233.87,9.71;4,318.90,738.36,219.97,9.71">Wearing is frequently connected to loose abrasive particles, which appear between two wearing surfaces.</s><s coords="4,541.65,738.36,11.16,9.71;4,318.90,749.88,233.92,9.71;4,318.89,761.34,99.16,9.71">As a result, both surfaces and particles between them form a system of three bodies.</s><s coords="5,402.00,798.95,84.26,8.16">Technical Gazette 25, Suppl.</s><s coords="5,488.05,798.95,50.38,8.16;5,59.52,59.31,216.89,9.71;5,42.54,70.77,233.88,9.71;5,42.54,82.29,80.38,9.71">1(2018), 170-175 Plastic deformation of a friction material surface layer, shown in Fig. <ref type="figure" coords="5,97.99,70.77,7.95,9.71" target="#fig_6">9c</ref>, frequently leads to the transfer of material onto the other body.</s><s coords="5,125.34,82.29,151.11,9.71;5,42.54,93.82,233.81,9.71;5,42.54,105.28,97.60,9.71">During the analysis of the topography local material transfer onto the ball and the sample was observed, Fig. <ref type="figure" coords="5,102.83,105.28,33.53,9.71" target="#fig_6">9a and d</ref>.</s><s coords="5,143.03,105.28,133.36,9.71;5,42.54,116.80,197.68,9.71">What intensified the process was temperature increase during the tribological tests.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">CONCLUSIONS</head><p><s coords="5,59.52,162.77,216.85,9.71;5,42.54,174.24,233.87,9.71;5,42.54,185.76,71.92,9.71">This paper focuses on the examination of tribological properties and the state of the surface of Ti6Al4V (Grade 5) titanium alloy.</s><s coords="5,118.31,185.76,158.06,9.71;5,42.54,197.28,99.38,9.71;5,42.54,208.75,233.94,9.71;5,59.51,220.27,216.86,9.71;5,59.51,231.79,15.54,9.71;5,75.00,230.61,3.24,6.28;5,78.24,231.75,198.18,9.71;5,59.51,243.21,50.70,9.71;5,110.16,242.07,3.24,6.28;5,113.40,243.21,2.51,9.71">As a result of the study the following observations were made: 1) The average volumetric wear of the samples under the load of 5 N at room temperature amounted to 0.902 mm 3 , whereas at elevated temperature there was a rise to 1.062 mm <ref type="bibr" coords="5,110.16,242.07,3.24,6.28" target="#b2">3</ref> .</s><s coords="5,118.38,243.21,158.01,9.71;5,59.52,254.73,133.23,9.71;5,192.78,253.59,5.40,6.28;5,200.46,254.73,15.54,9.71;5,215.94,253.59,3.24,6.28;5,219.18,254.73,7.23,9.71;5,226.44,253.59,5.40,6.28;5,231.84,254.73,7.80,9.71;5,239.58,253.59,5.40,6.28;5,244.98,254.73,2.51,9.71">The average wear rate of the samples at room temperature was 45.1110 -5 mm 3 N -1 m -1 .</s><s coords="5,251.10,254.73,25.25,9.71;5,59.52,266.25,214.72,9.71;5,274.26,265.11,2.16,6.28;5,59.52,276.57,3.24,6.28;5,64.80,277.71,15.54,9.71;5,80.28,276.57,3.24,6.28;5,83.52,277.71,7.23,9.71;5,90.78,276.57,5.40,6.28;5,96.24,277.71,7.80,9.71;5,103.92,276.57,5.40,6.28;5,109.32,277.71,2.51,9.71">It was higher at elevated temperature and equalled 53.0110 -5 mm 3 N -1 m -1 .</s><s coords="5,114.96,277.71,161.42,9.71;5,59.52,289.23,216.87,9.71;5,59.52,300.69,50.27,9.71">What could be observed was the rise of both volumetric wear and wear rate at elevated temperature.</s><s coords="5,42.54,312.22,233.85,9.71;5,59.51,323.74,38.62,9.71">2) For the load of 5 N a relatively high wear rate was observed.</s><s coords="5,100.55,323.74,175.89,9.71;5,59.51,335.20,116.51,9.71">At room temperature it amounted to 0.52, at elevated temperature to 0.49.</s><s coords="5,178.55,335.20,97.90,9.71;5,59.51,346.72,101.98,9.71">Registered alterations of the wear rate were stable.</s><s coords="5,42.53,358.25,233.93,9.71;5,59.50,369.71,193.06,9.71">3) Registered Ra parameter values after friction were higher compared to the initial value of 1.23 m.</s><s coords="5,255.28,369.71,21.10,9.71;5,59.50,381.23,216.86,9.71;5,59.50,392.76,216.87,9.71;5,59.50,404.22,46.30,9.71">After friction at room temperature, Ra parameter equalled 1.62 m, whereas at elevated temperature it amounted to 2.06 m.</s><s coords="5,42.53,415.74,233.88,9.71;5,59.50,427.27,216.87,9.71;5,59.50,438.73,216.88,9.71">4) During the analysis of the surface after tribological test, loose particles serving as an abradant and plastic deformations of the surface layers were observed.</s><s coords="5,59.50,450.25,216.89,9.71;5,59.50,461.77,114.41,9.71">Another phenomenon noticed was local transferring of material onto the sample.</s><s coords="5,180.89,461.77,95.53,9.71;5,59.50,473.24,216.80,9.71;5,59.50,484.76,19.18,9.71">These processes were intensified by the temperature increase in the friction area.</s></p><p><s coords="5,59.50,507.75,216.86,9.71;5,42.52,519.27,185.31,9.71">Friction type resulting in wear processes influences the solidity and reliability of mechanical devices.</s><s coords="5,231.02,519.27,45.31,9.71;5,42.52,530.79,233.82,9.71;5,42.52,542.25,212.56,9.71">Recent rise of the applications as well as the scope of titanium alloy use justify the undertaken experimental research.</s><s coords="5,260.92,542.25,15.55,9.71;5,42.52,553.78,233.88,9.71;5,42.52,565.24,233.95,9.71;5,42.52,576.76,233.91,9.71;5,42.52,588.29,233.83,9.71;5,42.52,599.75,163.43,9.71">The reason behind such research is recognising limiting factors regarding the use of titanium alloys in the structures where friction of interacting surfaces occurs and extensive contact load is present (for example plane landing gear legs in aviation, implants in medicine, etc.).</s><s coords="5,212.80,599.75,63.64,9.71;5,42.52,611.27,233.86,9.71;5,42.52,622.80,233.89,9.71;5,42.52,634.26,171.88,9.71">The results of presented investigations can also serve as a basis for developing appropriate coatings, which enhance tribological properties of titanium alloys.</s><s coords="5,218.91,634.26,57.52,9.71;5,42.52,645.78,233.83,9.71;5,42.52,657.30,112.61,9.71">This, together with its fine durability properties, can enable broadening the range of its applications.</s><s coords="5,157.48,657.30,118.94,9.71;5,42.52,668.77,233.89,9.71;5,42.52,680.29,233.87,9.71;5,42.52,691.81,98.24,9.71">In order to ensure satisfactory device durability in long-term operation, it is particularly significant to strive for replacing dry friction with another, preferably fluid friction.</s><s coords="5,143.95,691.81,132.47,9.71;5,42.52,703.28,233.85,9.71;5,42.52,714.80,149.86,9.71">The aim is, therefore, to provide friction pairs with lubrication which means sliding friction between the surfaces in interaction.</s><s coords="5,197.02,714.80,79.42,9.71;5,42.52,726.32,233.82,9.71;5,42.52,737.79,233.90,9.71;5,42.52,749.31,233.82,9.71;5,42.52,760.83,81.58,9.71">From that point of view, conducted research can be a valuable informative source (regarding surface stereometry after friction) for the proper selection of lubricants for separation of interacting surfaces effectively.</s><s coords="5,127.71,760.83,148.69,9.71;5,42.52,772.29,233.93,9.71;5,304.72,59.43,233.85,9.71;5,304.72,70.89,119.98,9.71">Collected research material can also be used while developing (selecting) machining methods which allow conscious and optimised surface development as far as friction is concerned.</s></p><p><s coords="5,321.70,82.42,216.91,9.71;5,304.72,93.94,233.83,9.71;5,304.72,105.40,233.81,9.71;5,304.72,116.93,32.50,9.71">The observed wear process is of stable nature which suggests that registered changes, meaning material decrease from the surface, were constant for the whole process.</s><s coords="5,343.00,116.93,195.56,9.71;5,304.72,128.45,233.88,9.71;5,304.72,139.91,43.37,9.71">Conducted research showed that predominant wear mechanisms took place through friction and type I coupling.</s><s coords="5,353.32,139.91,185.35,9.71;5,304.72,151.43,233.85,9.71;5,304.72,162.96,233.87,9.71;5,304.72,174.42,233.84,9.71;5,304.72,185.94,233.83,9.71;5,304.72,197.41,233.85,9.71;5,304.72,208.93,233.89,9.71;5,304.72,220.45,32.50,9.71">Friction marks shown in the figures above clearly indicate that the wear of the titanium alloy surface layers and a tribotester ball interacting with them was the result of the machining, furrowing, scuffing and cutting influence of the surface irregularities as well as foreign body particles and wear products which were found between the surfaces and were transferred during the process.</s><s coords="5,341.62,220.45,196.98,9.71;5,304.72,231.92,233.85,9.71;5,304.72,243.44,175.30,9.71">As proved by the study, what occurred on the friction surface were scratches whose direction corresponded to the direction of movement.</s><s coords="5,482.62,243.44,55.95,9.71;5,304.72,254.96,233.85,9.71;5,304.72,266.42,181.14,9.71">Another thing that accompanied the intensive wear of a friction surface was a plastic deformation of the surface layer.</s><s coords="5,487.92,266.42,50.72,9.71;5,304.72,277.95,233.88,9.71;5,304.72,289.47,100.60,9.71">In the course of the plastic deformation, local compounds were destroyed and separated.</s><s coords="5,408.81,289.47,129.76,9.71;5,304.72,300.93,120.28,9.71">Lifted sample material particles were smeared on the surface.</s><s coords="5,428.49,300.93,110.02,9.71;5,304.72,312.46,233.87,9.71;5,304.72,323.98,125.86,9.71">This kind of mechanism is confirmed by the surface topography images with visible marks of material transferring.</s><s coords="5,434.31,323.98,104.34,9.71;5,304.72,335.44,233.93,9.71;5,304.72,346.97,233.85,9.71;5,304.72,358.49,233.96,9.71;5,304.72,369.95,233.92,9.71;5,304.72,381.47,63.28,9.71">Based on them, it can be concluded that after sample and tribotester ball surface irregularities approach the area where interatomic forces are active, friction coupling occurs which is followed by detaching such compounds and transferring them onto the friction surface.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="2,62.94,470.99,221.38,8.16;2,152.65,480.17,41.91,8.16;2,106.13,370.30,135.18,99.41"><head>Figure 1</head><label>1</label><figDesc><div><p><s coords="2,62.94,470.99,221.38,8.16;2,152.65,480.17,41.91,8.16">Figure 1 The tribological testing set-up tribotester THT 1000 (a), ball on disc friction pair (b)</s></p></div></figDesc><graphic coords="2,106.13,370.30,135.18,99.41" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="2,354.49,169.22,3.52,6.78"><head>3</head><label>3</label><figDesc><div><p><s></s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="3,381.54,249.77,80.19,8.16;3,315.18,103.85,212.55,144.25"><head>Figure 4</head><label>4</label><figDesc><div><p><s coords="3,381.54,249.77,80.19,8.16">Figure 4 Friction coefficient</s></p></div></figDesc><graphic coords="3,315.18,103.85,212.55,144.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="3,337.98,421.97,167.37,8.16;3,308.30,268.75,226.74,151.55"><head>Figure 5</head><label>5</label><figDesc><div><p><s coords="3,337.98,421.97,167.37,8.16">Figure 5 Changes of friction coefficient for the load of 5 N</s></p></div></figDesc><graphic coords="3,308.30,268.75,226.74,151.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4" coords="3,342.24,770.45,158.83,8.16;3,315.18,636.39,212.53,132.45"><head>Figure 6</head><label>6</label><figDesc><div><p><s coords="3,342.24,770.45,158.83,8.16">Figure 6 Roughness parameter Ra for the load of 5 N</s></p></div></figDesc><graphic coords="3,315.18,636.39,212.53,132.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5" coords="4,84.96,372.71,191.49,8.16;4,141.30,381.89,78.77,8.16;4,88.43,269.03,184.17,102.00"><head>Figure 7 Figure 8</head><label>78</label><figDesc><div><p><s coords="4,84.96,372.71,191.49,8.16;4,141.30,381.89,78.77,8.16">Figure 7 The surface of sample after friction at room temperature: ball 50 (a) sample 50 (b)</s></p></div></figDesc><graphic coords="4,88.43,269.03,184.17,102.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6" coords="4,179.46,682.25,250.50,8.16;4,73.68,703.83,216.84,9.71;4,56.70,715.35,233.85,9.71;4,56.70,726.82,233.85,9.71;4,56.70,738.34,233.84,9.71;4,56.70,749.86,233.86,9.71;4,56.70,761.32,233.87,9.71;4,56.70,772.85,233.86,9.71;4,311.75,552.97,233.84,127.55"><head>Figure 9</head><label>9</label><figDesc><div><p><s coords="4,179.46,682.25,250.50,8.16;4,73.68,703.83,216.84,9.71;4,56.70,715.35,233.85,9.71">Figure 9 The topography of the surface after friction (150 C): ball (a), sample (b, c, d) Fig. 9a-d demonstrates the topography of the ball and the samples after friction at elevated temperature.</s><s coords="4,56.70,726.82,233.85,9.71;4,56.70,738.34,140.79,9.71">Microscope observations of the surface revealed characteristic mechanisms of wear.</s><s coords="4,200.03,738.34,90.51,9.71;4,56.70,749.86,233.86,9.71;4,56.70,761.32,105.88,9.71">What could be noticed on the surface were irregularities with distinct microcutting marks, Fig. 9b-c.</s><s coords="4,167.52,761.32,123.06,9.71;4,56.70,772.85,233.86,9.71">After friction, loose particles serving as an abradant and intensifying surface micro-</s></p></div></figDesc><graphic coords="4,311.75,552.97,233.84,127.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="1,310.20,644.39,223.62,36.66"><head>Table 1</head><label>1</label><figDesc><div><p><s coords="1,355.80,644.39,156.08,8.16">Chemical composition of Ti6Al4V titanium alloy / %wt.</s></p></div></figDesc><table coords="1,310.20,654.42,223.62,26.63"><row><cell>Ti</cell><cell>Al</cell><cell>V</cell><cell>Fe</cell><cell>O</cell><cell>C</cell><cell>N</cell><cell>H</cell></row><row><cell cols="3">rest 5.5-6.75 3.5-4.5</cell><cell>MAX 0.4</cell><cell>MAX 0.2</cell><cell>MAX 0.08</cell><cell>MAX 0.05</cell><cell>MAX 0.015</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Tehniki vjesnik 25, Suppl. 1(2018), 170-175</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="5,321.72,426.82,216.84,8.72;5,321.72,437.20,216.90,8.72;5,321.72,447.52,216.95,8.72;5,321.73,457.90,102.74,8.72;5,321.73,467.85,139.36,9.21" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Study of the Structure and Properties of Wear-Resistant Eutectic FeMnCBSiNiCr Coatings</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">I</forename><surname>Pashechko</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Dziedzic</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Barszcz</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11106-013-9549-z</idno>
+		<idno type="ark">ark:/67375/VQC-GV371SSK-G</idno>
+		<idno type="istexId">42CD3EE7CBBC8A7D4F3065EB32EE5AC42DA11CF6</idno>
+		<ptr target="https://doi.org/10.1007/s11106-013-9549-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Powder Metallurgy and Metal Ceramics</title>
+		<title level="j" type="abbrev">Powder Metall Met Ceram</title>
+		<idno type="ISSN">1068-1302</idno>
+		<idno type="ISSNe">1573-9066</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">7-8</biblScope>
+			<biblScope unit="page" from="469" to="476" />
+			<date type="published" when="2013-11" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="5,321.73,478.54,216.92,8.72;5,321.72,488.91,216.87,8.72;5,321.72,499.24,216.90,8.72;5,321.72,509.61,134.96,8.72;5,321.72,519.57,148.91,9.21" xml:id="b1">
+	<monogr>
+		<title level="m" type="main">HS 6-5-2 steel surface layer development in carbonitoring with zeroflow method. Tehnicki Vjesnik-Technical Gazette</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Jzwik</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Dziedzic</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Usydus</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Raos</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">M</forename><surname>Krolczyk</surname></persName>
+		</author>
+		<idno type="DOI">10.17559/TV-20150402150811</idno>
+		<ptr target="https://doi.org/10.17559/TV-20150402150811" />
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1405" to="1409" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="5,321.72,530.31,216.83,8.72;5,321.74,540.64,216.90,8.72;5,321.74,550.96,216.81,8.72;5,321.74,560.91,204.52,9.21" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Improving the efficiency of running-in for a bronzestainless steel friction pair</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">W</forename><surname>Maruda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">E</forename><surname>Feldshtein</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Legutko</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">M</forename><surname>Krlczyk</surname></persName>
+		</author>
+		<idno type="DOI">10.3103/s1068366615060082</idno>
+		<ptr target="https://doi.org/10.3103/S1068366615060082" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Friction and Wear</title>
+		<title level="j" type="abbrev">J. Frict. Wear</title>
+		<idno type="ISSN">1068-3666</idno>
+		<idno type="ISSNe">1934-9386</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="548" to="553" />
+			<date type="published" when="2015-11" />
+			<publisher>Allerton Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="5,321.74,571.72,216.92,8.72;5,321.73,582.05,216.90,8.72;5,321.73,592.42,216.84,8.72;5,321.73,602.75,138.20,8.72;5,321.72,612.76,167.32,9.21" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Metrological changes in surface morphology of high-strength steels in manufacturing processes</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">M</forename><surname>Krolczyk</surname></persName>
+			<idno type="ORCID">0000-0002-2967-1719</idno>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">B</forename><surname>Krolczyk</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">W</forename><surname>Maruda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Legutko</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Tomaszewski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.measurement.2016.03.055</idno>
+		<ptr target="https://doi.org/10.1016/j.measurement.2016.03.055" />
+	</analytic>
+	<monogr>
+		<title level="j">Measurement</title>
+		<title level="j" type="abbrev">Measurement</title>
+		<idno type="ISSN">0263-2241</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="176" to="185" />
+			<date type="published" when="2016-06" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="5,321.72,623.44,216.89,8.72;5,321.72,633.82,216.93,8.72;5,321.72,644.14,216.86,8.72;5,321.72,654.46,96.74,8.72;5,321.71,664.48,148.49,9.21" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Influence of thermal oxidation temperature on the microstructural and tribological behavior of Ti6Al4V alloy</title>
+		<author>
+			<persName><forename type="first">Song</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhenhua</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuhong</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weiqiang</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2014.01.004</idno>
+		<ptr target="https://doi.org/10.1016/j.surfcoat.2014.01.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">240</biblScope>
+			<biblScope unit="page" from="470" to="477" />
+			<date type="published" when="2014-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="5,321.71,675.16,216.89,8.72;5,321.70,685.54,216.83,8.72;5,321.70,695.86,165.99,8.72;5,321.70,705.88,144.35,9.21" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Wear behavior of -irradiated Ti6Al4V alloy sliding on TiN deposited steel surface</title>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Saravanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Elaya</forename><surname>Perumal</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2015.09.040</idno>
+		<ptr target="https://doi.org/10.1016/j.triboint.2015.09.040" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="451" to="463" />
+			<date type="published" when="2016-01" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="5,321.71,716.56,216.94,8.72;5,321.72,726.89,216.97,8.72;5,321.72,737.26,216.88,8.72;5,321.72,747.59,152.73,8.72;5,321.72,757.60,131.63,9.21" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Tribological evaluation of surface modified H13 tool steel in warm forming of Ti-6Al-4V titanium alloy sheet</title>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Dan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Heng</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Jun</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Guangjun</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cja.2014.03.030</idno>
+		<ptr target="https://doi.org/10.1016/j.cja.2014.03.030" />
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Journal of Aeronautics</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1002" to="1009" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.68,58.90,216.88,8.72;6,73.70,69.23,216.80,8.72;6,73.70,79.60,216.91,8.72;6,73.70,89.93,216.87,8.72;6,73.70,99.88,183.02,9.21" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Investigation of Friction and Wear Mechanisms of TiAlV Coated Carbide Against Ti6Al4V Titanium Alloy Using Pin-On-Disc Tribometer</title>
+		<author>
+			<persName><forename type="first">Wit</forename><surname>Grzesik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Maecka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zbigniew</forename><surname>Zalisz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Krzysztof</forename><surname>Zak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Piotr</forename><surname>Niesony</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/meceng-2016-0006</idno>
+		<ptr target="https://doi.org/10.1515/meceng-2016-0006" />
+	</analytic>
+	<monogr>
+		<title level="j">Archive of Mechanical Engineering</title>
+		<idno type="ISSNe">2300-1895</idno>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="113" to="127" />
+			<date type="published" when="2016-03-01" />
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.71,110.69,216.88,8.72;6,73.72,121.01,216.94,8.72;6,73.73,131.39,68.23,8.72" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Dry sliding wear mechanisms of the Ti6Al4V alloy</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Molinari</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Straffelini</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Tesi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Bacci</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0043-1648(96)07454-6</idno>
+		<idno type="PII">S0043-1648(96)07454-6</idno>
+		<idno type="ark">ark:/67375/6H6-SV0HXN1J-D</idno>
+		<idno type="istexId">0CC699571911EA881EBD49F3DBC696C11E6ADA35</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">208</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="105" to="112" />
+			<date type="published" when="1997-07" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.73,141.34,155.90,9.21" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Dry sliding wear mechanisms of the Ti6Al4V alloy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molinari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Straffelini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bacci</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0043-1648(96)07454-6</idno>
+		<idno type="PII">S0043-1648(96)07454-6</idno>
+		<idno type="ark">ark:/67375/6H6-SV0HXN1J-D</idno>
+		<idno type="istexId">0CC699571911EA881EBD49F3DBC696C11E6ADA35</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">208</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="105" to="112" />
+			<date type="published" when="1997-07" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.73,152.09,216.88,8.72;6,73.73,162.41,110.71,8.72;6,73.73,172.37,151.28,9.21" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Tribological properties of titanium alloys</title>
+		<author>
+			<persName coords=""><forename type="first">Kenneth</forename><forename type="middle">G</forename><surname>Budinski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0043-1648(91)90249-t</idno>
+		<idno type="PII">0043-1648(91)90249-T</idno>
+		<idno type="ark">ark:/67375/6H6-6WSV2J0N-1</idno>
+		<idno type="istexId">6605241DF1B1445EA542672F027104A52DF49CBA</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="203" to="217" />
+			<date type="published" when="1991-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.73,183.11,216.89,8.72;6,73.75,193.43,216.91,8.72;6,73.75,203.81,216.81,8.72;6,73.75,213.70,181.76,9.21" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Adhesive wear of a Ti6Al4V tribopair for a fast friction contact</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Chassaing</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Faure</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Philippon</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Coulibaly</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Tidu</surname></persName>
+			<idno type="ORCID">0000-0002-1563-241X</idno>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Chevrier</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Meriaux</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2014.08.001</idno>
+		<ptr target="https://doi.org/10.1016/j.wear.2014.08.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">320</biblScope>
+			<biblScope unit="page" from="25" to="33" />
+			<date type="published" when="2014-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.75,224.51,216.93,8.72;6,73.75,234.89,216.86,8.72;6,73.75,245.21,216.87,8.72;6,73.75,255.59,131.73,8.72;6,73.75,265.54,167.32,9.21" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Surface morphology analysis of Duplex Stainless Steel (DSS) in Clean Production using the Power Spectral Density</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">M</forename><surname>Krolczyk</surname></persName>
+			<idno type="ORCID">0000-0002-2967-1719</idno>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">W</forename><surname>Maruda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nieslony</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Wieczorowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.measurement.2016.08.023</idno>
+		<ptr target="https://doi.org/10.1016/j.measurement.2016.08.023" />
+	</analytic>
+	<monogr>
+		<title level="j">Measurement</title>
+		<title level="j" type="abbrev">Measurement</title>
+		<idno type="ISSN">0263-2241</idno>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="464" to="470" />
+			<date type="published" when="2016-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.75,276.23,216.89,8.72;6,73.76,286.60,216.83,8.72;6,73.76,296.93,216.86,8.72;6,73.76,306.88,198.12,9.21" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Microstructure and tribological behaviors of Ti6Al4V alloy treated by plasma Ni alloying</title>
+		<author>
+			<persName><forename type="first">Zhenxia</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhiyong</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yingqin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoping</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bin</forename><surname>Tang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2011.07.040</idno>
+		<ptr target="https://doi.org/10.1016/j.apsusc.2011.07.040" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="10267" to="10272" />
+			<date type="published" when="2011-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.76,317.69,216.86,8.72;6,73.74,328.01,216.86,8.72;6,73.74,338.39,216.92,8.72;6,73.74,348.71,119.01,8.72" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Microstructure and properties of the intermetallic layers on the Ti-6Al-4V titanium alloy</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Garbacz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Ossowski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Wierciski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Wierzcho</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">J</forename><surname>Kurzydowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Problemy Eksploatacji</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="45" to="55" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.74,359.09,216.87,8.72;6,73.75,369.41,216.86,8.72;6,73.75,379.73,216.89,8.72;6,73.75,390.11,216.90,8.72;6,73.75,400.00,190.76,9.21" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Experimental and numerical study of frictional heating during rapid interactions of a Ti6Al4V tribopair</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Chassaing</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Pougis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Philippon</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Lipinski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Faure</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Meriaux</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Demmou</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Lefebvre</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2015.09.013</idno>
+		<ptr target="https://doi.org/10.1016/j.wear.2015.09.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">342-343</biblScope>
+			<biblScope unit="page" from="322" to="333" />
+			<date type="published" when="2015-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.75,410.81,216.89,8.72;6,73.74,421.19,216.86,8.72;6,73.74,431.51,216.87,8.72;6,73.74,441.47,192.90,9.21" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Diagnostics of stator faults of the single-phase induction motor using thermal images, MoASoS and selected classifiers</title>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Glowacz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zygfryd</forename><surname>Glowacz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.measurement.2016.07.008</idno>
+		<ptr target="https://doi.org/10.1016/j.measurement.2016.07.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Measurement</title>
+		<title level="j" type="abbrev">Measurement</title>
+		<idno type="ISSN">0263-2241</idno>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="86" to="93" />
+			<date type="published" when="2016-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,73.74,452.27,216.90,8.72;6,73.74,462.60,216.84,8.72;6,73.74,472.97,117.75,8.72;6,73.74,482.93,147.22,9.21" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Diagnosis of the three-phase induction motor using thermal imaging</title>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Glowacz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zygfryd</forename><surname>Glowacz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.infrared.2016.12.003</idno>
+		<ptr target="https://doi.org/10.1016/j.infrared.2016.12.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Infrared Physics &amp; Technology</title>
+		<title level="j" type="abbrev">Infrared Physics &amp; Technology</title>
+		<idno type="ISSN">1350-4495</idno>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="7" to="16" />
+			<date type="published" when="2017-03" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,56.70,516.11,64.54,8.16" xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Contact information</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,56.70,534.46,71.84,8.16;6,56.70,543.64,94.86,8.16;6,56.70,552.82,93.05,8.16;6,56.70,561.99,140.83,8.16;6,56.70,571.17,74.49,8.16" xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName coords=""><forename type="first">Jozwik</forename><surname>Jerzy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Dr</forename><surname>Eng</surname></persName>
+		</author>
+		<ptr target="j.jozwik@pollub.pl" />
+	</analytic>
+	<monogr>
+		<title level="j">Mechanical Engineering Faculty</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="20" to="618" />
+		</imprint>
+		<respStmt>
+			<orgName>Lublin University of Technology, Nadbystrzycka Street</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

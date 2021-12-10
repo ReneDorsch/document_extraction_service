@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The high temperature and varying temperature tribological performance of TiC coatings</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IOP Publishing</publisher>
+				<availability status="unknown"><p>Copyright IOP Publishing</p>
+				</availability>
+				<date type="published" when="2018-07">2018-07</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="2,141.86,263.07,64.85,9.81"><forename type="first">Zeyong</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Materials Science and Engineering</orgName>
+								<orgName type="institution">Nanchang Hangkong University</orgName>
+								<address>
+									<settlement>Nanchang</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Jiangxi Province</orgName>
+								<address>
+									<postCode>330063</postCode>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="2,215.84,263.07,79.70,9.81"><forename type="first">Shengshuang</forename><surname>Hu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">AVIC Xi&apos;an Aircaft Industry(GROUP) Company LTD</orgName>
+								<address>
+									<postCode>710089</postCode>
+									<settlement>Xi&apos;an</settlement>
+									<region>Shanxi Province</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="2,304.66,263.07,68.62,9.81"><forename type="first">Changjie</forename><surname>Feng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Materials Science and Engineering</orgName>
+								<orgName type="institution">Nanchang Hangkong University</orgName>
+								<address>
+									<settlement>Nanchang</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Jiangxi Province</orgName>
+								<address>
+									<postCode>330063</postCode>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="2,389.62,263.07,41.21,9.81"><forename type="first">En</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Materials Science and Engineering</orgName>
+								<orgName type="institution">Nanchang Hangkong University</orgName>
+								<address>
+									<settlement>Nanchang</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Jiangxi Province</orgName>
+								<address>
+									<postCode>330063</postCode>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The high temperature and varying temperature tribological performance of TiC coatings</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">IOP Conference Series: Materials Science and Engineering</title>
+						<title level="j" type="abbrev">IOP Conf. Ser.: Mater. Sci. Eng.</title>
+						<idno type="ISSN">1757-8981</idno>
+						<idno type="eISSN">1757-899X</idno>
+						<imprint>
+							<publisher>IOP Publishing</publisher>
+							<biblScope unit="volume">382</biblScope>
+							<biblScope unit="page">022032</biblScope>
+							<date type="published" when="2018-07" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">B5E18E19017F241475AEB75D167F51C6</idno>
+					<idno type="DOI">10.1088/1757-899x/382/2/022032</idno>
+					<ptr type="open-access" target="https://iopscience.iop.org/article/10.1088/1757-899X/382/2/022032/pdf" />
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0" ident="GROBID" when="2021-10-12T15:12+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="2,184.28,367.60,340.02,9.11;2,141.86,379.12,162.17,9.11">TiC coatings were deposited on the AISI304 sheets by cathodic arc ion plating using pure Ti target in Ar/CH4 atmosphere.</s><s coords="2,308.97,379.12,215.35,9.11;2,141.86,390.58,382.63,9.11;2,141.86,402.10,128.82,9.11">The surface morphology, hardness and tribological properties were investigated by scanning electron microscope(SEM), micro-hardness tester and ball-on-disc rotating tribometer.</s><s coords="2,273.87,402.10,250.43,9.11;2,141.86,413.62,20.62,9.11">The results show that the thickness of the coatings was about 6m.</s><s coords="2,165.37,413.62,126.93,9.11">The hardness was 2000Hv0.05.</s><s coords="2,295.20,413.62,239.58,9.11;2,141.86,425.10,147.47,9.11">The tribological tests were carried out at RT, 200, 400 and RT-400 against alumina balls.</s><s coords="2,291.89,425.10,232.55,9.11;2,141.86,436.62,352.85,9.11">The friction coefficient was stable at 0.57 at RT, while the coefficient fluctuated largely at 200 and RT-400 due to the lower relative humidity.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.0" lry="842.0"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p><s coords="2,70.92,483.71,393.46,9.98">TiC is a kind of transition metal carbide with tipical NaCl face-centered cubic structure.</s><s coords="2,467.73,483.71,56.60,9.98;2,70.92,496.37,453.33,9.98;2,70.92,509.03,453.18,9.98;2,70.92,521.63,87.60,9.98;2,158.54,519.88,14.10,6.38;2,172.58,521.63,2.75,9.98">TiC coatings were widely used in the field of mechanical processing, mineral metallurgy and aerospace fields due to its good thermal stability, lower friction coefficient, higher hardness, better wear resistance and corrosion resistance <ref type="bibr" coords="2,158.54,519.88,5.64,6.38" target="#b0">[1]</ref><ref type="bibr" coords="2,164.18,519.88,2.82,6.38" target="#b2">[2]</ref><ref type="bibr" coords="2,167.00,519.88,5.64,6.38" target="#b3">[3]</ref> .</s></p><p><s coords="2,85.16,534.29,439.11,9.98;2,70.92,546.95,159.02,9.98;2,230.06,545.20,8.21,6.38;2,238.22,546.95,2.75,9.98">Physical vapor deposition method was employed to prepare coatings due to the even composition and lower deposition temperature <ref type="bibr" coords="2,230.06,545.20,8.21,6.38" target="#b4">[4]</ref> .</s><s coords="2,247.72,546.95,76.48,9.98;2,324.22,545.20,8.21,6.38;2,339.04,546.95,185.33,9.98;2,70.92,559.61,187.42,9.98">F.Santerre et al. <ref type="bibr" coords="2,324.22,545.20,8.21,6.38" target="#b6">[5]</ref> prepared TiC coatings by pulsed laser deposition technology using TiC target.</s><s coords="2,264.70,559.61,107.47,9.98;2,372.22,557.86,8.22,6.38;2,386.56,559.61,137.82,9.98;2,70.92,572.27,305.19,9.98">M.P. Delplancke et al. <ref type="bibr" coords="2,372.22,557.86,8.22,6.38" target="#b8">[6]</ref> prepared DLC/TiC composite coatings by arc ion plating technology using C target and Ti target.</s><s coords="2,380.26,572.27,75.18,9.98;2,455.46,570.52,8.21,6.38;2,465.42,572.27,59.01,9.98;2,70.92,584.93,364.37,9.98">O.A.Fouad et al. <ref type="bibr" coords="2,455.46,570.52,8.21,6.38" target="#b9">[7]</ref> prepared TiC coatings by magnetron sputtering using Ti target in the Ar/CH4 mixed atmosphere.</s></p><p><s coords="2,85.16,597.53,439.22,9.98;2,70.92,610.19,263.62,9.98;2,334.54,608.44,17.64,6.38;2,352.12,610.19,2.75,9.98">Compared with other coating preparation technology, the coatings deposited by arc ion plating have higher density and better adhesive strength with substrates <ref type="bibr" coords="2,334.54,608.44,5.88,6.38" target="#b10">[8]</ref><ref type="bibr" coords="2,340.42,608.44,2.94,6.38" target="#b11">[9]</ref><ref type="bibr" coords="2,343.36,608.44,8.82,6.38" target="#b12">[10]</ref> .</s><s coords="2,358.60,610.19,165.71,9.98;2,70.92,622.85,375.22,9.98">In this paper, TiC coatings deposited by arc ion plating technology using Ti target in the Ar/CH4 mixed atmosphere.</s><s coords="2,451.56,622.85,72.92,9.98;2,70.92,635.51,429.70,10.15">The tribological performance of coatings was investigated against Al 2 O 3 balls at RT, 200, 400 and RT-400.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental Details</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Coatings deposition.</head><p><s coords="2,70.92,697.45,453.45,9.98;2,70.92,710.11,244.81,10.15">TiC coatings were deposited on the 304 stainless steel sheets, 20mm  30mm  2mm, by arc ion plating using pure Ti target in the Ar/CH 4 atmosphere.</s><s coords="2,319.20,710.11,205.04,9.98;2,70.92,722.77,292.85,9.98">Before deposition, the substrates were ground and polished, degreased, and ultrasonically cleaned in ethanol.</s><s coords="2,369.05,722.77,155.00,9.98;2,70.92,735.43,397.87,9.98">A rotational substrate holder was located in the vacuum chamber, with a 100 mm distance (substrates from the target).</s><s coords="2,473.61,735.43,50.45,9.98;2,70.92,748.09,453.26,9.98;3,265.58,72.22,65.54,7.14;3,70.00,57.87,58.05,8.94;3,463.53,57.87,61.40,8.94;3,70.00,71.99,41.11,8.94">In order to achieve better adhesion between the coatings and the substrates, the substrates were sputtered in argon 1234567890''"" AMIMA 2018 IOP Publishing IOP Conf.</s><s coords="3,113.61,71.75,411.32,9.18">Series: Materials Science and Engineering 382 (2018) 022032 doi:10.1088/1757-899X/382/2/022032</s><s coords="3,70.92,116.05,239.79,9.99">atmosphere for 10 min under -800V d.c bias voltage.</s><s coords="3,314.39,116.05,209.71,9.98;3,70.92,128.71,453.36,9.98;3,70.92,141.33,409.64,9.99">During all the sputtering process, the substrate temperature, the holder rotational speed, the working pressure and the target electric current, substrates bias voltage were kept constant at 250, 13 rpm, 1.2Pa, 55A and -600V, respectively.</s><s coords="3,485.66,141.33,38.81,9.98;3,70.92,153.99,169.07,9.98">The TiC coatings deposition time was 120 min.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Coatings characterization.</head><p><s coords="3,70.92,191.31,453.22,9.98;3,70.92,203.97,112.67,9.98">The surface and cross-section micromorphology of the coatings was observed by scanning electron microscopy (quanta 200).</s><s coords="3,186.12,203.97,334.86,9.98">The wear tracks morphology was analyzed by SEM and optical microscopy.</s></p><p><s coords="3,85.16,216.63,373.74,9.98">The hardness of the coatings were characterized by Vickers microhardness tester.</s><s coords="3,463.40,216.63,60.71,9.98;3,70.92,229.23,195.95,9.98">The load and loading time were 50g and 10s, respectively.</s></p><p><s coords="3,85.16,241.89,439.23,10.15;3,70.92,254.55,78.43,9.98">The composition of the TiC coatings prepared by arc ion plating at different CH 4 flow rates was analyzed by XPS.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Tribological tests.</head><p><s coords="3,70.92,291.87,453.39,9.98;3,70.92,304.47,378.02,10.15">The tribological properties of TiC coatings were investigated by a ball-on-disc rotating tribometer against Al 2 O 3 (diameter 5mm) at RT, 200, 400and RT-400, respectively.</s><s coords="3,454.70,304.47,69.64,9.98;3,70.92,317.13,453.05,9.98;3,70.92,329.79,184.65,9.98">The tests were performed with a sliding speed of 196 rpm under a load of 2.2 N. The rotational radius and sliding time were 3 mm and 20 min, respectively.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and Discussions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Morphology of TiAlN-Ag Coatings.</head><p><s coords="3,70.92,391.71,453.46,9.98;3,70.92,404.37,228.13,9.98">The surface micromorphology was shown as Figure <ref type="figure" coords="3,321.76,391.71,4.09,9.98" target="#fig_0">1</ref>(a), some typical particles generated from cathode arc were distributed on the coating surface.</s><s coords="3,302.04,404.37,222.33,9.98;3,70.92,417.05,297.45,9.98">From Figure <ref type="figure" coords="3,360.82,404.37,4.22,9.98" target="#fig_0">1</ref>(b), the Ti middle layer of 1m was clearly distinguished, The thickness of the coatings was about 6m.</s><s coords="4,70.92,368.25,453.52,9.98;4,70.92,380.91,151.25,9.98;4,225.56,379.16,20.20,6.38;4,245.74,380.91,2.75,9.98">During the test, the bond energy of contaminated carbon is about 285 eV, and the bond energy of C-1s in metal carbides is about 282 eV <ref type="bibr" coords="4,225.56,379.16,11.54,6.38" target="#b14">[11,</ref><ref type="bibr" coords="4,237.10,379.16,8.66,6.38" target="#b16">12]</ref> .</s><s coords="4,251.91,380.91,272.59,9.98;4,70.92,393.57,453.08,9.98;4,70.92,406.23,244.67,9.98">It can be seen from the C-1s spectrum that the Ti-C (282eV) peak of the coating prepared at a flow rate of 2sccm is weakest and the area is the smallest, which means that the Ti-C content in the coating is the lowest.</s></p><p><s coords="4,85.16,418.85,439.00,9.98">In the Ti-2p spectrum, the Ti-2p3 / 2 peaks are located at three bond energies of Ti=O (455.3eV),</s><s coords="4,70.92,431.51,153.25,9.98;4,225.92,429.76,28.88,6.38">Ti-Ti (454eV) and Ti-C (454.6eV) <ref type="bibr" coords="4,225.92,429.76,11.55,6.38" target="#b14">[11,</ref><ref type="bibr" coords="4,237.47,429.76,8.66,6.38" target="#b16">12,</ref><ref type="bibr" coords="4,246.14,429.76,8.66,6.38" target="#b18">13]</ref></s><s coords="4,258.04,431.51,127.22,9.98">after fitting peak processing.</s><s coords="4,388.50,431.51,136.07,10.15;4,70.92,444.17,286.81,9.98">At the CH 4 flow rate of 2sccm and 10sccm, the coating still contains part of the metal Ti.</s><s coords="4,363.68,444.17,160.35,9.98;4,70.92,456.83,453.28,10.15;4,70.92,469.49,27.56,9.98">This is mainly because the lower concentration of CH 4 is not sufficient to completely carbonize the Ti atoms emitted from the cathode target.</s><s coords="4,102.33,469.49,421.92,10.15;4,70.92,482.09,332.91,9.98">It can be found that as the flow rate of CH 4 increases, the Ti-Ti peak intensity in the coating decreases continuously and the Ti-C peak intensity increases continuously.</s><s coords="4,407.08,482.09,117.16,9.98;4,70.92,494.75,284.92,9.98">The bond energy of the Ti atom in the coating continuously transforms into higher energy.</s><s coords="4,359.27,494.75,165.15,10.15;4,70.92,507.41,309.00,9.98">When the CH 4 flow rate increases to 20sccm, the peak of Ti-Ti (454eV) disappears and the Ti-C (454.6eV)</s><s coords="4,382.84,507.41,118.80,9.98">peak continues to increase.</s><s coords="4,504.59,507.41,19.61,9.98;4,70.92,520.07,337.00,10.15">This is mainly because the CH 4 concentration is enough to carbonize the Ti ions.</s><s coords="4,411.05,520.07,113.12,9.98;4,70.92,532.73,453.36,9.98;4,70.92,545.39,453.11,9.98">Because of the high bond energy between the C atoms of Ti atoms, ionization of the cathode target surface needs more energy, so that the Ti ions emitted per unit time decrease, resulting in a decrease of the coating deposition rate.</s><s coords="4,70.92,557.99,453.60,9.98;4,70.92,570.65,453.21,9.98;4,70.92,583.31,48.54,9.98;4,122.30,581.56,11.34,6.38;4,133.58,583.31,2.75,9.98">Ti=O can be detected in the coating prepared under the three flow conditions, probably due to the combination of O and Ti released from the inner wall of the vacuum chamber during the preparation of the coating <ref type="bibr" coords="4,122.30,581.56,11.34,6.38" target="#b14">[11]</ref> .</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">Tribological properties.</head><p><s coords="4,70.92,620.63,453.06,9.98;4,70.92,633.23,39.63,9.98;4,110.54,631.48,11.74,6.38;4,122.24,633.23,401.91,9.98;4,70.92,645.89,187.28,9.98">The hardness of the TiC coatings was about 2000Hv0.05, which was lower than that reported in the refereces <ref type="bibr" coords="4,110.54,631.48,11.74,6.38" target="#b19">[14]</ref> , and the reason may be ascribed to the partially carbonization of the Ti ions during the deposition process as depicted in Figure <ref type="figure" coords="4,249.94,645.89,4.13,9.98" target="#fig_2">3</ref>.</s><s coords="5,85.16,431.51,439.36,10.15;5,70.92,444.17,85.44,9.98">The friction coefficient of TiC coatings against Al 2 O 3 balls at RT, 200, 400 and RT-400 was shown in Figure <ref type="figure" coords="5,148.10,444.17,4.13,9.98">4</ref>.</s><s coords="5,160.09,444.17,364.07,9.98">The friction coefficient was most steady and had the lowest value of 0.57 at RT.</s><s coords="5,70.92,456.83,453.24,9.98;5,70.92,469.49,369.45,9.98">When at 200 and 400, the friction coefficient increased in 5 minutes, which resulted from that the water film was broken at higher temperature, due to the lower relative humidity.</s><s coords="5,444.53,469.49,79.47,9.98;5,70.92,482.15,453.40,10.15;5,70.92,494.75,167.54,9.98;5,238.70,493.00,11.68,6.38;5,250.36,494.75,2.75,9.98">Then, the friction coefficient began to decreased, which maybe resulted from the lubricating TiO x generated on the wear tracks due to the oxidation of coating <ref type="bibr" coords="5,238.70,493.00,11.68,6.38" target="#b20">[15]</ref> .</s><s coords="5,256.53,494.75,212.43,9.98;5,468.96,493.00,11.74,6.38;5,480.66,494.75,2.75,9.98">The process was known as " running-in " stage <ref type="bibr" coords="5,468.96,493.00,11.74,6.38" target="#b21">[16]</ref> .</s><s coords="5,486.83,494.75,37.61,9.98;5,70.92,507.41,453.53,9.98;5,70.92,520.07,90.58,9.98;5,161.60,518.32,11.74,6.38;5,173.30,520.07,2.75,9.98">When at 400, the friction coefficient was more steady with respect to that of 200, due to the higher ambient temperature <ref type="bibr" coords="5,161.60,518.32,11.74,6.38" target="#b22">[17]</ref> .</s><s coords="7,70.00,57.87,58.05,8.94;7,463.53,57.87,61.40,8.94;7,70.00,71.99,41.11,8.94">AMIMA 2018 IOP Publishing IOP Conf.</s><s coords="7,113.61,71.75,411.32,9.18">Series: Materials Science and Engineering 382 (2018) 022032 doi:10.1088/1757-899X/382/2/022032</s><s coords="7,70.92,116.05,438.88,10.15;7,510.00,114.30,11.74,6.38;7,521.70,116.05,2.75,9.98">narrow(300m), which because of that the TiO x generated easier at the higher ambient temperature <ref type="bibr" coords="7,510.00,114.30,11.74,6.38" target="#b23">[18]</ref> .</s><s coords="7,70.92,128.71,453.37,9.98;7,70.92,141.33,452.95,9.98;7,70.92,153.99,93.33,9.98">When at RT-400, the " running-in" stage time was longer, which the friction increased with the decreasing relative humidity, due to that the coatings temperature increased slowly with the increasing ambient temperature.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p><s coords="7,70.92,191.31,223.37,9.98">(1) TiC coatings were deposited by arc ion plating.</s><s coords="7,296.89,191.31,200.73,9.98">The thickness of the coatings was about 6m.</s></p><p><s coords="7,85.16,203.97,438.94,9.98;7,70.92,216.63,257.23,9.98">(2) The friction coefficient was lowest and the wear track was the most narrow at RT, which means the TiC coatings have the best wear resistance at RT.</s><s coords="7,333.79,216.63,190.62,9.98;7,70.92,229.23,204.45,9.98">The severe wear occurred at 200 and RT-400, due to the lower relative humidity.</s><s coords="7,278.55,229.23,245.72,9.98;7,70.92,241.89,81.49,9.98">The friction coefficient fluctuated largely, and the wear tracks were wider.</s><s coords="7,155.84,241.89,368.58,10.15;7,70.92,254.55,96.72,9.98">The wear tracks were more narrow at 400 due to the lubricating TiO x generated at higher temperature.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="3,146.12,573.71,302.97,9.98;3,125.96,585.39,115.03,11.80;3,323.68,587.21,129.38,9.98;3,131.15,427.03,159.25,141.88"><head>Figure 1</head><label>1</label><figDesc><div><p><s coords="3,146.12,573.71,302.97,9.98;3,125.96,585.39,115.03,11.80;3,323.68,587.21,129.38,9.98">Figure 1 surface and cross-section micromorphology of TiC coatings (a)surface morphology (b) cross-section morphology</s></p></div></figDesc><graphic coords="3,131.15,427.03,159.25,141.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="4,121.16,342.93,353.02,9.98;4,70.92,355.59,453.30,9.98;4,70.92,368.25,453.52,9.98;4,70.92,380.91,151.25,9.98;4,225.56,379.16,20.20,6.38;4,245.74,380.91,278.76,9.98;4,70.92,393.57,453.08,9.98;4,70.92,406.23,244.67,9.98;4,85.16,418.85,439.00,9.98;4,70.92,431.51,153.25,9.98;4,225.92,429.76,28.88,6.38;4,258.04,431.51,266.54,10.15;4,70.92,444.17,453.11,9.98;4,70.92,456.83,453.28,10.15;4,70.92,469.49,453.33,10.15;4,70.92,482.09,453.31,9.98;4,70.92,494.75,453.50,10.15;4,70.92,507.41,453.28,9.98;4,70.92,520.07,453.24,10.15;4,70.92,532.73,453.36,9.98;4,70.92,545.39,453.11,9.98;4,70.92,557.99,453.60,9.98;4,70.92,570.65,453.21,9.98;4,70.92,583.31,48.54,9.98;4,122.30,581.56,11.34,6.38;4,133.58,583.31,2.75,9.98"><head>Figure 2</head><label>2</label><figDesc><div><p><s coords="4,121.16,342.93,353.02,9.98;4,70.92,355.59,453.30,9.98">Figure2XPS spectra of C-1s, Ti-2p regions of samples with different CH4 flow Figure2shows the XPS spectra of C-1s and Ti-2p on the surface of the coating after Ar ion cleaning.</s><s coords="4,70.92,368.25,453.52,9.98;4,70.92,380.91,151.25,9.98;4,225.56,379.16,20.20,6.38;4,245.74,380.91,2.75,9.98">During the test, the bond energy of contaminated carbon is about 285 eV, and the bond energy of C-1s in metal carbides is about 282 eV<ref type="bibr" coords="4,225.56,379.16,11.54,6.38" target="#b14">[11,</ref><ref type="bibr" coords="4,237.10,379.16,8.66,6.38" target="#b16">12]</ref> .</s><s coords="4,251.91,380.91,272.59,9.98;4,70.92,393.57,453.08,9.98;4,70.92,406.23,244.67,9.98;4,85.16,418.85,439.00,9.98">It can be seen from the C-1s spectrum that the Ti-C (282eV) peak of the coating prepared at a flow rate of 2sccm is weakest and the area is the smallest, which means that the Ti-C content in the coating is the lowest.In the Ti-2p spectrum, the Ti-2p3 / 2 peaks are located at three bond energies of Ti=O (455.3eV),</s><s coords="4,70.92,431.51,153.25,9.98;4,225.92,429.76,28.88,6.38;4,258.04,431.51,127.22,9.98">Ti-Ti (454eV) and Ti-C (454.6eV)<ref type="bibr" coords="4,225.92,429.76,11.55,6.38" target="#b14">[11,</ref><ref type="bibr" coords="4,237.47,429.76,8.66,6.38" target="#b16">12,</ref><ref type="bibr" coords="4,246.14,429.76,8.66,6.38" target="#b18">13]</ref> after fitting peak processing.</s><s coords="4,388.50,431.51,136.07,10.15;4,70.92,444.17,286.81,9.98">At the CH 4 flow rate of 2sccm and 10sccm, the coating still contains part of the metal Ti.</s><s coords="4,363.68,444.17,160.35,9.98;4,70.92,456.83,453.28,10.15;4,70.92,469.49,27.56,9.98">This is mainly because the lower concentration of CH 4 is not sufficient to completely carbonize the Ti atoms emitted from the cathode target.</s><s coords="4,102.33,469.49,421.92,10.15;4,70.92,482.09,332.91,9.98">It can be found that as the flow rate of CH 4 increases, the Ti-Ti peak intensity in the coating decreases continuously and the Ti-C peak intensity increases continuously.</s><s coords="4,407.08,482.09,117.16,9.98;4,70.92,494.75,284.92,9.98">The bond energy of the Ti atom in the coating continuously transforms into higher energy.</s><s coords="4,359.27,494.75,165.15,10.15;4,70.92,507.41,309.00,9.98">When the CH 4 flow rate increases to 20sccm, the peak of Ti-Ti (454eV) disappears and the Ti-C (454.6eV)</s><s coords="4,382.84,507.41,118.80,9.98">peak continues to increase.</s><s coords="4,504.59,507.41,19.61,9.98;4,70.92,520.07,337.00,10.15">This is mainly because the CH 4 concentration is enough to carbonize the Ti ions.</s><s coords="4,411.05,520.07,113.12,9.98;4,70.92,532.73,453.36,9.98;4,70.92,545.39,453.11,9.98">Because of the high bond energy between the C atoms of Ti atoms, ionization of the cathode target surface needs more energy, so that the Ti ions emitted per unit time decrease, resulting in a decrease of the coating deposition rate.</s><s coords="4,70.92,557.99,453.60,9.98;4,70.92,570.65,453.21,9.98;4,70.92,583.31,48.54,9.98;4,122.30,581.56,11.34,6.38;4,133.58,583.31,2.75,9.98">Ti=O can be detected in the coating prepared under the three flow conditions, probably due to the combination of O and Ti released from the inner wall of the vacuum chamber during the preparation of the coating<ref type="bibr" coords="4,122.30,581.56,11.34,6.38" target="#b14">[11]</ref> .</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="5,190.64,407.37,213.97,9.98"><head>Figure 3</head><label>3</label><figDesc><div><p><s coords="5,190.64,407.37,213.97,9.98">Figure 3 Typical XRD pattern of the TiC coating</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="6,134.84,380.07,369.42,9.98;6,269.26,392.73,56.73,9.98"><head>Figure 4 Figure 5</head><label>45</label><figDesc><div><p><s coords="6,134.84,380.07,369.42,9.98;6,269.26,392.73,56.73,9.98">Figure 4 Function curves of friction coefficient and time of TiC coatings at different temperatures</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" coords="1,37.50,651.31,520.00,139.20"><head></head><label></label><figDesc><div><p><s></s></p></div></figDesc><graphic coords="1,37.50,651.31,520.00,139.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" coords="4,144.45,113.40,306.38,226.90"><head></head><label></label><figDesc><div><p><s></s></p></div></figDesc><graphic coords="4,144.45,113.40,306.38,226.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" coords="6,94.23,113.40,406.85,263.85"><head></head><label></label><figDesc><div><p><s></s></p></div></figDesc><graphic coords="6,94.23,113.40,406.85,263.85" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p><s coords="7,70.92,291.98,453.39,9.88;7,70.92,304.58,111.24,9.88">The authors express their gratitude to the financial support of the National Natural Science Foundation of China (No.51365041).</s></p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="7,92.24,341.79,431.84,9.98" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Mapping wear mechanisms of TiC/Ti composite coatings</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Rasool</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Mridha</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">M</forename><surname>Stack</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2015.03.022</idno>
+		<ptr type="open-access" target="https://strathprints.strath.ac.uk/49815/1/Rasool_etal_WEAR2015_mapping_wear_mechanisms_for_tic_ti_composite_coatings.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">328-329</biblScope>
+			<biblScope unit="page" from="498" to="508" />
+			<date type="published" when="2015-04" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,113.48,354.45,139.25,9.98" xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<imprint>
+			<biblScope unit="page" from="498" to="508" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,367.22,431.95,9.88;7,113.48,379.82,379.48,9.88" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Microstructure and Tribological Behavior of Laser in Situ Synthesized TiC-Reinforced Fe-Based Composite Coatings</title>
+		<author>
+			<persName><forename type="first">Baoshuai</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xinhong</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zengda</forename><surname>Zou</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11249-011-9808-4</idno>
+		<idno type="ark">ark:/67375/VQC-ZKJ1RTQN-X</idno>
+		<idno type="istexId">CF91F08D130E6756DB4F7B322FFA667C54A70712</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Letters</title>
+		<title level="j" type="abbrev">Tribol Lett</title>
+		<idno type="ISSN">1023-8883</idno>
+		<idno type="ISSNe">1573-2711</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="295" to="301" />
+			<date type="published" when="2011-06-17" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,392.48,432.22,9.88;7,113.48,405.98,381.05,9.88" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Hard TiC Coating on AISI304 Steel by Laser Surface Engineering Using Pulsed Nd:YAG Laser</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Ushashri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manoj</forename><surname>Masanta</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10426914.2014.973593</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials and Manufacturing Processes</title>
+		<title level="j" type="abbrev">Materials and Manufacturing Processes</title>
+		<idno type="ISSN">1042-6914</idno>
+		<idno type="ISSNe">1532-2475</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="730" to="735" />
+			<date type="published" when="2014-10-16" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,419.33,244.61,9.98" xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Zh</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Ma</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,340.16,419.33,183.97,9.98;7,113.48,431.99,41.80,9.98" xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName coords=""><surname>Beijing</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>China Machine Press</publisher>
+		</imprint>
+	</monogr>
+	<note>in Chinese</note>
+</biblStruct>
+
+<biblStruct coords="7,92.24,444.76,431.84,9.88" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Properties of TiC thin films grown by pulsed laser deposition</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Santerre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>El Khakani</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Chaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dodelet</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0169-4332(99)00139-7</idno>
+		<idno type="PII">S0169-4332(99)00139-7</idno>
+		<idno type="ark">ark:/67375/6H6-X0P0NJTH-R</idno>
+		<idno type="istexId">7CA2B7DE0D076BEC4563A2B492C1BD956BBD2F8B</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">148</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="24" to="33" />
+			<date type="published" when="1999-06" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,113.48,457.36,218.22,9.88" xml:id="b7">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<imprint>
+			<biblScope unit="volume">148</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="24" to="33" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,470.02,432.19,9.88;7,113.48,482.68,330.89,9.88" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Wear behavior of diamond-like carbon/metal carbide multilayers</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">P</forename><surname>Delplancke-Ogletree</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><forename type="middle">R</forename><surname>Monteiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0257-8972(98)00572-6</idno>
+		<idno type="PII">S0257-8972(98)00572-6</idno>
+		<idno type="ark">ark:/67375/6H6-P2LN2D5N-7</idno>
+		<idno type="istexId">C524BEE5A3B41B233081DF2A87CE595C47E117EF</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">108-109</biblScope>
+			<biblScope unit="page" from="484" to="488" />
+			<date type="published" when="1998-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,495.34,432.18,10.04;7,113.48,508.00,376.81,9.88" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Reactive sputtering of titanium in Ar/CH4 gas mixture: Target poisoning and film characteristics</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">A</forename><surname>Fouad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdul</forename><forename type="middle">K</forename><surname>Rumaiz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">Ismat</forename><surname>Shah</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tsf.2009.02.119</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Thin Solid Films</title>
+		<title level="j" type="abbrev">Thin Solid Films</title>
+		<idno type="ISSN">0040-6090</idno>
+		<imprint>
+			<biblScope unit="volume">517</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="5689" to="5694" />
+			<date type="published" when="2009-08" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,520.49,432.08,9.98;7,113.48,533.15,410.87,9.98;7,113.48,545.81,130.76,9.98" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Investigation of (Ti:N)-DLC coatings prepared by ion source assisted cathodic arc ion-plating with varying Ti target currents</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R Y</forename><forename type="middle">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H D</forename><forename type="middle">D</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">S</forename><surname>Mei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.diamond.2016.09.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diamond and Related Materials</title>
+		<title level="j" type="abbrev">Diamond and Related Materials</title>
+		<idno type="ISSN">0925-9635</idno>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="183" to="190" />
+			<date type="published" when="2016-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,558.47,432.21,9.98;7,113.48,571.13,410.91,9.98;7,113.48,583.73,190.31,9.98" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Protection against lead-free solder in wave-soldering by Ti/TiC coatings prepared by filtered cathodic arc deposition</title>
+		<author>
+			<persName coords=""><forename type="first">Shu</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Zhongzhen</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Liangliang</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ricky</forename><forename type="middle">K Y</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wan</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiubo</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">K</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Feng</forename><surname>Pan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2016.06.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">312</biblScope>
+			<biblScope unit="page" from="7" to="12" />
+			<date type="published" when="2017-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,596.39,431.94,9.98;7,113.48,609.05,250.79,9.98" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">An assessment of tribological performance on NiCoCrAlYTa coating under corrosive environments</title>
+		<author>
+			<persName coords=""><forename type="first">Xia</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Yulong</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Shuangjian</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoqin</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guoliang</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Huidi</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianmin</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2017.05.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="35" to="44" />
+			<date type="published" when="2017-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,367.72,609.05,156.65,9.98;7,113.48,621.71,28.49,9.98" xml:id="b13">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="35" to="44" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,634.48,413.38,9.88;7,113.48,647.14,212.45,9.88" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Structural and mechanical properties of reactively sputtered TiAlC nanostructured hard coatings</title>
+		<author>
+			<persName><forename type="first">Harsh</forename><forename type="middle">A</forename><surname>Chaliyawala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gaurav</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Praveen</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Srinivas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Siju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harish</forename><forename type="middle">C</forename><surname>Barshilia</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2015.06.032</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">276</biblScope>
+			<biblScope unit="page" from="431" to="439" />
+			<date type="published" when="2015-08" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,328.68,647.14,195.07,9.88;7,113.48,659.74,39.43,9.88" xml:id="b15">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Surface &amp; Coatings Technology</title>
+		<imprint>
+			<biblScope unit="volume">276</biblScope>
+			<biblScope unit="page" from="431" to="439" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,672.40,422.06,9.88;7,113.48,685.06,198.78,9.88" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Tribofilm formation and tribological properties of TiC and nanocomposite TiAlC coatings</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Lindquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Wilhelmsson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Jansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wiklund</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2008.04.046</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">266</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="379" to="387" />
+			<date type="published" when="2009-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,315.04,685.06,118.68,9.88" xml:id="b17">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<imprint>
+			<biblScope unit="volume">266</biblScope>
+			<biblScope unit="page" from="379" to="387" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,697.63,424.48,9.98;7,113.48,710.29,388.80,10.15" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The role of tribo-pairs in modifying the tribological behavior of the MoS2/Ti composite coating</title>
+		<author>
+			<persName><forename type="first">Hao</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guangan</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liping</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0022-3727/49/9/095501</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physics D: Applied Physics</title>
+		<title level="j" type="abbrev">J. Phys. D: Appl. Phys.</title>
+		<idno type="ISSN">0022-3727</idno>
+		<idno type="ISSNe">1361-6463</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">095501</biblScope>
+			<date type="published" when="2016-02-03" />
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,92.24,722.89,432.05,9.99;7,113.48,735.66,411.00,9.88;7,113.48,748.32,39.43,9.88;8,265.58,72.22,65.54,7.14;8,70.00,57.87,58.05,8.94;8,463.53,57.87,61.40,8.94;8,70.00,71.75,454.93,9.18" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Microstructure and properties of multilayer coatings with covalent bonded hard materials</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Leiste</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Dambacher</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Ulrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Holleck</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0257-8972(99)00190-5</idno>
+		<idno type="PII">S0257-8972(99)00190-5</idno>
+		<idno type="ark">ark:/67375/6H6-JLLCMQB4-G</idno>
+		<idno type="istexId">47753274E723EAC1F461F9D68C92F9668E9A91C3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">116-119</biblScope>
+			<biblScope unit="page" from="313" to="320" />
+			<date type="published" when="1999-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>Surface and Coatings Technology</note>
+</biblStruct>
+
+<biblStruct coords="8,92.24,116.05,432.04,9.98;8,113.48,128.71,410.98,9.98;8,113.48,141.33,292.68,9.98" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Effect of reactive gas composition on the microstructure, growth mechanism and friction coefficient of TiC overlayers</title>
+		<author>
+			<persName coords=""><forename type="first">P K</forename><forename type="middle">K</forename><surname>Ajikumar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Vijayakumar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kamruddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kalavathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Ravindran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Tyagi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijrmhm.2011.09.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Refractory Metals and Hard Materials</title>
+		<title level="j" type="abbrev">International Journal of Refractory Metals and Hard Materials</title>
+		<idno type="ISSN">0263-4368</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="62" to="70" />
+			<date type="published" when="2012-03" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,92.24,153.99,432.27,10.15;8,113.48,166.65,329.52,9.98" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The tribological behavior evolution of TiB2/Al composites from running-in stage to steady stage</title>
+		<author>
+			<persName coords=""><forename type="first">Haitao</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Longtao</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Guoqin</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiu</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gaohui</forename><surname>Wu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2016.10.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">368-369</biblScope>
+			<biblScope unit="page" from="304" to="313" />
+			<date type="published" when="2016-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,92.24,179.31,432.21,10.15;8,113.48,191.97,410.93,9.98;8,113.48,204.63,292.68,9.98" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Unlubricated friction and wear behaviors of Al2O3/TiC ceramic cutting tool materials from high temperature tribological tests</title>
+		<author>
+			<persName coords=""><forename type="first">Deng</forename><surname>Jianxin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Zhang</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Wu</forename><surname>Ze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lian</forename><surname>Yunsong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xing</forename><surname>Youqiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Shipeng</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijrmhm.2012.03.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Refractory Metals and Hard Materials</title>
+		<title level="j" type="abbrev">International Journal of Refractory Metals and Hard Materials</title>
+		<idno type="ISSN">0263-4368</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="17" to="26" />
+			<date type="published" when="2012-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,92.24,217.23,432.02,9.98;8,113.48,229.89,410.80,10.15;8,113.48,242.55,148.84,9.98" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Mechanical properties and sliding wear behaviour of Al 2 O 3 -SiC nanocomposites with 320 vol% SiC</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Parchoviansk</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Balko</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>vanrek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sedlek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dusza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lofaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Galusek</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jeurceramsoc.2017.04.051</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the European Ceramic Society</title>
+		<title level="j" type="abbrev">Journal of the European Ceramic Society</title>
+		<idno type="ISSN">0955-2219</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="4297" to="4306" />
+			<date type="published" when="2017-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

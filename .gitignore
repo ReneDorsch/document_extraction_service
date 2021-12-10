@@ -1,0 +1,7 @@
+/helper/
+/app/core/detection_models/models/cascade_mask_rcnn_hrnetv2p_w32_20e.py
+/app/core/detection_models/models/gpu_table_detection_model.pth
+/app/core/detection_models/models/cpu_table_detection_model.pth
+/app/core/detection_models/models/cascade_mask_rcnn_hrnetv2p_w32_20e_v2_x.py
+/app/core/detection_models/models/cascade_mask_rcnn_hrnetv2p_w32_20e_v2.py
+/app/core/detection_models/models/gpu_table_detection_model_x.pth

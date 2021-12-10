@@ -1,0 +1,2946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Applied Surface Science [Working Title]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IntechOpen</publisher>
+				<availability status="unknown"><p>Copyright IntechOpen</p>
+				</availability>
+				<date type="published" when="2020-07-25">25 July 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,37.59,207.90,56.80,9.49"><forename type="first">Max</forename><surname>Marian</surname></persName>
+							<email>marian@mfk.fau.de</email>
+							<affiliation key="aff0">
+								<orgName type="department">Engineering Design</orgName>
+								<orgName type="institution">Friedrich-Alexander-Universitt Erlangen-Nrnberg (FAU)</orgName>
+								<address>
+									<settlement>Erlangen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,111.12,207.90,75.74,9.49"><forename type="first">Gui</forename><forename type="middle">Cheng</forename><surname>Song</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory" key="lab1">Key Laboratory of Marine New Materials and Related Technology</orgName>
+								<orgName type="laboratory" key="lab2">Zhejiang Key Laboratory of Marine Materials and Protection Technology</orgName>
+								<orgName type="institution" key="instit1">Ningbo Institute of Material Technology &amp; Engineering</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>315201</postCode>
+									<settlement>Ningbo</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,197.74,207.90,42.36,9.49"><forename type="first">Bo</forename><surname>Wang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory" key="lab1">Key Laboratory of Marine New Materials and Related Technology</orgName>
+								<orgName type="laboratory" key="lab2">Zhejiang Key Laboratory of Marine Materials and Protection Technology</orgName>
+								<orgName type="institution" key="instit1">Ningbo Institute of Material Technology &amp; Engineering</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>315201</postCode>
+									<settlement>Ningbo</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,251.04,207.90,98.58,9.49"><forename type="first">Victor</forename><forename type="middle">M</forename><surname>Fuenzalida</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">FCFM</orgName>
+								<orgName type="institution">Universidad de Chile</orgName>
+								<address>
+									<settlement>Santiago</settlement>
+									<country key="CL">Chile</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,359.83,207.90,76.64,9.49"><forename type="first">Sebastian</forename><surname>Krau</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Materials Science &amp; Engineering I</orgName>
+								<orgName type="department" key="dep2">Interdisciplinary Center for Nanostructured Films</orgName>
+								<orgName type="institution">Friedrich-Alexander-Universitt Erlangen-Nrnberg (FAU)</orgName>
+								<address>
+									<settlement>Erlangen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,37.59,220.83,60.46,9.49"><forename type="first">Benoit</forename><surname>Merle</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Materials Science &amp; Engineering I</orgName>
+								<orgName type="department" key="dep2">Interdisciplinary Center for Nanostructured Films</orgName>
+								<orgName type="institution">Friedrich-Alexander-Universitt Erlangen-Nrnberg (FAU)</orgName>
+								<address>
+									<settlement>Erlangen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,109.02,220.83,82.99,9.49"><forename type="first">Stephan</forename><surname>Tremmel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Engineering Design</orgName>
+								<orgName type="institution">Friedrich-Alexander-Universitt Erlangen-Nrnberg (FAU)</orgName>
+								<address>
+									<settlement>Erlangen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,202.56,220.83,79.92,9.49"><forename type="first">Sandro</forename><surname>Wartzack</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Engineering Design</orgName>
+								<orgName type="institution">Friedrich-Alexander-Universitt Erlangen-Nrnberg (FAU)</orgName>
+								<address>
+									<settlement>Erlangen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,292.99,220.83,53.76,9.49"><forename type="first">Jinhong</forename><surname>Yu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory" key="lab1">Key Laboratory of Marine New Materials and Related Technology</orgName>
+								<orgName type="laboratory" key="lab2">Zhejiang Key Laboratory of Marine Materials and Protection Technology</orgName>
+								<orgName type="institution" key="instit1">Ningbo Institute of Material Technology &amp; Engineering</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>315201</postCode>
+									<settlement>Ningbo</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,357.68,220.83,95.34,9.49"><forename type="first">Andreas</forename><surname>Rosenkranz</surname></persName>
+							<email>arosenkranz@ing.uchile.cl</email>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Chemical Engineering, Biotechnology and Materials</orgName>
+								<orgName type="department" key="dep2">FCFM</orgName>
+								<orgName type="institution">Universidad de Chile</orgName>
+								<address>
+									<settlement>Santiago</settlement>
+									<country key="CL">Chile</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Applied Surface Science [Working Title]</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>IntechOpen</publisher>
+							<date type="published" when="2020-07-25">25 July 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B79B45A119CA72C2FCADA60B740B600B</idno>
+					<idno type="DOI">10.5772/intechopen.78198</idno>
+					<note type="submission">Received 29 March 2020; Received in revised form 25 May 2020; Accepted 18 July 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0" ident="GROBID" when="2021-10-16T09:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>MXene-nanosheets Contact pressure Relative humidity Friction reduction Wear reduction</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,203.13,333.30,354.47,7.66;1,203.13,343.46,94.92,6.45">Newly emerging Ti 3 C 2 T x -nanosheets (MXenes) have attracted considerable attention in energy storage, catalysis and, more recently, tribology.</s><s coords="1,300.24,343.46,257.36,6.45;1,203.13,353.04,270.44,6.45">MXene nanosheets are characterized by a weakly-bonded multi-layered structure with self-lubricating ability, making them a suitable candidate for solid lubrication.</s><s coords="1,476.22,353.04,81.42,6.45;1,203.13,361.99,354.53,7.17;1,203.13,372.15,269.53,6.45">This contribution aims at addressing for the first time their application in higher loaded steel/steel dry sliding contacts by investigating the influence of contact pressure and relative humidity on friction and wear performance.</s><s coords="1,474.46,372.15,83.13,6.45;1,203.13,381.73,354.49,6.45;1,203.13,391.25,249.23,6.45">Compared to the uncoated reference, a 2.3-fold friction reduction and a 2.7-fold reduction of the wear volume were verified for MXenecoated specimens for moderate contact pressures and low relative humidity.</s><s coords="1,455.24,391.25,102.37,6.45;1,203.13,400.26,251.91,7.67">This was due to the in-situ formation of a compacted tribo-film consisting of densified Ti 3 C 2 T x -nanosheets.</s><s coords="1,458.08,400.83,99.57,6.45;1,203.13,410.41,301.23,6.45">In contrast, too high pressures induced a partial rupture of the wear-protecting tribo-layer, thus reducing its beneficial effects.</s><s coords="1,506.32,410.41,51.32,6.45;1,203.13,419.94,354.46,6.45;1,203.13,429.52,132.88,6.45">Additionally, no beneficial effects regarding friction and/or wear were found at higher relative humidities, which was correlated with the expansion of the basal spacings.</s><s coords="1,338.63,429.52,219.03,6.45;1,203.13,439.10,354.48,6.45;1,203.13,448.68,185.36,6.45">Therefore, this study summarizes favorable operating conditions for MXene nanosheets when used as solid lubricant to improve friction and/or wear thus making them excellent candidates for advanced, next-generation solid lubricants.</s><s coords="1,319.07,596.68,238.57,7.17;1,306.59,607.11,251.01,7.92;1,306.60,617.60,184.55,7.86">ZHANG et al. [17]  demonstrated beneficial effects of the usage of Ti 3 C 2 -nanosheets when mixing them with ultra-high molecular weight polyethylene to create a Ti 3 C 2 /polymer-composite.</s><s coords="1,494.70,617.60,62.93,7.17;1,306.59,628.03,251.04,7.17;1,306.59,638.52,251.03,7.86;1,306.60,648.95,149.08,7.17">Besides a slightly increased hardness, improved yield strength and creep resistance, the Ti 3 C 2 /polymer-composites showed a reduced coefficient of friction (COF) and superior wear performance.</s><s coords="1,461.25,648.95,96.36,7.17">Recently, MAI et al. [18]</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="793.701"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p><s coords="1,50.06,513.00,238.57,7.17;1,37.59,522.80,251.08,7.97;1,37.59,533.92,47.29,7.17">The discovery of graphene with its remarkable physical properties can be considered as the initiation of the field of 2-dimensional materials <ref type="bibr" coords="1,62.93,533.92,7.32,7.17" target="#b0">[1]</ref><ref type="bibr" coords="1,70.25,533.92,3.66,7.17" target="#b1">[2]</ref><ref type="bibr" coords="1,73.90,533.92,7.32,7.17" target="#b2">[3]</ref>.</s><s coords="1,88.44,533.92,200.19,7.17;1,37.59,544.35,251.04,7.17;1,37.59,554.84,206.83,7.17">Since then, different 2D materials including hexagonal boron nitrides, transition metal dichalcogenides and metal oxides have experienced great attention in research community <ref type="bibr" coords="1,222.46,554.84,7.32,7.17" target="#b3">[4]</ref><ref type="bibr" coords="1,229.78,554.84,3.66,7.17" target="#b4">[5]</ref><ref type="bibr" coords="1,229.78,554.84,3.66,7.17" target="#b5">[6]</ref><ref type="bibr" coords="1,233.44,554.84,7.32,7.17" target="#b6">[7]</ref>.</s><s coords="1,247.07,554.84,41.57,7.17;1,37.59,565.27,251.05,7.17;1,37.59,575.76,251.05,7.17;1,37.59,586.19,235.86,7.17">Since 2011, the family of 2-dimensional materials has been significantly expanded by the early transition metal carbides and/or carbonitrides based upon MAX-phases and named s MXenes as introduced by NAGUIB et al. <ref type="bibr" coords="1,259.99,586.19,10.09,7.17" target="#b7">[8]</ref>.</s><s coords="1,275.41,586.19,13.25,7.17;1,37.59,596.68,251.07,7.86;1,37.59,607.11,251.08,7.92;1,37.59,617.60,147.36,7.17">The main process route to produce MXenes is to remove the A layers of M n +1 AX n (M: early transition metal, A: group IIIA or IVA element and X: C or N with n = 1, 2 or 3) by etching <ref type="bibr" coords="1,164.75,617.60,10.10,7.17" target="#b7">[8,</ref><ref type="bibr" coords="1,174.85,617.60,6.73,7.17" target="#b8">9]</ref>.</s><s coords="1,187.20,617.60,101.44,7.86;1,37.59,628.03,251.04,7.17;1,37.59,638.52,251.06,7.17;1,37.59,648.95,251.04,7.17;1,306.60,491.45,250.98,7.97;1,306.60,502.51,26.43,7.17">MXenes in general and Ti 3 C 2 in particular, which can be considered as the most studied MXene so far, have gained considerable attention due to their resulting physical properties, thus leading to an outstanding material's performance in different fields such as energy storage, supercapacitors and catalysis <ref type="bibr" coords="1,306.60,502.51,7.55,7.17" target="#b8">[9]</ref><ref type="bibr" coords="1,314.15,502.51,3.78,7.17" target="#b9">[10]</ref><ref type="bibr" coords="1,314.15,502.51,3.78,7.17" target="#b10">[11]</ref><ref type="bibr" coords="1,314.15,502.51,3.78,7.17" target="#b11">[12]</ref><ref type="bibr" coords="1,317.92,502.51,11.33,7.17" target="#b12">[13]</ref>.</s></p><p><s coords="1,319.07,513.00,238.51,7.17;1,306.60,523.43,251.03,7.17;1,306.60,533.92,101.15,7.17">Apart from that, MXenes are particularly interesting for tribological applications due to their graphite-like structure, low shear strength and self-lubrication ability <ref type="bibr" coords="1,389.82,533.92,14.34,7.17" target="#b13">[14]</ref>.</s><s coords="1,411.48,533.92,146.18,7.17;1,306.60,544.35,251.00,7.17;1,306.60,554.84,160.11,7.17">This aspect has also been confirmed by theoretical studies using density functional calculations and molecular dynamic simulations by ZHANG et al. <ref type="bibr" coords="1,448.78,554.84,14.34,7.17" target="#b14">[15]</ref>.</s><s coords="1,471.51,554.84,86.12,7.17;1,306.59,565.27,251.02,7.17;1,306.59,575.76,251.07,7.17;1,306.59,586.19,245.61,7.17">However, the usage of MXenes in the context of tribology is surprisingly underexplored, although bearing tremendous potential as a lubricant additive, a reinforcement phase in composite materials and a solid lubricant <ref type="bibr" coords="1,534.27,586.19,14.34,7.17" target="#b16">[16]</ref>.</s><s coords="2,37.59,59.80,251.07,7.86;2,37.59,70.23,133.03,7.17">investigated the tribological behavior of Ti 3 C 2 /copper-composite coatings fabricated by electrodeposition.</s><s coords="2,174.55,70.23,114.06,7.17;2,37.59,80.72,251.07,7.17;2,37.59,91.15,152.80,7.17">The composites revealed a significant friction reduction of up to 46% as well as a tremendous reduction of the wear rate by a factor of <ref type="bibr" coords="2,179.20,91.15,7.45,7.17" target="#b19">19</ref>.</s><s coords="2,193.20,91.15,95.41,7.17;2,37.59,101.64,251.03,7.17;2,37.59,111.43,251.04,7.97;2,37.59,122.56,101.14,7.17">By microscopy and Raman spectroscopy, this was attributed to the formation of a compact, selflubricating film, which reduced the probability of having a metal-metal contact and is easy to shear.</s><s coords="2,50.06,132.99,238.57,7.92;2,37.59,143.48,251.06,7.17;2,37.59,153.91,119.43,7.17">YANG et al. <ref type="bibr" coords="2,86.12,132.99,15.69,7.17" target="#b19">[19]</ref> mixed Ti 3 C 2 -nanosheets with paraffin oil and studied their ability to act as a lubricant additives dependent on the weight percentage and the normal load.</s><s coords="2,160.55,153.91,128.08,7.17;2,37.59,164.40,251.06,7.17;2,37.59,174.19,233.68,7.97">The greatest friction reduction was found for a concentration of 1 wt-%, which was explained by the possibility to form a self-laminating film under compressive stresses.</s><s coords="2,274.16,174.83,14.50,7.17;2,37.59,185.32,251.06,7.17;2,37.59,195.75,54.89,7.17">Furthermore, they demonstrated that the wear behavior can be greatly improved <ref type="bibr" coords="2,74.55,195.75,14.34,7.17" target="#b19">[19]</ref>.</s><s coords="2,95.64,195.75,192.94,7.17;2,37.59,206.24,128.19,7.17">Similar conclusions with respect to the concentration were presented by ZHANG et al. <ref type="bibr" coords="2,147.86,206.24,14.34,7.17" target="#b20">[20]</ref>.</s><s coords="2,168.49,206.24,120.18,7.86;2,37.59,216.67,251.07,7.17;2,37.59,227.16,28.90,7.17">The usage of 1 wt-% Ti 3 C 2 (OH) 2nanosheets in a base oil resulted in the greatest friction and wear reduction.</s><s coords="2,69.73,227.16,218.90,7.17;2,37.59,237.59,178.24,7.17">Additionally, a certain critical normal load needed to be exceeded to generate a low and stable COF over time.</s><s coords="2,217.76,237.59,70.84,7.17;2,37.59,248.08,161.47,7.17">However, exceeding these critical loads led to adverse effects <ref type="bibr" coords="2,181.13,248.08,14.34,7.17" target="#b21">[21]</ref>.</s><s coords="2,201.26,248.08,87.38,7.17;2,37.59,258.51,251.09,7.92;2,37.59,269.00,251.05,7.17;2,37.59,279.43,31.93,7.17">LIU et al. <ref type="bibr" coords="2,231.76,248.08,15.69,7.17" target="#b22">[22]</ref> studied the tribological behavior of a Poly-(alpha)-olefin oil mixed with Ti 3 C 2 T xnanosheets as a function of the concentration and the degree of exfoliation.</s><s coords="2,71.88,279.43,216.73,7.17;2,37.59,289.92,251.06,7.17">In agreement with the aforementioned reports, the maximum friction and wear reduction was found for a concentration of 0.8 wt-%.</s><s coords="2,37.59,300.35,251.09,7.17;2,37.59,310.84,251.02,7.17;2,37.59,321.27,49.49,7.17">Furthermore, the authors revealed the important influence of the degree of exfoliation with the best results obtained for highly exfoliated nanoparticles.</s></p><p><s coords="2,50.06,331.12,238.59,8.50;2,37.59,342.19,232.79,7.17">LIAN et al. <ref type="bibr" coords="2,84.08,331.76,15.69,7.17" target="#b13">[14]</ref> applied a 200 nm film of Ti 3 C 2 -flakes on copper disks by spray coating with the overall idea to use it as a solid lubricant.</s><s coords="2,272.52,342.19,16.12,7.17;2,37.59,352.68,251.04,7.17;2,37.59,363.11,251.05,7.17">Ballon-disk experiments demonstrated the potential to reduce friction (up to a factor of 3.5) and wear (one order to magnitude) significantly.</s></p><p><s coords="2,37.59,373.60,251.09,7.86;2,37.59,384.03,251.05,7.17;2,37.59,394.52,126.76,7.17">ROSENKRANZ et al. <ref type="bibr" coords="2,98.02,373.60,15.69,7.17" target="#b23">[23]</ref> deposited a thin layer of Ti 3 C 2 T x -nanosheets on stainless steel by drop casting and studied the frictional behavior under dry friction against an alumina ball.</s><s coords="2,166.62,394.52,122.02,7.17;2,37.59,405.00,251.07,7.17;2,37.59,415.43,161.15,7.17">A pronounced three fold reduction in the COF combined with a significant reduction of adhesional, abrasive and tribochemical wear was observed.</s><s coords="2,203.02,415.44,85.61,7.17;2,37.59,425.92,251.03,7.17;2,37.59,436.35,251.04,7.17;2,37.59,446.84,48.36,7.17">GUO et al. <ref type="bibr" coords="2,242.99,415.44,15.69,7.17" target="#b24">[24]</ref> studied frictional and adhesional properties of MXene-nanosheets using atomic force microscopy as a function of the applied normal force, temperature and pressure.</s><s coords="2,89.69,446.84,198.93,7.17;2,37.59,457.27,251.03,7.17;2,37.59,467.76,86.28,7.17">Mxene-nanosheets revealed better frictional and adhesional properties at higher temperatures, which were also proportional to the applied pressure.</s><s coords="2,127.39,467.76,161.24,7.17;2,37.59,478.19,251.05,7.17;2,37.59,488.68,251.04,7.17;2,37.59,499.11,54.29,7.17">YIN et al. <ref type="bibr" coords="2,162.31,467.76,15.69,7.17" target="#b25">[25]</ref> have investigated MXene and MXene/nanodiamond coatings under dry conditions and low contact pressures (10 and 20 MPa) when rubbing against mainly polymeric counter-bodies.</s><s coords="2,95.86,499.11,192.77,7.17;2,37.59,509.60,251.05,7.17;2,37.59,520.03,251.10,7.17;2,37.59,530.52,68.34,7.17">For the purely MXene coating, they observed stable COFs around 0.3 for PTFE and almost no detectable wear, which was traced back to the formation of a tribofilm consisting of densified MXene-nanoflakes.</s><s coords="2,108.79,530.52,179.88,7.17;2,37.59,540.95,242.85,7.17">In case of the MXene/nanodiamond coating, COFs of about 0.16 have been observed with an ultra-smooth wear track.</s><s coords="2,283.29,540.95,5.36,7.17;2,37.59,551.44,251.04,7.17;2,37.59,561.87,251.06,7.17">A detailed investigation via focussed ion beam and transmission electron microscopy revealed the formation of a nano-structured tribofilm.</s></p><p><s coords="2,37.59,572.36,251.05,7.86;2,37.59,582.79,250.98,7.17">MARIAN et al. <ref type="bibr" coords="2,84.70,572.36,15.69,7.17" target="#b26">[26]</ref> applied Ti 3 C 2 T x nanosheets (Mxenes) as a solid lubricant to dry-running thrust ball bearings under ambient conditions.</s><s coords="2,37.59,593.28,251.09,7.17;2,37.59,603.71,251.03,7.17;2,37.59,614.20,228.60,7.17">They verified a reduction of frictional torque by a factor of 3.2, an extension of service life by about 2.1 times and a decrease of linear cumulative wear by up to 2.9 compared to uncoated references.</s></p><p><s coords="2,50.06,624.63,238.60,7.17;2,37.59,635.12,251.05,7.17;2,37.59,645.55,251.00,7.17;2,37.59,656.04,93.33,7.17">Most previous studies on MXene-nanosheets in tribological applications have been limited to very specific niche material pairings, rather low or moderate contact loads and pressures as well as constant environmental conditions.</s><s coords="2,134.13,656.04,154.49,7.17;2,37.59,666.47,251.08,7.17;2,37.59,676.96,251.03,7.17;2,37.59,687.39,251.03,7.17;2,37.59,697.88,251.08,7.17;2,37.59,708.31,251.08,7.17;2,37.59,718.80,99.15,7.17">It is well known that other materials commonly used as solid lubricants such as graphite <ref type="bibr" coords="2,220.88,666.47,11.59,7.17" target="#b27">[27]</ref><ref type="bibr" coords="2,232.47,666.47,3.86,7.17" target="#b28">[28]</ref><ref type="bibr" coords="2,232.47,666.47,3.86,7.17" target="#b29">[29]</ref><ref type="bibr" coords="2,236.33,666.47,11.59,7.17" target="#b30">[30]</ref>, graphene <ref type="bibr" coords="2,37.59,676.96,11.59,7.17" target="#b31">[31]</ref><ref type="bibr" coords="2,49.18,676.96,3.86,7.17" target="#b32">[32]</ref><ref type="bibr" coords="2,53.04,676.96,11.59,7.17" target="#b33">[33]</ref>, hydrogenated diamond-like carbon <ref type="bibr" coords="2,206.70,676.96,11.57,7.17" target="#b34">[34]</ref><ref type="bibr" coords="2,218.27,676.96,3.86,7.17" target="#b35">[35]</ref><ref type="bibr" coords="2,218.27,676.96,3.86,7.17" target="#b36">[36]</ref><ref type="bibr" coords="2,222.13,676.96,11.57,7.17" target="#b37">[37]</ref>, molybdenum disulphide <ref type="bibr" coords="2,77.96,687.39,12.28,7.17" target="#b38">[38]</ref><ref type="bibr" coords="2,90.23,687.39,4.09,7.17" target="#b39">[39]</ref><ref type="bibr" coords="2,90.23,687.39,4.09,7.17" target="#b40">[40]</ref><ref type="bibr" coords="2,94.33,687.39,12.28,7.17" target="#b41">[41]</ref> or boron-based materials <ref type="bibr" coords="2,204.10,687.39,12.28,7.17" target="#b42">[42]</ref><ref type="bibr" coords="2,216.38,687.39,4.09,7.17" target="#b43">[43]</ref><ref type="bibr" coords="2,220.47,687.39,12.28,7.17" target="#b44">[44]</ref> show not only dependencies of friction and wear behavior on working conditions (for instance contact pressure <ref type="bibr" coords="2,129.55,708.31,13.94,7.17" target="#b45">[45]</ref>), but also on environmental factors (for example humidity <ref type="bibr" coords="2,104.60,718.80,14.29,7.17" target="#b46">[46,</ref><ref type="bibr" coords="2,118.89,718.80,10.71,7.17" target="#b47">47]</ref>).</s></p><p><s coords="2,50.06,729.23,238.57,7.17;2,37.59,739.72,251.04,7.17;2,306.60,59.80,251.04,7.17;2,306.60,70.23,251.00,7.87;2,306.59,80.72,251.03,7.17;2,306.59,91.15,190.36,7.17">Therefore, this contribution aims at investigating the influence of contact pressure and relative humidity, which is defined as the ratio of the partial pressure of water vapor to the equilibrium vapor pressure of water at given temperature, on the applicability of Ti 3 C 2 T x -nanosheets as solid lubricants in steel/steel contacts as a widely used material pairing in machine elements and engine components.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Materials</head><p><s coords="2,319.07,153.91,238.54,7.92;2,306.60,164.40,114.34,7.17">The initial Ti 3 AlC 2 -powder was purchased from FORSMAN SCIEN-TIFIC Co. Ltd., Beijing (China).</s><s coords="2,424.57,164.40,133.02,7.17;2,306.60,174.83,251.04,7.92;2,306.59,185.32,123.59,7.17">For synthetization of the multi-layer Ti 3 C 2 T x -nanosheets, Ti 3 AlC 2 -powder (10 g) was immersed in 100 mL of a 40% hydrofluoric acid solution.</s><s coords="2,433.93,185.32,123.70,7.17;2,306.59,195.75,220.35,7.17">The mixture was stirred for three minutes and then kept at room temperature for two hours.</s><s coords="2,530.81,195.75,26.82,7.17;2,306.59,206.24,251.02,7.17;2,306.59,216.67,251.06,7.17;2,306.59,227.16,67.59,7.17">The asprepared suspension was then washed using deionized water several times until reaching a pH above 6 and subsequently centrifuged to separate the powder.</s><s coords="2,376.89,226.52,180.76,7.97;2,306.59,237.59,214.23,7.17">Afterwards, the washed powder was filtered under vacuum conditions and dried at room temperature for 24 h.</s></p><p><s coords="2,319.07,248.08,238.61,7.86;2,306.59,258.51,202.58,7.17">For deposition on the steel substrates, the Ti 3 C 2 T x -nanosheets were dispersed in acetone with a concentration of 1.2 mg/ml.</s><s coords="2,512.04,258.51,45.57,7.17;2,306.59,269.00,251.01,7.17;2,306.59,279.43,122.52,7.17">Good dispersion was ensured by ultrasonication (BANDELIN, Sonorex TK 52H, 60 W, 35 kHz, room temperature).</s><s coords="2,431.54,279.43,126.08,7.17;2,306.59,289.92,251.02,7.17;2,306.59,300.35,77.40,7.17">Prior to drop casting, the substrates were heated to 80 C (BINDER, FED 53) to ensure fast and complete solvent's evaporation.</s><s coords="2,386.76,299.71,170.89,7.97;2,306.59,310.84,234.70,7.17">Subsequently, 1 000 l were deposited onto the surface using a syringe (HAMILTON, 1000 series gastight 81420).</s></p><p><s coords="2,319.07,321.27,238.55,7.17;2,306.59,331.76,251.03,7.17;2,306.59,342.19,251.08,7.17;2,306.59,352.67,94.18,7.17">Commercially available 100Cr6 (1.3505, AISI 52100) bearing steel shims according to ISO 683-17 <ref type="bibr" coords="2,432.85,331.76,14.34,7.17" target="#b48">[48]</ref>, hardened and tempered to 62  2 HRC, with a diameter of 31 mm and a height of 5 mm were used as substrate material.</s><s coords="2,403.31,352.67,154.31,7.17;2,306.59,362.47,251.04,7.97;2,306.60,373.59,251.05,7.17;2,306.60,384.08,29.83,7.17">The surfaces were mirror-polished in a four step-process (ATM, Saphir 500), adjusting the final DIN EN ISO 4288 <ref type="bibr" coords="2,306.60,373.59,15.69,7.17" target="#b49">[49]</ref> roughness parameters (MITUTOYO, Surftest SJ-210) as given in Table <ref type="table" coords="2,329.73,384.08,3.35,7.17">1</ref>.</s><s coords="2,339.99,384.08,217.68,7.17;2,306.60,394.51,251.03,7.17;2,306.60,405.00,251.07,7.17;2,306.60,415.43,129.00,7.17">Prior to MXene deposition and testing, the specimens were ultrasonically cleaned (BANDELIN, Sonorex Super RK 255H, 160 W, 35 kHz, room temperature) in acetone and isopropyl alcohol for 10 min each and blow-dried using nitrogen.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Characterization of as-fabricated Ti 3 C 2 T x -nanosheets</head><p><s coords="2,319.07,456.64,238.58,8.56;2,306.59,467.76,251.03,7.17;2,306.59,478.19,157.48,7.17">The quality of the as-fabricated Ti 3 C 2 T x -nanosheets was assessed by high-resolution transmission electron microscopy (HR-TEM; FEI, Tecnai F20) using an acceleration voltage of 200 kV.</s><s coords="2,465.95,478.19,91.65,7.17;2,306.59,488.68,251.04,7.17;2,306.59,499.11,166.89,7.17">The chemical composition was measured by energy dispersive X-ray spectroscopy (TEM-EDX) using EDAX detector attached to the HR-TEM.</s><s coords="2,476.50,499.11,81.13,7.17;2,306.59,509.60,251.00,7.17;2,306.59,519.40,251.06,8.56;2,306.60,530.52,251.02,7.17;2,306.60,540.95,158.05,7.17">The surface chemistry, the surface terminations and intercalated water of the as-fabricated Ti 3 C 2 T x -nanosheets were studied by Raman spectroscopy, X-Ray photoelectron spectroscopy (XPS) and temperature programmed desorption coupled with mass spectroscopy (TPD-MS).</s><s coords="2,468.50,540.95,89.07,7.17;2,306.60,551.44,251.00,7.17;2,306.60,561.87,235.21,7.17">For Raman spectroscopy (WITEC, Alpha 300 RA), an excitation wavelength of 633 nm, a grating of 300 g/mm and 10% of the maximum laser intensity were used.</s><s coords="2,544.42,561.87,13.25,7.17;2,306.60,572.36,251.01,7.17;2,306.60,582.79,108.26,7.17">The spectra were collected using four seconds of integration time and a total number of 256 accumulations.</s><s coords="2,417.43,582.79,140.18,7.92;2,306.59,593.28,250.98,7.17;2,306.59,603.71,251.03,7.17;2,306.59,614.20,180.77,7.17">The Ti 3 C 2 T x -nanosheets were examined by XPS (PHYSICAL ELECTRONICS, model 1257) with non-monochromatic MgK radiation, operating the source at 15 kV and 400 W. All scans were acquired using a pass energy of 44.75 eV.</s><s coords="2,491.52,614.20,66.11,7.17;2,306.59,624.63,251.05,7.17;2,306.59,635.12,251.04,7.17;2,306.59,645.55,29.26,7.17">A wide scan with binding energies (BE) from 1000 to 0 eV using a step size of 1 eV was used for element identification (C, F, N, O, Ti and trace levels of Si, S and Al).</s><s coords="2,339.08,645.55,218.56,7.92;2,306.59,656.04,231.46,7.17">Narrow scans of the C 1s , F 1s , O 1s and Ti 2p regions were collected under the same conditions using a step size of 0.025 eV.</s><s coords="2,541.30,656.04,16.34,7.17;2,306.59,666.47,206.39,7.17">Data processing was performed using the MULTIPAK package.</s><s coords="2,516.18,666.47,41.47,7.17;2,306.59,676.96,251.04,7.86;2,306.60,687.45,18.89,7.17">Energy correction was performed by assigning 274.8 eV to the maximum of the C 1s peak.</s><s coords="2,328.02,687.45,229.61,7.17;2,306.60,697.88,251.05,7.86;2,306.60,708.37,188.35,7.17">The Shirley method was used for background subtraction for the C 1s , F 1s , O 1s regions, but this provided no good background for the Ti 2p region, where linear subtraction was used instead.</s><s coords="2,499.12,708.37,58.55,7.17;2,306.60,718.16,251.04,7.97;2,306.60,729.29,251.01,7.17;2,306.60,739.72,251.04,7.92;3,306.60,286.63,102.51,7.86">The peaks were fitted with Lorentz-Gaussian functions, maintaining the number of curves as low as possible to provide an acceptable match: two singlets for the F 1s and O 1s regions, three singlets for the C 1s region, and three doublets for the Ti 2p region.</s><s coords="3,412.38,285.99,145.26,7.97;3,306.60,297.06,91.78,7.17">After curve fitting the figures were constructed with 0.1 eV steps.</s><s coords="3,400.25,297.06,157.42,7.17;3,306.60,307.55,251.06,7.17;3,306.60,317.98,111.51,7.17">TPD-MS was performed using the 3Flex from Micromeritics equipment combined with a mass spectrometer (MKS SPECTRA PRODUCT, Cirrus 2).</s><s coords="3,420.77,317.98,136.81,7.17;3,306.60,327.83,251.05,7.97;3,306.60,338.90,79.57,7.17">The sample (15-30 mg) was gradually heated in a quartz reactor at a rate of 10 C/min until 800 C flowing helium (100 mL/min).</s><s coords="3,388.57,338.90,169.07,7.17;3,306.60,349.39,170.76,7.17">The water formed during the thermal treatment was identified by mass spectrometry (m/z 18).</s><s coords="3,480.81,349.39,76.83,7.17;3,306.60,359.82,251.02,7.17;3,306.60,370.31,250.97,7.17;3,306.60,380.10,80.78,8.56">Furthermore, focused ion beam microscopy (FIB; THERMO FISHER, Scientific Helios NanoLab 600i) has been utilized to analyse the as-deposited coatings consisting of Ti 3 C 2 T x -nanosheets.</s><s coords="3,389.48,380.74,168.17,7.17;3,306.60,391.23,249.04,7.17">In this regard, an acceleration voltage of 5 kV, a working distance of about 4 mm and a tilting angle of 52were used.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Tribological testing and surface characterization</head><p><s coords="3,319.07,436.35,238.58,7.17;3,306.60,446.84,102.67,7.17">A ball-on-disk tribometer (KTmfk, K-SST) as illustrated in Fig. <ref type="figure" coords="3,537.62,436.35,4.48,7.17" target="#fig_0">1</ref> was used for tribological testing.</s><s coords="3,412.78,446.84,144.87,7.17;3,306.60,457.27,60.13,7.17">Thereby, the disk was held by a driven three-jaw chuck.</s><s coords="3,370.54,457.27,187.10,7.17;3,306.60,467.76,99.64,7.17">The load was applied by a weight attached to the carrier of the counter-body.</s><s coords="3,409.26,467.76,148.37,7.17;3,306.60,478.19,234.96,7.17">The friction force was determined by the deflection of the cantilever, which was detected by strain gauges.</s><s coords="3,544.41,478.19,13.25,7.17;3,306.60,488.68,251.04,7.17;3,306.60,499.11,168.76,7.17">The whole tribometer including the vibration damping frame was placed in a climatic chamber (FEUTRON, type 3436/15).</s></p><p><s coords="3,319.07,509.60,238.58,7.17;3,306.60,520.03,38.79,7.17">Testing was carried out in rotational sliding mode and under dry conditions.</s><s coords="3,349.57,520.03,208.07,7.17;3,306.60,530.52,251.04,7.17;3,306.60,540.95,76.43,7.17">The wear radius R, sliding speed v, normal load F and maximum sliding distance SD were set to 10 mm, 0.08 m/s, 5 N and 1000 m, respectively.</s><s coords="3,385.62,540.95,171.99,7.17;3,306.60,550.80,251.04,8.50;3,306.59,561.87,251.04,7.17;3,306.59,572.36,88.26,7.17">As counter-bodies, 100Cr6 (1.3505, AISI 52100) steel balls (grade G10, ISO 3290 <ref type="bibr" coords="3,421.74,551.44,14.34,7.17" target="#b50">[50]</ref>, R a  0.02 m) with diameters of 3.969 mm and 10 mm were used to reflect cases with moderate and elevated contact stresses.</s><s coords="3,397.13,572.36,160.48,7.17;3,306.59,582.79,251.07,7.92;3,306.60,593.28,37.26,7.17">Thus, corresponding initial HERTZian pressures p Hertz at the contact center were about 1.47 GPa and 0.80 GPa, respectively.</s><s coords="3,347.75,593.28,209.88,7.17;3,306.60,603.71,251.04,7.17;3,306.60,614.20,85.68,7.17">The temperature T in the chamber was kept constant at 25  2 C, while two levels of relative humidity rh, 20  5% and 80  5%, were tested.</s><s coords="3,395.26,614.20,162.36,7.17;3,306.60,624.63,251.04,7.17;3,306.60,635.12,251.04,7.17">These conditions have been selected to study the tribological behavior under rather extreme conditions, but still ensuring the proper function of the tribometer's climatic chamber.</s><s coords="3,306.59,645.55,217.88,7.17">Three samples per pressure and humidity level were tested.</s><s coords="3,527.86,645.55,29.78,7.17;3,306.59,656.04,251.06,7.17;3,306.59,666.47,152.53,7.17">For evaluation of the frictional behavior, the COF was recorded resolved over time with a data acquisition rate of 10 Hz.</s></p><p><s coords="3,319.07,676.96,238.56,7.17;3,306.59,687.45,222.14,7.17">To evaluate the wear behavior, the volumetric wear of the disks and balls was determined in accordance to DIN EN 1071-13 <ref type="bibr" coords="3,510.80,687.45,14.34,7.17" target="#b51">[51]</ref>.</s><s coords="3,531.72,687.45,25.92,7.17;3,306.59,697.88,251.04,7.17;3,306.59,708.37,175.84,7.17">For the disks, the wear volume was assessed as the product of average crosssectional area and the diameter of the wear track.</s><s coords="3,484.72,708.37,72.92,7.17;3,306.59,718.80,251.06,7.17;3,306.59,729.28,201.49,7.17">For this purpose, the topography was measured at four positions with 90 degree offset by laser scanning microscopy (LSM; KEYENCE, VK-X200).</s><s coords="3,511.71,729.28,45.93,7.17;3,306.59,739.72,251.05,7.17">Thereby, the average wear cross section was derived from 50 adjacent scan lines per</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 1</head><p><s coords="3,52.85,711.04,6.45,34.01;3,52.85,702.37,6.45,6.23;3,52.85,677.43,6.45,22.56;3,52.85,643.07,6.45,31.92;3,52.85,605.32,6.45,35.31;3,52.85,571.89,6.45,31.05;3,52.85,563.10,6.45,6.33;3,52.85,548.17,6.45,12.52;3,52.85,536.43,6.45,9.35;3,52.85,522.72,6.45,11.33;3,52.85,504.15,6.45,16.13;3,52.85,495.27,6.45,6.46;3,52.85,485.66,6.45,7.17;3,52.85,474.58,6.45,8.72">Evaluation of surface roughness parameters according to DIN EN ISO 4288 (n = 4).</s><s coords="4,50.06,634.04,238.56,7.17;4,37.59,644.47,251.02,7.17;4,37.59,654.96,251.01,7.17">Scanning electron microscopy (SEM; ZEISS, CrossBeam 1540 EsB) of selected samples was conducted to investigate the underlying friction and wear mechanisms as well as the formation of tribo-layers.</s><s coords="4,37.59,665.39,251.04,7.17;4,37.59,675.88,83.80,7.17">Therefore, voltages of 5 kV were applied using a working distance of about 6 mm and 8 mm.</s><s coords="4,123.87,675.88,164.75,7.17;4,37.59,686.31,251.06,7.92;4,37.59,696.80,251.06,7.17;4,37.59,707.23,18.65,7.17">Moreover, the chemical composition of the asdeposited as well as the as-worn Ti 3 C 2 T x -coatings and the formed tribolayer was analyzed by Raman spectroscopy (HORIBA, LabRAM HR 800).</s><s coords="4,59.81,707.23,228.82,7.17;4,37.59,717.72,128.74,7.17">Thereby, an excitation wavelength of 633 nm and 50% of the maximum laser intensity were used.</s></p><formula xml:id="formula_0" coords="3,67.10,241.65,6.83,497.46">R a in m R q in m R z in m R p in m R v in m R sk in m R k in m</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Characterization</head><p><s coords="4,319.07,634.04,238.57,7.17;4,306.60,644.47,251.04,7.17;4,306.60,654.32,234.83,8.50">TEM and HR-TEM micrographs as depicted in Fig. <ref type="figure" coords="4,495.72,634.04,29.99,7.17" target="#fig_1">2a and b</ref> revealed the multi-layered, regular and homogenous structure of the Ti 3 C 2 T x -nanosheets with a layer distance of 0.826  0.065 nm.</s><s coords="4,544.42,654.96,13.25,7.17;4,306.60,665.39,251.03,7.17;4,306.60,675.88,113.47,7.17">The used multi-layer Mxene nanosheets have in average about 80 layers and x-y-dimensions of about 1.5 m.</s><s coords="4,422.24,675.88,135.38,7.17;4,306.60,685.68,251.01,7.97;4,306.60,696.80,251.04,7.17;4,306.60,707.23,34.04,7.17">TEM-EDX confirmed titanium, carbon, oxygen and fluorine as main elements and reveals a minor contribution originating from aluminium, which goes hand in hand with the synthesis.</s><s coords="4,343.44,707.23,214.18,7.17;4,306.60,717.72,47.87,7.17">The aluminium content with 0.3 wt-% was considered as to be negligible.</s><s coords="4,357.16,717.72,194.98,7.17">This agreed well with previously published work <ref type="bibr" coords="4,534.22,717.72,14.34,7.17" target="#b23">[23]</ref>.</s></p><p><s coords="4,319.07,727.51,205.15,8.56">The fitting of the Ti 2p peak fitting is revealed in Fig. <ref type="figure" coords="4,513.75,728.15,6.98,7.17" target="#fig_1">2c</ref>.</s><s coords="4,527.30,727.52,30.36,7.97;4,306.60,738.64,235.86,7.17">The first contribution at 454.9 can be assigned to titanium carbides <ref type="bibr" coords="4,511.60,738.64,11.57,7.17" target="#b52">[52]</ref><ref type="bibr" coords="4,523.17,738.64,3.86,7.17" target="#b53">[53]</ref><ref type="bibr" coords="4,527.02,738.64,11.57,7.17" target="#b54">[54]</ref>.</s><s coords="4,544.42,738.64,13.25,7.17;5,37.59,59.80,251.09,7.17;5,37.59,70.23,251.07,7.17;5,37.59,80.72,134.71,7.17">The second contribution at 456.1 can be correlated in a general way to Ti + 2 in a variety of moieties, consisting of titanium bound to carbon and/or to oxygen or hydroxides <ref type="bibr" coords="5,154.38,80.72,14.34,7.17" target="#b55">[55]</ref>.</s><s coords="5,175.07,80.72,113.56,7.17;5,37.59,91.15,251.06,7.17;5,37.59,101.64,32.24,7.17">HU et al. <ref type="bibr" coords="5,206.76,80.72,15.69,7.17" target="#b56">[56]</ref> assigned this contribution to C-Ti-OH, which matched with our results of Raman spectroscopy.</s><s coords="5,72.45,101.64,216.21,7.17;5,37.59,112.07,251.02,7.17;5,37.59,122.56,61.09,7.17">This seemed reasonable since the chemical Ti state would be between the carbide and the oxide state, thus inducing intermediate binding energies.</s><s coords="5,101.53,122.56,187.08,7.17;5,37.59,132.99,235.41,7.17">The last contribution at 457.8 and 462.7 eV was assigned by HALIM et al. <ref type="bibr" coords="5,113.78,132.99,15.69,7.17" target="#b55">[55]</ref> and HU et al. <ref type="bibr" coords="5,177.85,132.99,15.69,7.17" target="#b52">[52]</ref> to Ti + 3 and C-Ti-O.</s><s coords="5,275.41,132.99,13.25,7.17;5,37.59,142.84,251.01,8.50;5,37.59,153.91,251.08,7.17;5,37.59,164.40,164.51,7.17">The fitting of the C 1s peak (Fig. <ref type="figure" coords="5,136.46,143.48,7.97,7.17" target="#fig_1">2d</ref>) demonstrated a dominant contribution (86%) centred at 284.7 eV, which was assigned to carbon in C-C chemical environment and adventitious carbon.</s><s coords="5,206.41,164.40,82.23,7.17;5,37.59,174.83,251.05,7.92;5,37.59,185.32,251.02,7.17;5,37.59,195.75,128.02,7.17">The 281.6 eV peak is characteristic of metal carbides and associated with C-Ti-T x <ref type="bibr" coords="5,259.54,174.83,14.55,7.17" target="#b55">[55,</ref><ref type="bibr" coords="5,274.09,174.83,10.91,7.17" target="#b57">57]</ref>, while the contribution at 286.7 eV correlates with organic components, particularly hydro-carbons <ref type="bibr" coords="5,136.46,195.75,14.58,7.17" target="#b27">[27,</ref><ref type="bibr" coords="5,151.04,195.75,10.93,7.17" target="#b29">29]</ref>.</s><s coords="5,169.11,195.75,119.53,7.92;5,37.59,206.24,251.08,7.17;5,37.59,216.03,115.16,8.56">The F 1s peak (Fig. <ref type="figure" coords="5,239.41,195.75,7.58,7.17" target="#fig_1">2e</ref>) showed a pronounced contribution (75%) at 685.2 eV, which was assigned to fluorinated TiO 2 (TiO 2 -F x ) <ref type="bibr" coords="5,134.82,216.67,14.34,7.17" target="#b58">[58]</ref>.</s><s coords="5,155.45,216.67,133.17,7.92;5,37.59,226.52,234.59,7.97">The second F 1s contribution (25%) at 687.1 eV was connected with the presence of graphite fluorides.</s><s coords="5,275.41,227.16,13.25,7.17;5,37.59,237.59,251.08,7.92;5,37.59,247.44,251.06,7.97;5,37.59,258.51,87.76,7.92">The O 1s peak (Fig. <ref type="figure" coords="5,88.84,237.59,6.71,7.17" target="#fig_1">2f</ref>) showed a significant contribution (90%) at 532.2 eV, which matched well with hydroxides and therefore -OH surface terminations (C-Ti-(OH) x ).</s><s coords="5,129.03,258.51,159.61,7.17;5,37.59,269.00,251.05,7.86;5,37.59,279.43,17.98,7.17">A minor contribution (10%) at 529.6 eV is characteristic for metal oxides and close to the values assigned to TiO 2 <ref type="bibr" coords="5,37.59,279.43,14.39,7.17" target="#b59">[59]</ref>.</s></p><p><s coords="5,50.06,289.92,238.57,7.17;5,37.59,300.35,64.05,7.17;5,101.65,298.19,9.37,5.31;5,115.54,300.35,173.09,7.17;5,37.59,310.84,27.15,7.17;5,64.74,308.62,9.31,5.31;5,77.27,310.84,96.14,7.17">Raman spectroscopies (Fig. <ref type="figure" coords="5,148.36,289.92,7.76,7.17" target="#fig_1">2g</ref>) indicated pronounced peaks at 125, 212 and 701 cm 1 as well as broad peaks around 285, 376 and 600 cm 1 for the MXene nanosheets.</s><s coords="5,176.65,310.20,111.98,7.97;5,37.59,321.27,251.05,7.92;5,37.59,331.76,40.38,7.17">These Raman bands fitted well with vibrations coming from Ti 3 C 2 O 2 , Ti 3 C 2 F 2 and Ti 3 C 2 (OH) 2 <ref type="bibr" coords="5,37.59,331.76,14.68,7.17" target="#b52">[52,</ref><ref type="bibr" coords="5,52.27,331.76,11.01,7.17" target="#b56">56,</ref><ref type="bibr" coords="5,63.28,331.76,11.01,7.17" target="#b60">60]</ref>.</s><s coords="5,79.88,331.76,208.75,7.17;5,37.59,342.19,251.04,7.17;5,37.59,352.68,251.03,7.17;5,37.59,363.11,188.23,7.92">The formation of these species was induced by the synthesis and they may slightly change the lattice spacing and the electronic structure, which resulted in additional Raman bands coming up compared to the theoretical peaks of pure Ti 3 C 2 <ref type="bibr" coords="5,196.67,363.11,14.58,7.17" target="#b52">[52,</ref><ref type="bibr" coords="5,211.24,363.11,10.93,7.17" target="#b56">56]</ref>.</s></p><p><s coords="5,50.06,373.60,238.58,7.86;5,37.59,384.03,66.84,7.17">The water signal of the Ti 3 C 2 T x -nanosheets as obtained by TPD-MS is depicted Fig. <ref type="figure" coords="5,93.15,384.03,7.52,7.17" target="#fig_1">2h</ref>.</s><s coords="5,106.70,383.39,181.92,7.97;5,37.59,394.52,73.32,7.17">The first peak at 83 C was assigned to the presence of superficial water.</s><s coords="5,114.63,394.52,173.99,7.17;5,37.59,405.00,251.06,7.17;5,37.59,415.43,167.77,7.17">The second peak at 153 C, as well as the less pronounced tail between 200 and 400 C were traced back to absorbed/ strongly bonded intercalated water <ref type="bibr" coords="5,165.03,415.43,14.66,7.17" target="#b52">[52,</ref><ref type="bibr" coords="5,179.69,415.43,11.00,7.17" target="#b61">61,</ref><ref type="bibr" coords="5,190.69,415.43,11.00,7.17" target="#b62">62]</ref>.</s></p><p><s coords="5,50.06,425.92,238.57,7.86;5,37.59,436.35,251.03,7.17;5,37.59,446.84,115.93,7.17">The as-deposited coatings of Ti 3 C 2 T x -nanosheets have been studied by FIB to investigate the respective interface between the steel substrate and the MXene coating (Fig. <ref type="figure" coords="5,143.83,446.84,3.23,7.17" target="#fig_2">3</ref>).</s><s coords="5,156.64,446.84,132.03,7.17;5,37.59,457.27,143.59,7.17">Based upon this analysis, a coating's thickness of roughly 3 m was estimated.</s><s coords="5,183.17,457.27,105.45,7.17;5,37.59,467.76,251.01,7.17">Apart from that, it can be seen that the coating itself consists of multiple nanosheet agglomerations.</s><s coords="5,37.59,478.19,251.05,7.17;5,37.59,488.68,102.58,7.17">For some sheets, the well-known accordion-like structure of the MXene nanosheets can be observed.</s><s coords="5,143.32,488.68,145.34,7.17;5,37.59,499.11,251.07,7.17;5,37.59,509.60,251.02,7.17;5,37.59,520.03,94.42,7.17">Moreover, it becomes evident that more research effort needs to be dedicated towards the deposition of more homogeneous and uniform MXene coatings with improved interfacial and adhesional properties.</s><s coords="5,134.87,520.03,153.75,7.17;5,37.59,530.52,251.05,7.17;5,37.59,540.95,94.89,7.17">In this regard, it would be recommendable to work on other deposition techniques such as spay techniques or electrophoretic deposition.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Frictional performance</head><p><s coords="5,319.07,80.72,238.60,7.17;5,306.60,91.15,251.01,7.86;5,306.59,101.64,251.01,7.17;5,306.59,112.07,109.26,7.17">Representative COF curves over time (sliding cycles) for the reference and the Ti 3 C 2 T x -coated samples at different contact pressures and relative humidities are depicted in Fig. <ref type="figure" coords="5,468.68,101.64,3.35,7.17" target="#fig_3">4</ref>, whereas the averaged values are illustrated in Fig. <ref type="figure" coords="5,409.15,112.07,3.35,7.17" target="#fig_4">5</ref>.</s></p><p><s coords="5,319.07,122.56,238.60,7.17;5,306.60,132.99,110.61,7.17">In case of the reference sample, the COF reached stable and high levels after a short running-in.</s><s coords="5,420.49,132.99,137.13,7.17;5,306.60,143.48,251.04,7.17;5,306.59,153.91,251.01,7.17;5,306.60,164.40,251.04,7.17;5,306.60,174.83,132.45,7.17">For a relative humidity of 20%, these values were about 0.63 for a HERTZian pressure of 1.47 GPa (Fig. <ref type="figure" coords="5,533.82,143.48,8.53,7.17" target="#fig_3">4a</ref> and Fig. <ref type="figure" coords="5,321.90,153.91,7.17,7.17" target="#fig_4">5a</ref>, black) and about 0.36 for 0.80 GPa (Fig. <ref type="figure" coords="5,478.77,153.91,8.90,7.17" target="#fig_3">4b</ref> and Fig. <ref type="figure" coords="5,520.33,153.91,7.42,7.17" target="#fig_4">5b</ref>, black), which are typical COF for a steel/steel-pairing under dry sliding and respective contact pressures <ref type="bibr" coords="5,409.89,174.83,14.58,7.17" target="#b63">[63,</ref><ref type="bibr" coords="5,424.47,174.83,10.93,7.17" target="#b64">64]</ref>.</s><s coords="5,442.21,174.83,115.42,7.17;5,306.60,185.32,251.07,7.17;5,306.60,195.75,207.78,7.17">For a relative humidity of 80%, the COF stabilized at slightly lower values, 0.36 (Fig. <ref type="figure" coords="5,503.43,185.32,8.19,7.17" target="#fig_3">4c</ref> and Fig. <ref type="figure" coords="5,547.20,185.32,6.98,7.17" target="#fig_4">5c</ref>, black) and 0.31 (Fig. <ref type="figure" coords="5,385.00,195.75,8.97,7.17" target="#fig_3">4d</ref> and Fig. <ref type="figure" coords="5,429.00,195.75,7.46,7.17" target="#fig_4">5d</ref>, black), respectively.</s><s coords="5,517.32,195.75,40.32,7.17;5,306.60,206.24,251.03,7.17;5,306.59,216.67,251.02,7.17;5,306.59,227.16,208.64,7.17">This is also typical for steel/steel-pairings <ref type="bibr" coords="5,415.50,206.24,15.93,7.17" target="#b63">[63,</ref><ref type="bibr" coords="5,431.43,206.24,7.96,7.17" target="#b65">[65]</ref><ref type="bibr" coords="5,439.39,206.24,3.98,7.17" target="#b66">[66]</ref><ref type="bibr" coords="5,443.37,206.24,11.95,7.17" target="#b67">[67]</ref> and could be traced back to the involved humidity, which facilitated the oxide layer formation on the worn steel surface and thus reduced adhesion <ref type="bibr" coords="5,486.14,227.16,14.55,7.17" target="#b68">[68,</ref><ref type="bibr" coords="5,500.69,227.16,10.91,7.17" target="#b69">69]</ref>.</s></p><p><s coords="5,319.07,237.59,238.55,7.17;5,306.59,248.08,251.05,7.17;5,306.59,258.51,251.01,7.17">In contrast, the MXene-coated samples initially featured a lower level of friction in the range of 0.21 to 0.26 (Fig. <ref type="figure" coords="5,487.95,248.08,4.48,7.17" target="#fig_3">4</ref> and Fig. <ref type="figure" coords="5,527.53,248.08,3.35,7.17" target="#fig_4">5</ref>, blue), which was comparatively little dependent on pressure and humidity.</s><s coords="5,306.59,268.36,251.06,8.50;5,306.59,279.43,250.98,7.17">This confirmed the self-lubricating abilities of Ti 3 C 2 T x -nanosheets irrespective of the respective operating and/or environmental conditions.</s><s coords="5,306.59,289.92,251.04,7.17;5,306.60,300.35,171.49,7.17">After a certain number of sliding cycles, however, the COF abruptly rose back to about the reference level (Fig. <ref type="figure" coords="5,444.07,300.35,3.38,7.17" target="#fig_4">5</ref>, green).</s><s coords="5,480.59,300.35,77.09,7.17;5,306.60,310.84,251.03,7.17;5,306.60,321.27,193.76,7.17">Generally, this can be potentially attributed to a layer breakthrough or a reduction of the selflubricating properties induced by mechanical stresses.</s><s coords="5,503.31,321.27,54.28,7.17;5,306.60,331.76,251.01,7.17;5,306.59,342.19,164.08,7.17">As summarized in Fig. <ref type="figure" coords="5,330.46,331.76,3.35,7.17" target="#fig_5">6</ref>, the amount of sliding cycles until a significant friction increase was strongly dependent on testing conditions.</s><s coords="5,473.55,342.19,84.09,7.17;5,306.59,352.67,251.03,7.17;5,306.59,363.11,91.59,7.17">The lower friction level was maintained for longer times at lower pressures and, in particular, at lower relative humidities.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Wear behavior</head><p><s coords="5,319.07,405.00,238.55,7.17;5,306.60,415.43,251.06,7.17;5,306.60,425.92,126.21,7.17">Characteristic line profiles of the wear track on the disks after testing are shown in Fig. <ref type="figure" coords="5,395.26,415.43,4.48,7.17" target="#fig_6">7</ref> and calculated mean wear volumes for disks and balls are summarized in Fig. <ref type="figure" coords="5,426.10,425.92,3.35,7.17" target="#fig_7">8</ref>.</s></p><p><s coords="5,319.07,436.35,238.56,7.17;5,306.60,446.84,251.01,7.17;5,306.60,457.27,179.84,7.17">Similar to friction, wear of the steel/steel-reference also tended to be slightly lower with lower pressure and increasing relative humidity, which is typical for a steel/steel-pairing <ref type="bibr" coords="5,457.34,457.27,14.55,7.17" target="#b63">[63,</ref><ref type="bibr" coords="5,471.89,457.27,10.91,7.17" target="#b64">64]</ref>.</s><s coords="5,490.11,457.27,67.57,7.17;5,306.60,467.76,251.07,7.17;5,306.60,478.19,251.04,7.17;5,306.60,488.68,77.63,7.17">This could also be accounted to water promoting the oxide layer formation as well as reduced adhesion, which was consistent to previous results published in literature <ref type="bibr" coords="5,342.08,488.68,15.32,7.17" target="#b63">[63,</ref><ref type="bibr" coords="5,357.41,488.68,7.66,7.17" target="#b68">[68]</ref><ref type="bibr" coords="5,365.07,488.68,3.83,7.17" target="#b69">[69]</ref><ref type="bibr" coords="5,368.90,488.68,11.49,7.17" target="#b70">[70]</ref>.</s></p><p><s coords="5,319.07,499.11,238.57,7.17;5,306.60,509.60,251.04,7.17;5,306.60,520.03,251.07,7.92;5,306.60,530.52,24.91,7.17">Despite the only temporary COF reduction and comparatively long overall measuring time, clear differences between reference and Ti 3 C 2 T x -coated specimens were distinguished regarding their wear behavior.</s><s coords="5,334.83,530.52,222.80,7.17;5,306.60,540.95,119.42,7.17">Furthermore, a strong dependency on operating and environmental conditions was observed.</s><s coords="5,429.78,540.95,127.83,7.17;5,306.60,551.44,251.05,7.17;5,306.60,561.87,53.40,7.17">For lower relative humidity, a significantly less pronounced wear track could be observed on the disks (Fig. <ref type="figure" coords="5,324.74,561.87,28.84,7.17" target="#fig_6">7a and b</ref>).</s><s coords="5,362.04,561.87,195.60,7.17;5,306.60,572.36,251.07,7.17;5,306.60,582.79,164.57,7.17">While a reduction by a factor of roughly 2 was observed on the disks (Fig. <ref type="figure" coords="5,368.11,572.36,6.87,7.17" target="#fig_7">8a</ref>), the wear volume on the balls hardly differed from the reference at the higher pressure (Fig. <ref type="figure" coords="5,457.57,582.79,6.80,7.17" target="#fig_7">8e</ref>).</s><s coords="5,474.18,582.79,83.45,7.17;5,306.60,593.28,251.08,7.17;5,306.60,603.71,159.29,7.17">For the lower pressure, the wear volume on the disks was decreased by a factor of 1.8 (Fig. <ref type="figure" coords="5,545.73,593.28,7.97,7.17" target="#fig_7">8b</ref>) and by a factor of 3.4 on the balls (Fig. <ref type="figure" coords="5,453.54,603.71,6.17,7.17" target="#fig_7">8f</ref>).</s><s coords="5,468.85,603.71,88.82,7.17;5,306.60,614.20,251.08,7.86;5,306.59,624.63,86.62,7.17;5,393.22,622.47,9.31,5.31;5,402.58,624.63,155.05,7.17;5,306.60,635.12,199.27,7.17">The Raman spectrum recorded in the wear track revealed four peaks of Ti 3 C 2 T x ranging between 120 and 600 cm 1 , which were also observed in the Raman spectrum of the pristine, unworn MXene-coating (Fig. <ref type="figure" coords="5,496.18,635.12,3.23,7.17" target="#fig_8">9</ref>).</s><s coords="5,507.86,635.12,49.71,7.17;5,306.60,645.55,251.04,7.17;5,306.60,656.04,251.03,7.17;5,306.60,666.47,251.04,7.17;5,306.60,676.96,93.86,7.17">Consequently, the induced decrease of friction and wear can be attributed to the formation of a tribo-film consisting of densified MXene nanosheets, which is believed to be easy to be sheared and reduced the probability of metal-to-metal contact.</s><s coords="5,404.10,676.96,153.51,7.17;5,306.60,687.45,251.02,7.17;5,306.60,697.88,251.06,7.17;5,306.60,708.37,97.23,7.17">As can be seen in corresponding SEM-micrographs, the tribo-film was ruptured in the case of higher pressure (Fig. <ref type="figure" coords="5,324.74,697.88,7.09,7.17" target="#fig_9">10</ref>), but was almost formed over the entire contact area in the case of lower pressure (Fig. <ref type="figure" coords="5,389.65,708.37,7.09,7.17" target="#fig_10">11</ref>).</s></p><p><s coords="5,319.07,718.80,238.58,7.17;5,306.60,729.29,251.07,7.86;5,306.59,739.72,251.06,7.17;6,306.60,553.20,104.20,7.17">While there was hardly any significant difference between reference and Ti 3 C 2 T x -coated specimens at higher relative humidity and high pressure (Fig. <ref type="figure" coords="5,360.96,739.72,6.94,7.17" target="#fig_6">7c</ref>, Fig. <ref type="figure" coords="5,393.39,739.72,33.23,7.17" target="#fig_7">8c and g</ref>), the opposite was true at higher humidity and lower pressure.</s><s coords="6,413.34,553.20,144.27,7.17;6,306.59,563.69,251.04,7.17;6,306.60,574.12,251.05,7.17;6,306.60,584.61,213.83,7.17">For these conditions, the MXene-coating even had adverse effects with very pronounced wear marks (Fig. <ref type="figure" coords="6,543.46,563.69,7.09,7.17" target="#fig_6">7d</ref>), especially in the contact centre, and a wear volume on the disks that was 1.8 times higher than for the reference (Fig. <ref type="figure" coords="6,483.19,584.61,30.70,7.17" target="#fig_7">8d and h</ref>).</s><s coords="6,523.10,584.61,34.58,7.17;6,306.60,595.04,251.05,7.17;6,306.60,605.53,228.91,7.17">As can be seen in the corresponding SEM-micrograph (Fig. <ref type="figure" coords="6,486.94,595.04,7.11,7.17" target="#fig_11">12</ref>), a tribo-film similar to experiments with lower relative humidity was formed.</s><s coords="6,538.58,605.53,19.03,7.17;6,306.60,615.96,251.04,7.17;6,306.60,626.44,99.75,7.17">However, it was only present in the edge area, while the central area of the track featured severe wear.</s><s coords="6,409.94,626.44,147.66,7.17;6,306.60,636.24,238.10,8.56">These effects were attributed to pseudonegative compressibility and slippage of the Ti 3 C 2 T x -nanosheets.</s><s coords="6,548.56,636.88,9.10,7.17;6,306.59,647.37,251.02,7.17;6,306.59,657.80,251.00,7.17;6,306.59,668.28,251.03,7.17;6,306.59,678.77,251.03,7.17;6,306.59,689.20,156.54,7.17">Similar to other hydrophilic materials such as graphite oxide <ref type="bibr" coords="6,522.42,647.37,14.34,7.17" target="#b71">[71]</ref>, clay minerals <ref type="bibr" coords="6,340.55,657.80,15.69,7.17" target="#b72">[72]</ref> or layered titanite <ref type="bibr" coords="6,429.85,657.80,14.39,7.17" target="#b73">[73]</ref>, the spacings of multi-layered MXene expand when quasi-hydrostatically compressed in the presence of solvents such as water due to intercalation of solvent's molecules between the weakly bonded layers <ref type="bibr" coords="6,433.98,689.20,14.58,7.17" target="#b74">[74,</ref><ref type="bibr" coords="6,448.56,689.20,10.93,7.17" target="#b75">75]</ref>.</s><s coords="6,466.07,689.21,91.56,7.17;6,306.59,699.69,251.05,7.86;6,306.59,710.12,67.92,7.17">GHIDIU et al. <ref type="bibr" coords="6,509.61,689.21,15.69,7.17" target="#b76">[76]</ref> have assigned the shear to facilitate the insertion of bilayer H 2 0 between the MXene-nanosheets.</s><s coords="6,378.14,710.12,179.47,7.86;6,306.59,720.61,251.05,7.17;6,306.59,731.04,250.99,7.17;7,37.59,235.32,207.36,7.17">Thus, the separation of multi-layered Ti 3 C 2 T x -nanosheets into disordered sheets reduced sheet-to-sheet bonding and the counter-body shifted the MXenes relatively easily from the actual   contact area to the inner and outer edge of the wear track.</s><s coords="7,247.35,235.32,41.32,7.17;7,37.59,245.81,251.03,7.86;7,37.59,256.24,251.04,7.17;7,37.59,266.73,251.01,7.17;7,37.59,277.16,48.34,7.17">While these edge areas were still well protected by hydrated Ti 3 C 2 T x -nanoparticles, the now exposed central area of the substrate was affected by concentrated stresses, thus leading to observed wear pattern and increased wear volume.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p><s coords="7,50.06,322.17,238.55,7.17;7,37.59,332.61,251.04,7.17;7,37.59,343.09,251.04,7.17;7,37.59,353.53,211.38,7.17">Accurate material characterization and tribological experiments were used to assess the friction and wear behavior of MXene-nanosheets when used as a solid lubricant dependent on the applied contact pressure and the adjusted relative humidity.</s><s coords="7,251.14,353.53,37.50,7.17;7,37.59,364.01,251.03,7.86;7,37.59,374.45,251.04,7.17;7,37.59,384.93,251.04,7.17;7,37.59,395.37,13.41,7.17">In the case of a relative humidity of 20%, Ti 3 C 2 T x -nanosheets induced a friction reduction by a factor of up to 2.3 as well as a significant reduction of substrate and counter-body volumetric wear up to a cumulated factor of 2.7.</s><s coords="7,53.01,395.37,235.67,7.17;7,37.59,405.85,251.10,7.17;7,37.59,416.28,251.08,7.92;7,37.59,426.77,129.46,7.17">As verified by SEM and Raman spectroscopy, this was due to the insitu formation of a tribo-film on the disks consisting of densified Ti 3 C 2 T x -nanosheets, which was particularly pronounced for the lower initial Hertzian pressure of 0.8 GPa.</s><s coords="7,169.90,426.77,118.72,7.17;7,37.59,437.20,251.05,7.17;7,306.60,383.90,251.04,7.97;7,306.60,395.03,120.11,7.17">Testing with higher contact pressures of 1.47 GPa led to a partial rupture of the wear-protective tribo-film, which reduced its beneficial effects, in particular, an earlier rise in friction and lower wear reduction.</s><s coords="7,428.71,395.03,128.93,7.17;7,306.60,405.46,202.96,7.17">Moreover, no reduction in friction or wear was found for a higher relative humidity of 80%.</s><s coords="7,513.07,405.46,44.56,7.17;7,306.60,415.94,250.99,7.17;7,306.60,426.38,240.52,7.92">This was attributed to the expansion of the basal spacings of the multi-layered MXenes by shear-induced slippage and intercalated H 2 O-molecules.</s></p><p><s coords="7,319.07,436.86,238.57,7.17">Summarizing, the obtained results strongly emphasize the</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="3,306.60,253.43,251.03,6.46;3,306.60,262.96,49.56,6.45;3,314.48,57.03,235.44,187.92"><head>Fig. 1 .</head><label>1</label><figDesc><div><p><s coords="3,306.60,253.43,22.01,6.46">Fig. 1.</s><s coords="3,331.03,253.43,226.60,6.45;3,306.60,262.96,49.56,6.45">Experimental set-up of the ball-on-disk-tribometer embedded in a climatic chamber.</s></p></div></figDesc><graphic coords="3,314.48,57.03,235.44,187.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="4,37.59,558.37,520.07,7.72;4,37.59,568.53,133.05,6.45;4,120.42,57.03,354.48,493.49"><head>Fig. 2 .</head><label>2</label><figDesc><div><p><s coords="4,37.59,558.37,520.07,7.72;4,37.59,568.53,133.05,6.45">Fig. 2. Characterization of the as-synthesized Ti 3 C 2 T x -nanosheets by TEM (a) and HR-TEM (b), XPS fitting of the narrow scans of Ti 2p (c), C 1s (d), F 1s (e) and O 1s (f), Raman spectroscopy (g) and TPD-MS (h).</s></p></div></figDesc><graphic coords="4,120.42,57.03,354.48,493.49" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="5,37.59,727.44,251.05,7.09;5,37.59,737.02,29.23,6.45;5,49.72,567.95,226.80,151.06"><head>Fig. 3 .</head><label>3</label><figDesc><div><p><s coords="5,37.59,727.44,251.05,7.09;5,37.59,737.02,29.23,6.45">Fig. 3. FIB-cross-section of the as-deposited coating consisting of Ti 3 C 2 T x nanosheets.</s></p></div></figDesc><graphic coords="5,49.72,567.95,226.80,151.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="6,37.59,324.69,520.05,7.09;6,37.59,334.27,520.01,7.09;6,37.59,343.80,335.82,6.45;6,56.75,57.03,481.92,259.20"><head>Fig. 4 .</head><label>4</label><figDesc><div><p><s coords="6,37.59,324.69,520.05,7.09;6,37.59,334.27,520.01,7.09">Fig. 4. Representative COF curves versus sliding cycles for reference (black) and Ti 3 C 2 T x -coated (blue) specimens with an HERTZian pressure of p Hertz = 1.47 GPa and at a relative humidity of rh = 20% (a), p Hertz = 0.80 GPa and rh = 20% (b), p Hertz = 1.47 GPa mm and rh = 80% (c), p Hertz = 0.80 GPa and rh = 80% (d).</s><s coords="6,37.59,343.80,335.82,6.45">Additionally, magnified views of the initial sliding cycles with pronounced friction reduction are shown.</s></p></div></figDesc><graphic coords="6,56.75,57.03,481.92,259.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4" coords="6,37.59,510.48,520.04,7.09;6,37.59,520.00,520.05,7.09;6,37.59,529.58,46.46,6.45;6,56.75,364.93,481.92,137.09"><head>Fig. 5 .</head><label>5</label><figDesc><div><p><s coords="6,37.59,510.48,520.04,7.09;6,37.59,520.00,520.05,7.09;6,37.59,529.58,46.46,6.45">Fig. 5. Averaged COF (n = 3) for reference (grey) and Ti 3 C 2 T x -coated specimens prior to (dark blue) and after (green) the frictional rise with an HERTZian pressure of p Hertz = 1.47 GPa and at a relative humidity of rh = 20% (a), p Hertz = 0.80 GPa and rh = 20% (b), p Hertz = 1.47 GPa mm and rh = 80% (c), p Hertz = 0.80 GPa and rh = 80% (d).</s></p></div></figDesc><graphic coords="6,56.75,364.93,481.92,137.09" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5" coords="6,37.59,725.00,251.06,7.09;6,37.59,734.58,196.78,6.45;6,77.33,551.23,171.84,165.31"><head>Fig. 6 .</head><label>6</label><figDesc><div><p><s coords="6,37.59,725.00,21.78,6.46">Fig. 6.</s><s coords="6,61.80,725.00,226.86,7.09;6,37.59,734.58,196.78,6.45">Cycles until friction increase (n = 3) of the Ti 3 C 2 T x -coated specimens dependent on the contact pressure and the relative humidity.</s></p></div></figDesc><graphic coords="6,77.33,551.23,171.84,165.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6" coords="7,37.59,202.12,520.06,7.09;7,37.59,211.70,520.07,7.09;7,56.75,57.03,481.92,136.66"><head>Fig. 7 .</head><label>7</label><figDesc><div><p><s coords="7,37.59,202.12,520.06,7.09;7,37.59,211.70,520.07,7.09">Fig. 7. Characteristic line profiles of wear tracks on the disk for reference (black) and Ti 3 C 2 T x -coated (blue) specimens with an HERTZian pressure of p Hertz = 1.47 GPa and at a relative humidity of rh = 20% (a), p Hertz = 0.80 GPa and rh = 20% (b), p Hertz = 1.47 GPa mm and rh = 80% (c), p Hertz = 0.80 GPa and rh = 80% (d).</s></p></div></figDesc><graphic coords="7,56.75,57.03,481.92,136.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7" coords="7,37.59,717.86,520.06,7.09;7,37.59,727.44,520.04,7.09;7,37.59,737.02,8.81,6.45;7,56.75,455.41,481.92,254.02"><head>Fig. 8 .</head><label>8</label><figDesc><div><p><s coords="7,37.59,717.86,520.06,7.09;7,37.59,727.44,520.04,7.09;7,37.59,737.02,8.81,6.45">Fig. 8. Mean wear volumes (n = 3) on the disk and the balls for reference (grey) and Ti 3 C 2 T x -coated (blue) specimens with an HERTZian pressure of p Hertz = 1.47 GPa and at a relative humidity of rh = 20% (a, e), p Hertz = 0.80 GPa and rh = 20% (b, f), p Hertz = 1.47 GPa mm and rh = 80% (c, g), p Hertz = 0.80 GPa and rh = 80% (d, h).</s></p></div></figDesc><graphic coords="7,56.75,455.41,481.92,254.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8" coords="7,306.60,341.76,251.06,7.15;7,306.59,351.34,251.02,7.09;7,306.59,360.92,43.27,6.45;7,361.30,233.41,141.84,99.94"><head>Fig. 9 .</head><label>9</label><figDesc><div><p><s coords="7,306.60,341.76,251.06,7.15;7,306.59,351.34,251.02,7.09;7,306.59,360.92,43.27,6.45">Fig. 9. Raman spectroscopy of Ti 3 C 2 T x -coated and worn surface of the specimens with an HERTZian pressure of p Hertz = 0.80 GPa and at a relative humidity of rh = 20%.</s></p></div></figDesc><graphic coords="7,361.30,233.41,141.84,99.94" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9" coords="8,37.59,180.81,520.06,7.15;8,37.59,190.39,74.62,6.45;8,120.42,57.03,354.48,115.34"><head>Fig. 10 .</head><label>10</label><figDesc><div><p><s coords="8,37.59,180.81,25.42,6.46">Fig. 10.</s><s coords="8,65.42,180.81,492.22,7.15;8,37.59,190.39,74.62,6.45">SEM-micrographs of the wear track after tribological testing for a Ti 3 C 2 T x -coated specimen with an HERTZian pressure of p Hertz = 1.47 GPa and at a relative humidity of rh = 20%.</s></p></div></figDesc><graphic coords="8,120.42,57.03,354.48,115.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10" coords="8,37.59,727.44,520.06,7.09;8,37.59,737.02,72.62,6.45;8,120.42,522.71,354.48,196.27"><head>Fig. 11 .</head><label>11</label><figDesc><div><p><s coords="8,37.59,727.44,25.42,6.46">Fig. 11.</s><s coords="8,65.42,727.44,492.22,7.09;8,37.59,737.02,72.62,6.45">SEM-micrographs of the wear track after tribological testing for a Ti 3 C 2 T x -coated specimen with an HERTZian pressure of p Hertz = 0.80 GPa and at a relative humidity of rh = 20%</s></p></div></figDesc><graphic coords="8,120.42,522.71,354.48,196.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11" coords="9,37.59,169.58,520.06,7.09;9,37.59,179.16,74.62,6.45;9,120.42,57.03,354.48,104.11"><head>Fig. 12 .</head><label>12</label><figDesc><div><p><s coords="9,37.59,169.58,520.06,7.09;9,37.59,179.16,74.62,6.45">Fig. 12. SEM-micrographs of the wear track after tribological testing for a Ti 3 C 2 T x -coated specimen with an HERTZian pressure of p Hertz = 0.80 GPa and at a relative humidity of rh = 80%.</s></p></div></figDesc><graphic coords="9,120.42,57.03,354.48,104.11" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p><s coords="8,319.07,234.92,238.57,7.17;8,306.59,245.41,250.96,7.17;8,306.59,255.84,174.98,7.17">M. MARIAN, S. TREMMEL and S. WARTZACK greatly acknowledge the continious support of the technical faculty of Friedrich-Alexander-Universitt (FAU) Erlangen-Nrnberg, Germany.</s><s coords="8,485.17,255.84,72.44,7.17;8,306.59,266.33,251.05,7.17;8,306.60,276.82,251.05,7.17;8,306.60,287.25,91.85,7.17">R. ZHAO and student assistant K. FEILE from Engineering Design, FAU Erlangen-Nrnberg are kindly acknowledged for their assistance in SEM and Raman characterization, respectively.</s><s coords="8,402.23,287.25,155.41,7.17;8,306.60,297.74,68.71,7.17">Furthermore, T. WEIKERT is thanked for the fruitful discussions.</s><s coords="8,377.91,297.74,179.70,7.17;8,306.60,307.53,107.95,7.97">V. M. Fuenzalida greatly acknowledges the project "Ncleo Milenio Multimat".</s><s coords="8,421.79,308.17,135.87,7.17;8,306.59,318.66,251.04,7.17;8,306.59,329.09,60.33,7.17">R. ESPINOZA and N. ESCALONA from Universidad de Chile are thanked for their help in HR-TEM and TPD-MS, respectively.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p><s coords="8,319.07,374.96,238.53,7.17;8,306.59,385.44,251.03,7.17;8,306.59,395.24,92.26,7.97">This work was supported by CONICYT within the project Fondecyt 11180121 as well as the VID of the University of Chile in the framework of "U-Inicia UI013/2018".</s></p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Competing Interest</head><p><s coords="8,50.06,483.00,238.54,7.97;8,37.59,494.07,251.08,7.17;8,37.59,504.55,133.21,7.17">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="9,54.14,308.45,217.67,5.73;9,54.14,315.93,227.05,6.38;9,54.14,324.43,206.78,5.73" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Electric Field Effect in Atomically Thin Carbon Films</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">S</forename><surname>Novoselov</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">K</forename><surname>Geim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">V</forename><surname>Morozov</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">V</forename><surname>Dubonos</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">V</forename><surname>Grigorieva</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">A</forename><surname>Firsov</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1102896</idno>
+		<idno type="PMID">15499015</idno>
+		<ptr type="open-access" target="http://arxiv.org/pdf/cond-mat/0410550" />
+		<ptr target="https://doi.org/10.1126/science.1102896" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">306</biblScope>
+			<biblScope unit="issue">5696</biblScope>
+			<biblScope unit="page" from="666" to="669" />
+			<date type="published" when="2004-10-22" />
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,332.37,229.83,5.73;9,54.14,340.36,102.41,5.73" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The rise of graphene</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">K</forename><surname>Geim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">S</forename><surname>Novoselov</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nmat1849</idno>
+		<idno type="PMID">17330084</idno>
+		<ptr target="https://doi.org/10.1038/nmat1849" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Materials</title>
+		<title level="j" type="abbrev">Nature Mater</title>
+		<idno type="ISSN">1476-1122</idno>
+		<idno type="ISSNe">1476-4660</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="183" to="191" />
+			<date type="published" when="2007-03" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,348.30,234.48,5.73;9,54.14,356.29,98.67,5.73" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Graphene: Status and Prospects</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">K</forename><surname>Geim</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1158877</idno>
+		<idno type="PMID">19541989</idno>
+		<ptr type="open-access" target="http://arxiv.org/pdf/0906.3799" />
+		<ptr target="https://doi.org/10.1126/science.1158877" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">324</biblScope>
+			<biblScope unit="issue">5934</biblScope>
+			<biblScope unit="page" from="1530" to="1534" />
+			<date type="published" when="2009-06-18" />
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,364.29,233.79,5.73;9,54.14,372.23,229.00,5.73;9,54.14,380.22,131.04,5.73" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Direct-bandgap properties and evidence for ultraviolet lasing of hexagonal boron nitride single crystal</title>
+		<author>
+			<persName><forename type="first">Kenji</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Takashi</forename><surname>Taniguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hisao</forename><surname>Kanda</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nmat1134</idno>
+		<idno type="PMID">15156198</idno>
+		<ptr target="https://doi.org/10.1038/nmat1134" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Materials</title>
+		<title level="j" type="abbrev">Nature Mater</title>
+		<idno type="ISSN">1476-1122</idno>
+		<idno type="ISSNe">1476-4660</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="404" to="409" />
+			<date type="published" when="2004-05-23" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,388.16,220.36,5.73;9,54.14,396.15,223.55,5.73;9,54.14,404.09,234.47,5.73;9,54.14,412.08,74.52,5.73" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Boron nitride substrates for high-quality graphene electronics</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">R</forename><surname>Dean</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">F</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Meric</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Sorgenfrei</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Taniguchi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">L</forename><surname>Shepard</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Hone</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nnano.2010.172</idno>
+		<idno type="PMID">20729834</idno>
+		<ptr type="open-access" target="http://arxiv.org/pdf/1005.4917" />
+		<ptr target="https://doi.org/10.1038/nnano.2010.172" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Nanotechnology</title>
+		<title level="j" type="abbrev">Nature Nanotech</title>
+		<idno type="ISSN">1748-3387</idno>
+		<idno type="ISSNe">1748-3395</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="722" to="726" />
+			<date type="published" when="2010-08-22" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,420.07,222.25,5.73;9,54.14,428.01,234.50,5.73;9,54.14,436.00,211.19,5.73;9,54.14,443.94,234.51,5.73;9,54.14,451.93,220.30,5.73;9,54.14,459.93,230.70,5.73;9,54.14,467.86,149.41,5.73" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Two-Dimensional Nanosheets Produced by Liquid Exfoliation of Layered Materials</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">N</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Lotya</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>O'neill</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">D</forename><surname>Bergin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">J</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Gaucher</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">V</forename><surname>Shvets</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">K</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Stanton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H-Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">S</forename><surname>Duesberg</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Hallam</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename><surname>Boland</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">F</forename><surname>Donegan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">C</forename><surname>Grunlan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Moriarty</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Shmeliov</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">J</forename><surname>Nicholls</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Grieveson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Theuwissen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Mccomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Nellist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nicolosi</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1194975</idno>
+		<idno type="PMID">21292974</idno>
+		<ptr type="open-access" target="http://pdfs.semanticscholar.org/9892/1a96a773f653843766b1f8aa95525dda509f.pdf" />
+		<ptr target="https://doi.org/10.1126/science.1194975" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<editor>J.M. Perkins, E.M. Grieveson, K. Theuwissen, D.W. McComb, P.D. Nellist, V. Nicolosi</editor>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">331</biblScope>
+			<biblScope unit="issue">6017</biblScope>
+			<biblScope unit="page" from="568" to="571" />
+			<date type="published" when="2011-02-03" />
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,475.86,233.36,5.73;9,54.14,483.79,217.39,5.73;9,54.14,491.79,218.52,5.73" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Electronics and optoelectronics of two-dimensional transition metal dichalcogenides</title>
+		<author>
+			<persName><forename type="first">Qing</forename><forename type="middle">Hua</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kourosh</forename><surname>Kalantar-Zadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andras</forename><surname>Kis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><forename type="middle">N</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">S</forename><surname>Strano</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nnano.2012.193</idno>
+		<idno type="PMID">23132225</idno>
+		<ptr type="open-access" target="https://infoscience.epfl.ch/record/182177/files/Nat%20Nano%207%20699%20%282012%29%20Wang%20-%20Electronics%20and%20optoelectronics%20of%20two-dimensional%20transition%20metal%20dichalcogenides.pdf" />
+		<ptr target="https://doi.org/10.1038/nnano.2012.193" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Nanotechnology</title>
+		<title level="j" type="abbrev">Nature Nanotech</title>
+		<idno type="ISSN">1748-3387</idno>
+		<idno type="ISSNe">1748-3395</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="699" to="712" />
+			<date type="published" when="2012-11" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,499.78,227.37,5.73;9,54.14,507.72,227.60,5.73;9,54.14,515.71,176.68,5.73" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">25th Anniversary Article: MXenes: A New Family of Two-Dimensional Materials</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Naguib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vadym</forename><forename type="middle">N</forename><surname>Mochalin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><forename type="middle">W</forename><surname>Barsoum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/adma.201304138</idno>
+		<idno type="PMID">24357390</idno>
+		<idno type="ark">ark:/67375/WNG-NB4WZ7WT-S</idno>
+		<idno type="istexId">6936FA6C4A409873D6B6D94ED803BE9A6CFE8C7E</idno>
+		<ptr target="https://doi.org/10.1002/adma.201304138" />
+	</analytic>
+	<monogr>
+		<title level="j">Advanced Materials</title>
+		<title level="j" type="abbrev">Adv. Mater.</title>
+		<idno type="ISSN">0935-9648</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="992" to="1005" />
+			<date type="published" when="2013-12-19" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,523.65,234.00,5.73;9,54.14,531.64,225.22,5.73;9,54.14,539.58,58.30,5.73" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">2D metal carbides and nitrides (MXenes) for energy storage</title>
+		<author>
+			<persName><forename type="first">Babak</forename><surname>Anasori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">R</forename><surname>Lukatskaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/natrevmats.2016.98</idno>
+		<ptr target="https://doi.org/10.1038/natrevmats.2016.98" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Materials</title>
+		<title level="j" type="abbrev">Nat Rev Mater</title>
+		<idno type="ISSNe">2058-8437</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">16098</biblScope>
+			<date type="published" when="2017-01-17" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,547.57,221.56,5.73;9,54.14,555.57,228.78,5.73;9,54.14,563.50,213.59,5.73;9,54.14,571.50,39.59,5.73" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Pseudocapacitance of MXene nanosheets for high-power sodium-ion hybrid capacitors</title>
+		<author>
+			<persName><forename type="first">Xianfen</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Satoshi</forename><surname>Kajiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hiroki</forename><surname>Iinuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eiji</forename><surname>Hosono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shinji</forename><surname>Oro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Isamu</forename><surname>Moriguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Masashi</forename><surname>Okubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Atsuo</forename><surname>Yamada</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ncomms7544</idno>
+		<idno type="PMID">25832913</idno>
+		<idno type="PMCID">PMC4396360</idno>
+		<ptr type="open-access" target="https://www.nature.com/articles/ncomms7544.pdf" />
+		<ptr target="https://doi.org/10.1038/ncomms7544" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<title level="j" type="abbrev">Nat Commun</title>
+		<idno type="ISSNe">2041-1723</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">6544</biblScope>
+			<date type="published" when="2015-04-02" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,579.43,234.51,5.73;9,54.14,587.43,234.48,5.73;9,54.14,595.42,213.02,5.73" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Electromagnetic interference shielding with 2D transition metal carbides (MXenes)</title>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Shahzad</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Alhabeb</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">B</forename><surname>Hatter</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Anasori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Man Hong</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">M</forename><surname>Koo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aag2421</idno>
+		<idno type="PMID">27609888</idno>
+		<ptr type="open-access" target="https://science.sciencemag.org/content/sci/353/6304/1137.full.pdf" />
+		<ptr target="https://doi.org/10.1126/science.aag2421" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="issue">6304</biblScope>
+			<biblScope unit="page" from="1137" to="1140" />
+			<date type="published" when="2016-09-08" />
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,603.36,229.94,5.73;9,54.14,611.35,230.19,5.73;9,54.14,619.29,198.74,5.73;9,54.14,627.28,43.16,5.73" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Ti3C2 MXene co-catalyst on metal sulfide photo-absorbers for enhanced visible-light photocatalytic hydrogen production</title>
+		<author>
+			<persName><forename type="first">Jingrun</forename><surname>Ran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guoping</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fa-Tang</forename><surname>Li</surname></persName>
+			<idno type="ORCID">0000-0002-8777-090X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Tian-Yi</forename><surname>Ma</surname></persName>
+			<idno type="ORCID">0000-0002-1042-8700</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aijun</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shi-Zhang</forename><surname>Qiao</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ncomms13907</idno>
+		<idno type="PMID">28045015</idno>
+		<idno type="PMCID">PMC5512649</idno>
+		<ptr type="open-access" target="https://www.nature.com/articles/ncomms13907.pdf" />
+		<ptr target="https://doi.org/10.1038/ncomms13907" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<title level="j" type="abbrev">Nat Comms</title>
+		<idno type="ISSNe">2041-1723</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">13907</biblScope>
+			<date type="published" when="2017-01-03" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,635.22,191.62,5.73;9,54.14,643.21,214.24,5.73;9,54.14,651.21,213.97,5.73;9,54.14,659.14,208.78,5.73;9,54.14,667.14,65.84,5.73" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Two-Dimensional Molybdenum Carbide (MXene) as an Efficient Electrocatalyst for Hydrogen Evolution</title>
+		<author>
+			<persName><forename type="first">Zhi</forename><forename type="middle">Wei</forename><surname>Seh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kurt</forename><forename type="middle">D</forename><surname>Fredrickson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Babak</forename><surname>Anasori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jakob</forename><surname>Kibsgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alaina</forename><forename type="middle">L</forename><surname>Strickler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">R</forename><surname>Lukatskaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">F</forename><surname>Jaramillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aleksandra</forename><surname>Vojvodic</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acsenergylett.6b00247</idno>
+		<ptr target="https://doi.org/10.1021/acsenergylett.6b00247" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Letters</title>
+		<title level="j" type="abbrev">ACS Energy Lett.</title>
+		<idno type="ISSN">2380-8195</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="589" to="594" />
+			<date type="published" when="2016-08-24" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,675.07,234.53,5.73;9,54.14,683.07,204.34,5.73;9,54.14,691.06,182.86,5.74" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Two-dimensional Ti3C2 coating as an emerging protective solid-lubricant for tribology</title>
+		<author>
+			<persName><forename type="first">Weiqi</forename><surname>Lian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yongjin</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cansen</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liuyan</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shilin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaohua</forename><surname>Jie</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ceramint.2018.07.309</idno>
+		<ptr target="https://doi.org/10.1016/j.ceramint.2018.07.309" />
+	</analytic>
+	<monogr>
+		<title level="j">Ceramics International</title>
+		<title level="j" type="abbrev">Ceramics International</title>
+		<idno type="ISSN">0272-8842</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="20154" to="20162" />
+			<date type="published" when="2018-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,699.00,234.52,5.73;9,54.14,707.00,220.85,5.73" xml:id="b14">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Ashton</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Ostadhossein</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">C T</forename><surname>Van Duin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">G</forename><surname>Hennig</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">B</forename><surname>Sinnott</surname></persName>
+		</author>
+		<title level="m">Computational study of low interlayer friction in Tin+1Cn</title>
+				<imprint/>
+	</monogr>
+	<note>n = 1, 2, and 3</note>
+</biblStruct>
+
+<biblStruct coords="9,54.14,714.93,228.74,5.73;9,54.14,722.93,65.50,5.73" xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName coords=""><surname>Mxene</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acsami.7b09895</idno>
+		<ptr target="https://doi.org/10.1021/acsami.7b09895" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Appl. Mater. Interfaces</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="34467" to="34479" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,54.14,730.86,230.53,5.73;9,54.14,738.86,210.12,5.73;9,323.15,203.84,182.86,5.73" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Synthesis, structure, properties and applications of MXenes: Current status and perspectives</title>
+		<author>
+			<persName><forename type="first">Rodrigo</forename><forename type="middle">Mantovani</forename><surname>Ronchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeverson</forename><forename type="middle">Teodoro</forename><surname>Arantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sydney</forename><forename type="middle">Ferreira</forename><surname>Santos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ceramint.2019.06.114</idno>
+		<ptr target="https://doi.org/10.1016/j.ceramint.2019.06.114" />
+	</analytic>
+	<monogr>
+		<title level="j">Ceramics International</title>
+		<title level="j" type="abbrev">Ceramics International</title>
+		<idno type="ISSN">0272-8842</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="18167" to="18188" />
+			<date type="published" when="2019-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,211.84,234.50,5.73;9,323.15,219.77,234.50,5.73;9,323.15,227.77,163.58,5.73" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Preparation, mechanical and anti-friction performance of MXene/polymer composites</title>
+		<author>
+			<persName><forename type="first">Heng</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Libo</forename><surname>Wang</surname></persName>
+			<idno type="ORCID">0000-0002-5858-397X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Qiang</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ping</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aiguo</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xinxin</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qianku</forename><surname>Hu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.matdes.2015.12.084</idno>
+		<ptr target="https://doi.org/10.1016/j.matdes.2015.12.084" />
+	</analytic>
+	<monogr>
+		<title level="j">Materials &amp; Design</title>
+		<title level="j" type="abbrev">Materials &amp; Design</title>
+		<idno type="ISSN">0264-1275</idno>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="682" to="689" />
+			<date type="published" when="2016-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,235.76,232.60,5.73;9,323.15,243.70,234.47,5.73;9,323.15,251.69,102.69,5.73" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Self-lubricating Ti3C2 nanosheets/copper composite coatings</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">J</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">X</forename><forename type="middle">H</forename><surname>Jie</surname></persName>
+			<idno type="ORCID">0000-0003-4830-8840</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jallcom.2018.08.100</idno>
+		<ptr target="https://doi.org/10.1016/j.jallcom.2018.08.100" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Alloys and Compounds</title>
+		<title level="j" type="abbrev">Journal of Alloys and Compounds</title>
+		<idno type="ISSN">0925-8388</idno>
+		<imprint>
+			<biblScope unit="volume">770</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2019-01" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,259.63,229.19,5.73;9,323.15,267.62,222.59,5.73;9,323.15,275.62,147.19,5.73" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Synthesis, characterization, and tribological properties of two-dimensional Ti3C2</title>
+		<author>
+			<persName><forename type="first">Jin</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Beibei</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haojie</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hua</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Changsheng</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/crat.201400268</idno>
+		<idno type="ark">ark:/67375/WNG-XJ07ST8B-G</idno>
+		<idno type="istexId">90733FA2AC687495E38721921BA5690CCF061854</idno>
+		<ptr target="https://doi.org/10.1002/crat.201400268" />
+	</analytic>
+	<monogr>
+		<title level="j">Crystal Research and Technology</title>
+		<title level="j" type="abbrev">Crystal Research and Technology</title>
+		<idno type="ISSN">0232-1300</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="926" to="932" />
+			<date type="published" when="2014-10-13" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,283.55,234.49,5.73;9,323.15,291.55,233.85,5.73;9,323.15,299.48,189.94,5.73" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Preparation and tribological properties of Ti3C2(OH)2 nanosheets as additives in base oil</title>
+		<author>
+			<persName><forename type="first">Xianghua</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maoquan</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xinghua</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhiping</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guangsi</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhide</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoli</forename><surname>Sui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Changsheng</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c4ra13800g</idno>
+		<ptr target="https://doi.org/10.1039/C4RA13800G" />
+	</analytic>
+	<monogr>
+		<title level="j">RSC Advances</title>
+		<title level="j" type="abbrev">RSC Adv.</title>
+		<idno type="ISSNe">2046-2069</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2762" to="2767" />
+			<date type="published" when="2015" />
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,307.48,234.52,5.73;9,323.15,315.47,229.45,5.73;9,323.15,323.41,214.73,5.73;9,323.15,331.40,40.05,5.73" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Preparation of TiO2/Ti3C2Tx hybrid nanocomposites and their tribological properties as base oil lubricant additives</title>
+		<author>
+			<persName><forename type="first">Maoquan</forename><surname>Xue</surname></persName>
+			<idno type="ORCID">0000-0001-7901-2087</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Zhiping</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Feng</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xianghua</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wei</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hua</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Changsheng</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c6ra27653a</idno>
+		<ptr type="open-access" target="https://pubs.rsc.org/en/content/articlepdf/2017/ra/c6ra27653a" />
+		<ptr target="https://doi.org/10.1039/C6RA27653A" />
+	</analytic>
+	<monogr>
+		<title level="j">RSC Advances</title>
+		<title level="j" type="abbrev">RSC Adv.</title>
+		<idno type="ISSNe">2046-2069</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="4312" to="4319" />
+			<date type="published" when="2017" />
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,339.34,224.95,5.73;9,323.15,347.33,234.40,5.73;9,323.15,355.27,57.11,5.73" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Synthesis and tribological property of Ti3C2T X nanosheets</title>
+		<author>
+			<persName><forename type="first">Yong</forename><surname>Liu</surname></persName>
+			<idno type="ORCID">0000-0003-4544-2382</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Xuefeng</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shangli</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhuyu</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yidan</forename><surname>Wei</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10853-016-0509-0</idno>
+		<ptr target="https://doi.org/10.1007/s10853-016-0509-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Materials Science</title>
+		<title level="j" type="abbrev">J Mater Sci</title>
+		<idno type="ISSN">0022-2461</idno>
+		<idno type="ISSNe">1573-4803</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2200" to="2209" />
+			<date type="published" when="2016-10-20" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,363.26,214.52,5.73;9,323.15,371.26,224.22,5.73;9,323.15,378.68,234.52,6.38;9,323.15,387.19,226.53,5.73;9,323.15,395.12,133.36,5.73" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Multi-layer Ti3C2Tx-nanoparticles (MXenes) as solid lubricants  Role of surface terminations and intercalated water</title>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Rosenkranz</surname></persName>
+			<idno type="ORCID">0000-0002-9006-1127</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Philipp</forename><forename type="middle">G</forename><surname>Grtzmacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rodrigo</forename><surname>Espinoza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victor</forename><forename type="middle">M</forename><surname>Fuenzalida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elodie</forename><surname>Blanco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nstor</forename><surname>Escalona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francisco</forename><forename type="middle">J</forename><surname>Gracia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roberto</forename><surname>Villarroel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liangchao</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruiyang</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Mcklich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Suarez</surname></persName>
+			<idno type="ORCID">0000-0003-3556-5987</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Zhenyu</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2019.07.171</idno>
+		<ptr target="https://doi.org/10.1016/j.apsusc.2019.07.171" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">494</biblScope>
+			<biblScope unit="page" from="13" to="21" />
+			<date type="published" when="2019-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,403.12,222.03,5.73;9,323.15,411.11,234.36,5.73;9,323.15,419.05,26.84,5.73" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Nanomechanical properties of Ti3C2 Mxene</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">X</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">X</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Q</forename><surname>Xu</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acs.langmuir.9b02619</idno>
+		<ptr target="https://doi.org/10.1021/acs.langmuir.9b02619" />
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="14481" to="14485" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,427.04,229.04,5.73;9,323.15,434.98,229.73,5.73;9,323.15,442.97,222.94,5.73" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Ultra-Wear-Resistant MXene-Based Composite Coating via in Situ Formed Nanostructured Tribofilm</title>
+		<author>
+			<persName><forename type="first">Xuan</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jie</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xinchun</forename><surname>Chen</surname></persName>
+			<idno type="ORCID">0000-0001-7027-6799</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Rosenkranz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianbin</forename><surname>Luo</surname></persName>
+			<idno type="ORCID">0000-0002-5132-0712</idno>
+		</author>
+		<idno type="DOI">10.1021/acsami.9b11449</idno>
+		<ptr target="https://doi.org/10.1021/acsami.9b11449" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Applied Materials &amp; Interfaces</title>
+		<title level="j" type="abbrev">ACS Appl. Mater. Interfaces</title>
+		<idno type="ISSN">1944-8244</idno>
+		<idno type="ISSNe">1944-8252</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">35</biblScope>
+			<biblScope unit="page" from="32569" to="32576" />
+			<date type="published" when="2019-08-15" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,450.91,234.52,5.73;9,323.15,458.39,224.37,6.38;9,323.15,466.90,234.48,5.73;9,323.15,474.83,113.01,5.73" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Mxene nanosheets as an emerging solid lubricant for machine elements -Towards increased energy efficiency and service life</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Marian</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Tremmel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Wartzack</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Rosenkranz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2020.146503</idno>
+		<ptr target="https://doi.org/10.1016/j.apsusc.2020.146503" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Surf. Sci</title>
+		<imprint>
+			<biblScope unit="volume">523</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,482.83,233.63,5.73;9,323.15,490.76,230.92,5.74;9,323.15,498.76,104.05,5.73" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Origin of low-friction behavior in graphite investigated by surface x-ray diffraction</title>
+		<author>
+			<persName><forename type="first">Bing</forename><forename type="middle">K</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Birgit</forename><forename type="middle">E</forename><surname>Schwickert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">F</forename><surname>Toney</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1760597</idno>
+		<ptr type="open-access" target="http://pdfs.semanticscholar.org/7220/0bf371c9d8aad43a348e6006452638bed2ef.pdf" />
+		<ptr target="https://doi.org/10.1063/1.1760597" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Physics Letters</title>
+		<title level="j" type="abbrev">Appl. Phys. Lett.</title>
+		<idno type="ISSN">0003-6951</idno>
+		<idno type="ISSNe">1077-3118</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="4702" to="4704" />
+			<date type="published" when="2004-06-07" />
+			<publisher>AIP Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,506.76,227.34,5.73;9,323.15,514.69,210.35,5.73;9,323.15,522.69,172.03,5.73" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Super low to high friction of turbostratic graphite under various atmospheric test conditions</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Dash</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">K</forename><surname>Tyagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Baldev</forename><surname>Raj</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2011.08.012</idno>
+		<ptr target="https://doi.org/10.1016/j.triboint.2011.08.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1969" to="1978" />
+			<date type="published" when="2011-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,530.63,234.49,5.73;9,323.15,538.62,180.48,5.73" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Vapor Lubrication of Graphite Sliding Contacts</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">H</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">L</forename><surname>Schaefer</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1722322</idno>
+		<ptr target="https://doi.org/10.1063/1.1722322" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Physics</title>
+		<title level="j" type="abbrev">Journal of Applied Physics</title>
+		<idno type="ISSN">0021-8979</idno>
+		<idno type="ISSNe">1089-7550</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="136" to="138" />
+			<date type="published" when="1956-02" />
+			<publisher>AIP Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,546.56,234.47,5.73;9,323.15,554.55,58.76,5.73" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Graphite Lubrication</title>
+		<author>
+			<persName coords=""><forename type="first">Robert</forename><forename type="middle">H</forename><surname>Savage</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1697867</idno>
+		<ptr target="https://doi.org/10.1063/1.1697867" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Physics</title>
+		<title level="j" type="abbrev">Journal of Applied Physics</title>
+		<idno type="ISSN">0021-8979</idno>
+		<idno type="ISSNe">1089-7550</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="1948-01" />
+			<publisher>AIP Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,562.54,230.88,5.73;9,323.15,570.48,234.46,5.73;9,323.15,578.47,133.65,5.73" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Environmental dependence of atomic-scale friction at graphite surface steps</title>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Egberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhijiang</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xin</forename><forename type="middle">Z</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yalin</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashlie</forename><surname>Martini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">W</forename><surname>Carpick</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevb.88.035409</idno>
+		<ptr type="open-access" target="http://pdfs.semanticscholar.org/7755/f6587271bd2f87e662e081f508db90550630.pdf" />
+		<ptr target="https://doi.org/10.1103/PhysRevB.88.035409" />
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<title level="j" type="abbrev">Phys. Rev. B</title>
+		<idno type="ISSN">1098-0121</idno>
+		<idno type="ISSNe">1550-235X</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2013-07-03" />
+			<publisher>American Physical Society (APS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,586.41,234.53,5.73;9,323.15,594.40,215.79,5.73;9,323.15,602.40,161.99,5.73" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Role of humidity in reducing the friction of graphene layers on textured surfaces</title>
+		<author>
+			<persName><forename type="first">Zheng-Yang</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wen-Jing</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yan-Ping</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Song-Bo</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhen-Bing</forename><surname>Cai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2017.01.226</idno>
+		<ptr type="open-access" target="https://manuscript.elsevier.com/S0169433217302490/pdf/S0169433217302490.pdf" />
+		<ptr target="https://doi.org/10.1016/j.apsusc.2017.01.226" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">403</biblScope>
+			<biblScope unit="page" from="362" to="370" />
+			<date type="published" when="2017-05" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,610.33,234.53,5.73;9,323.15,618.33,225.11,5.73;9,323.15,626.26,58.76,5.73" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Role of humidity in reducing sliding friction of multilayered graphene</title>
+		<author>
+			<persName><forename type="first">Sukanta</forename><surname>Bhowmick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anindya</forename><surname>Banerji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ahmet</forename><forename type="middle">T</forename><surname>Alpas</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.carbon.2015.01.053</idno>
+		<ptr target="https://doi.org/10.1016/j.carbon.2015.01.053" />
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<title level="j" type="abbrev">Carbon</title>
+		<idno type="ISSN">0008-6223</idno>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="374" to="384" />
+			<date type="published" when="2015-06" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,634.26,226.30,5.73;9,323.15,641.69,223.08,6.38;9,323.15,650.19,219.99,5.73" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Frictional behavior of diamondlike carbon films in vacuum and under varying water vapor pressure</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">A</forename><surname>Erck</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Erdemir</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0257-8972(02)00617-5</idno>
+		<idno>S0257-8972(02)00617-5</idno>
+		<ptr type="open-access" target="https://digital.library.unt.edu/ark:/67531/metadc741509/m2/1/high_res_d/797897.pdf" />
+		<ptr target="https://doi.org/10.1016/" />
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">163-164</biblScope>
+			<biblScope unit="page" from="535" to="540" />
+			<date type="published" when="2003-01" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,657.67,231.70,6.38;9,323.15,666.12,234.35,5.73;9,323.15,674.11,51.67,5.73" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Friction of diamond-like carbon films in different atmospheres</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">A</forename><surname>Erck</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Erdemir</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0043-1648(03)00336-3</idno>
+		<ptr target="https://doi.org/10.1016/S0043-1648" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1070" to="1075" />
+			<date type="published" when="2003-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,682.05,234.52,5.73;9,323.15,689.53,224.93,6.38;9,323.15,698.04,71.40,5.73" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The role of hydrogen in tribological properties of diamond-like carbon films</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Erdemir</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0257-8972(01)01417-7</idno>
+		<idno type="PII">S0257-8972(01)01417-7</idno>
+		<idno type="ark">ark:/67375/6H6-LB1FM6TK-X</idno>
+		<idno type="istexId">2A1ACB08BE06F63B5426103E1F2BAF456FB1D3F7</idno>
+		<ptr target="https://doi.org/10.1016/S0257-8972" />
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">146-147</biblScope>
+			<biblScope unit="issue">01</biblScope>
+			<biblScope unit="page" from="292" to="297" />
+			<date type="published" when="2001-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,705.97,233.12,5.73;9,323.15,713.46,234.46,6.38;9,323.15,721.90,74.57,5.73" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Environmental effects on the friction of hydrogenated DLC films</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">I</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">R</forename><surname>Lince</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><forename type="middle">L</forename><surname>Eryilmaz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Erdemir</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11249-005-9008-1</idno>
+		<idno type="ark">ark:/67375/VQC-55SX97RZ-9</idno>
+		<idno type="istexId">F1622778C96A586B8DAF28460B42DAE884B90E24</idno>
+		<ptr target="https://doi.org/10.1007/s11249-005-9008-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Letters</title>
+		<title level="j" type="abbrev">Tribol Lett</title>
+		<idno type="ISSN">1023-8883</idno>
+		<idno type="ISSNe">1573-2711</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="56" />
+			<date type="published" when="2006-01" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,323.15,729.90,234.46,5.73;9,323.15,737.89,234.47,5.73;10,54.14,60.87,196.69,5.73" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Humidity resistant MoS2 coatings deposited by unbalanced magnetron sputtering</title>
+		<author>
+			<persName><forename type="first">Bernd</forename><surname>Vierneusel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephan</forename><surname>Tremmel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandro</forename><surname>Wartzack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Gradt</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2013.07.019</idno>
+		<ptr target="https://doi.org/10.1016/j.surfcoat.2013.07.019" />
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">235</biblScope>
+			<biblScope unit="page" from="97" to="107" />
+			<date type="published" when="2013-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,68.81,223.65,5.73;10,54.14,76.80,234.11,5.73;10,54.14,84.74,178.83,5.73" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The Effects of Environmental Water and Oxygen on the Temperature-Dependent Friction of Sputtered Molybdenum Disulfide</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">S</forename><surname>Khare</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">L</forename><surname>Burris</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11249-013-0233-8</idno>
+		<idno type="ark">ark:/67375/VQC-BBDW5H3Z-N</idno>
+		<idno type="istexId">54A69972C602E7C43E3B9C37C581304B2334C1F8</idno>
+		<ptr target="https://doi.org/10.1007/s11249-013-0233-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Letters</title>
+		<title level="j" type="abbrev">Tribol Lett</title>
+		<idno type="ISSN">1023-8883</idno>
+		<idno type="ISSNe">1573-2711</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="485" to="493" />
+			<date type="published" when="2013-09-27" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,92.73,234.50,5.73;10,54.14,100.67,229.25,5.73;10,54.14,108.66,80.30,5.73" xml:id="b40">
+	<analytic>
+		<title level="a" type="main">A Mechanism of Vapor Effect on Friction Coefficient of Molybdenum Disulfide</title>
+		<author>
+			<persName><forename type="first">Masao</forename><surname>Uemura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Koichi</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenji</forename><surname>Nakao</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10402009008981988</idno>
+		<ptr target="https://doi.org/10.1080/10402009008981988" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Transactions</title>
+		<title level="j" type="abbrev">Tribology Transactions</title>
+		<idno type="ISSN">1040-2004</idno>
+		<idno type="ISSNe">1547-397X</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="551" to="556" />
+			<date type="published" when="1990-01" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,116.65,231.08,5.73;10,54.14,124.08,232.87,6.38;10,54.14,132.58,80.30,5.73" xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The Effect of Humidity on Low-Load Frictional Properties of a Bonded Solid Film Lubricant</title>
+		<author>
+			<persName coords=""><forename type="first">Robert</forename><forename type="middle">P</forename><surname>Pardee</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/05698197208981409</idno>
+		<ptr target="https://doi.org/10.1080/05698197208981409" />
+	</analytic>
+	<monogr>
+		<title level="j">A S L E Transactions</title>
+		<title level="j" type="abbrev">A S L E Transactions</title>
+		<idno type="ISSN">0569-8197</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="130" to="142" />
+			<date type="published" when="1972-01" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,140.52,234.51,5.73;10,54.14,148.51,218.47,5.73;10,54.14,156.51,21.79,5.73" xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Origin of Ultra-Low Friction of Boric Acid: Role of Vapor Adsorption</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Barthel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiawei</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seong</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11249-015-0512-7</idno>
+		<ptr target="https://doi.org/10.1007/s11249-015-0512-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Letters</title>
+		<title level="j" type="abbrev">Tribol Lett</title>
+		<idno type="ISSN">1023-8883</idno>
+		<idno type="ISSNe">1573-2711</idno>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2015-04-21" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,164.44,234.47,5.73;10,54.14,172.44,234.49,5.73;10,54.14,180.38,105.98,5.73" xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Wetting and Interfacial Properties of Water Nanodroplets in Contact with Graphene and Monolayer BoronNitride Sheets</title>
+		<author>
+			<persName><forename type="first">Hui</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiao</forename><forename type="middle">Cheng</forename><surname>Zeng</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/nn204661d</idno>
+		<idno type="PMID">22356158</idno>
+		<ptr target="https://doi.org/10.1021/nn204661d" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<title level="j" type="abbrev">ACS Nano</title>
+		<idno type="ISSN">1936-0851</idno>
+		<idno type="ISSNe">1936-086X</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="2401" to="2409" />
+			<date type="published" when="2012-02-22" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,188.37,225.54,5.73;10,54.14,196.31,234.48,5.73;10,54.14,204.30,112.50,5.73" xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Friction of Hexagonal Boron Nitride in Various Environments</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">H</forename><surname>Le Mogne</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Chassagnette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">N</forename><surname>Gardos</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10402009208982144</idno>
+		<ptr target="https://doi.org/10.1080/10402009208982144" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Transactions</title>
+		<title level="j" type="abbrev">Tribology Transactions</title>
+		<idno type="ISSN">1040-2004</idno>
+		<idno type="ISSNe">1547-397X</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="462" to="472" />
+			<date type="published" when="1992-01" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,212.29,234.55,5.73;10,54.14,220.23,234.53,5.73;10,54.14,228.22,234.48,5.73" xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Tribology of Solid Lubricants</title>
+		<author>
+			<persName><forename type="first">Carlton</forename><forename type="middle">J</forename><surname>Reeves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pradeep</forename><forename type="middle">L</forename><surname>Menezes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Lovell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tien-Chien</forename><surname>Jen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4614-1945-7_13</idno>
+		<idno type="ark">ark:/67375/HCB-7X4RHZZH-L</idno>
+		<idno type="istexId">E032D26E73124CA3A5917D0A74A29F638E18A8ED</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Tribology for Scientists and Engineers</title>
+				<editor>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Menezes</surname></persName>
+			<persName><forename type="first">M</forename><surname>Nosonovsky</surname></persName>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Ingole</surname></persName>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Kailas</surname></persName>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Lovell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="447" to="494" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,236.16,234.53,5.73;10,54.14,244.15,234.23,5.73;10,54.14,252.15,86.59,5.73" xml:id="b46">
+	<analytic>
+		<title level="a" type="main">A review of the influence of environmental humidity and water on friction, lubrication and wear</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">K</forename><surname>Lancaster</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0301-679x(90)90053-r</idno>
+		<idno type="PII">0301-679X(90)90053-R</idno>
+		<idno type="ark">ark:/67375/6H6-NND1C3H0-5</idno>
+		<idno type="istexId">8086E51AF2D271B01E993B17DAE33712D69D52B2</idno>
+		<ptr target="https://doi.org/10.1016/0301-679X(90" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="371" to="389" />
+			<date type="published" when="1990-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,260.08,234.50,5.73;10,54.14,268.08,219.42,5.73" xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Effect of Humidity on Friction and WearA Critical Review</title>
+		<author>
+			<persName><forename type="first">Zhe</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xin</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chen</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seong</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/lubricants6030074</idno>
+		<ptr type="open-access" target="https://www.mdpi.com/2075-4442/6/3/74/pdf" />
+		<ptr target="https://doi.org/10.3390/lubricants6030074" />
+	</analytic>
+	<monogr>
+		<title level="j">Lubricants</title>
+		<title level="j" type="abbrev">Lubricants</title>
+		<idno type="ISSNe">2075-4442</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">74</biblScope>
+			<date type="published" when="2018-08-22" />
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,275.50,232.74,6.38;10,54.14,284.01,92.22,5.73" xml:id="b48">
+	<monogr>
+		<idno>683-17:1999</idno>
+		<title level="m">(E) Heat-treated steels, alloy steels and free-cutting steels -Part 17: Ball and roller bearing steel</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,291.44,225.61,6.38;10,54.14,299.94,234.48,5.73" xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Geometrical Product Specifications (GPS) -Surface texture: Profile method -Rules and procedures for the assessment of surface texture</title>
+		<author>
+			<persName coords=""><surname>Din</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Iso</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">4288</biblScope>
+			<biblScope unit="page" from="1998" to="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,307.93,185.57,5.73" xml:id="b50">
+	<monogr>
+		<title level="m">-09 Rolling bearings -Balls -Part 1: Steel balls</title>
+				<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="3290" to="3291" />
+		</imprint>
+	</monogr>
+	<note>ISO</note>
+</biblStruct>
+
+<biblStruct coords="10,54.14,315.36,220.46,6.38;10,54.14,323.35,234.49,6.38" xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Advanced technical ceramics -Methods of test for ceramic coatings -Part 13: Determination of wear rate by the pin-on-disk method</title>
+		<idno>DIN EN, 1071-13:2010-07</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,331.80,234.48,5.73;10,54.14,339.79,234.50,5.73;10,54.14,347.79,216.71,5.73;10,54.14,355.73,26.89,5.73" xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Surface Functional Groups and Interlayer Water Determine the Electrochemical Capacitance of Ti3C2Tx MXene</title>
+		<author>
+			<persName><forename type="first">Minmin</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tao</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhaojin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yi</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renfei</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jinxing</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cong</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaohui</forename><surname>Wang</surname></persName>
+			<idno type="ORCID">0000-0001-7271-2662</idno>
+		</author>
+		<idno type="DOI">10.1021/acsnano.8b00676</idno>
+		<idno type="PMID">29608045</idno>
+		<ptr target="https://doi.org/10.1021/acsnano.8b00676" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<title level="j" type="abbrev">ACS Nano</title>
+		<idno type="ISSN">1936-0851</idno>
+		<idno type="ISSNe">1936-086X</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="3578" to="3586" />
+			<date type="published" when="2018-04-02" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,363.72,234.11,5.73;10,54.14,371.66,223.31,5.73;10,54.14,379.65,216.53,5.73" xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Investigation of TiC-C coatings by X-ray photoelectron spectroscopy</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">V</forename><surname>Kuznetsov</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">V</forename><surname>Borisov</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><forename type="middle">P</forename><surname>Shepatkovskii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yu.</forename><forename type="middle">G</forename><surname>Veksler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><forename type="middle">L</forename><surname>Kozhevnikov</surname></persName>
+		</author>
+		<idno type="DOI">10.1134/s102745100903001x</idno>
+		<ptr target="https://doi.org/10.1134/S102745100903001X" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Surface Investigation. X-ray, Synchrotron and Neutron Techniques</title>
+		<title level="j" type="abbrev">J. Synch. Investig.</title>
+		<idno type="ISSN">1027-4510</idno>
+		<idno type="ISSNe">1819-7094</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="331" to="337" />
+			<date type="published" when="2009-06" />
+			<publisher>Pleiades Publishing Ltd</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,387.14,234.51,6.38;10,54.14,395.58,229.51,5.73;10,54.14,403.58,150.43,5.73" xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Reactive and nonreactive ion mixing of Ti films on carbon substrates</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">A</forename><surname>Galuska</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">C</forename><surname>Uht</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Marquez</surname></persName>
+		</author>
+		<idno type="DOI">10.1116/1.574992</idno>
+		<ptr target="https://doi.org/10.1116/1.574992" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Vacuum Science &amp; Technology A: Vacuum, Surfaces, and Films</title>
+		<title level="j" type="abbrev">Journal of Vacuum Science &amp; Technology A: Vacuum, Surfaces, and Films</title>
+		<idno type="ISSN">0734-2101</idno>
+		<idno type="ISSNe">1520-8559</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="110" to="122" />
+			<date type="published" when="1988-01" />
+			<publisher>American Vacuum Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,411.51,234.55,5.73;10,54.14,419.51,227.29,5.73;10,54.14,427.44,233.89,5.73;10,54.14,435.44,37.67,5.73" xml:id="b55">
+	<analytic>
+		<title level="a" type="main">X-ray photoelectron spectroscopy of select multi-layered transition metal carbides (MXenes)</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Halim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><forename type="middle">M</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Naguib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Per</forename><surname>Eklund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johanna</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><forename type="middle">W</forename><surname>Barsoum</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2015.11.089</idno>
+		<ptr type="open-access" target="https://manuscript.elsevier.com/S0169433215027841/pdf/S0169433215027841.pdf" />
+		<ptr target="https://doi.org/10.1016/j.apsusc.2015.11.089" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="406" to="417" />
+			<date type="published" when="2016-01" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,443.43,232.80,5.73;10,54.14,450.86,229.77,6.38;10,54.14,459.36,234.36,5.73;10,54.14,467.30,65.45,5.73" xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Vibrational properties of Ti3C2 and Ti3C2T2 (T = O, F, OH) monosheets by first-principles calculations: a comparative study</title>
+		<author>
+			<persName><forename type="first">Tao</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiemin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hui</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhaojin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Minmin</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaohui</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c4cp05666c</idno>
+		<idno type="PMID">25785395</idno>
+		<ptr target="https://doi.org/10.1039/C4CP05666C" />
+	</analytic>
+	<monogr>
+		<title level="j">Physical Chemistry Chemical Physics</title>
+		<title level="j" type="abbrev">Phys. Chem. Chem. Phys.</title>
+		<idno type="ISSN">1463-9076</idno>
+		<idno type="ISSNe">1463-9084</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="9997" to="10003" />
+			<date type="published" when="2015" />
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,475.29,226.13,5.73;10,54.14,483.29,234.53,5.73;10,54.14,491.22,116.23,5.73" xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Handbook of X-ray photoelectron spectroscopy: A reference book of standard spectra for identification of XPS data</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">F</forename><surname>Moulder</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">F</forename><surname>Stickle</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">E</forename><surname>Sobol</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">D</forename><surname>Bomben</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perkin-Elmer</title>
+		<imprint>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,498.71,234.16,6.38;10,54.14,507.15,230.64,5.73;10,54.14,515.15,230.09,5.73;10,54.14,523.08,57.11,5.73" xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Partially Fluorinated Metal Oxide Catalysts for a FriedelCrafts-type Reaction of Dichlorofluoromethane with Tetrafluoroethylene</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Tanuma</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Okamoto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Ohnishi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Morikawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10562-009-0197-3</idno>
+		<idno type="ark">ark:/67375/VQC-Z3L3P0RP-9</idno>
+		<idno type="istexId">D7460A37CFF98AB48A2B59BBD507DD709E375847</idno>
+		<ptr target="https://doi.org/10.1007/s10562-009-0197-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Catalysis Letters</title>
+		<title level="j" type="abbrev">Catal Lett</title>
+		<idno type="ISSN">1011-372X</idno>
+		<idno type="ISSNe">1572-879X</idno>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="77" to="82" />
+			<date type="published" when="2009-10-30" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,54.14,531.08,234.51,5.73;10,54.14,538.56,234.50,6.38;10,323.15,60.86,234.34,5.73;10,323.15,68.80,37.67,5.73" xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Resolving surface chemical states in XPS analysis of first row transition metals, oxides and hydroxides: Sc, Ti, V, Cu and Zn</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">C</forename><surname>Biesinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leo</forename><forename type="middle">W M</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><forename type="middle">R</forename><surname>Gerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roger</forename><forename type="middle">St. C</forename><surname>Smart</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2010.07.086</idno>
+		<ptr target="https://doi.org/10.1016/j.apsusc.2010.07.086" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="887" to="898" />
+			<date type="published" when="2010-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,76.79,234.52,5.73;10,323.15,84.73,234.50,5.73;10,323.15,92.72,182.86,5.73" xml:id="b60">
+	<analytic>
+		<title level="a" type="main">One-step hydrothermal synthesis of a TiO2-Ti3C2Tx nanocomposite with small sized TiO2 nanoparticles</title>
+		<author>
+			<persName><forename type="first">Xuefeng</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yong</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shangli</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhuyu</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yu</forename><surname>Guo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ceramint.2017.05.151</idno>
+		<ptr target="https://doi.org/10.1016/j.ceramint.2017.05.151" />
+	</analytic>
+	<monogr>
+		<title level="j">Ceramics International</title>
+		<title level="j" type="abbrev">Ceramics International</title>
+		<idno type="ISSN">0272-8842</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="11065" to="11070" />
+			<date type="published" when="2017-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,100.66,219.42,5.73;10,323.15,108.65,234.49,5.73;10,323.15,116.65,214.49,5.73" xml:id="b61">
+	<analytic>
+		<title level="a" type="main">NMR reveals the surface functionalisation of Ti3C2 MXene</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Hope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><forename type="middle">C</forename><surname>Forse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kent</forename><forename type="middle">J</forename><surname>Griffith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">R</forename><surname>Lukatskaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Ghidiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clare</forename><forename type="middle">P</forename><surname>Grey</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c6cp00330c</idno>
+		<idno type="PMID">26818187</idno>
+		<ptr type="open-access" target="https://pubs.rsc.org/en/content/articlepdf/2016/cp/c6cp00330c" />
+		<ptr target="https://doi.org/10.1039/C6CP00330C" />
+	</analytic>
+	<monogr>
+		<title level="j">Physical Chemistry Chemical Physics</title>
+		<title level="j" type="abbrev">Phys. Chem. Chem. Phys.</title>
+		<idno type="ISSN">1463-9076</idno>
+		<idno type="ISSNe">1463-9084</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="5099" to="5102" />
+			<date type="published" when="2016" />
+			<publisher>Royal Society of Chemistry (RSC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,124.58,230.06,5.73;10,323.15,132.58,229.59,5.73;10,323.15,140.52,52.12,5.73" xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Characterisation of layered double hydroxides and their decomposition products</title>
+		<author>
+			<persName coords=""><forename type="first">Vicente</forename><surname>Rives</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0254-0584(02)00024-x</idno>
+		<ptr target="https://doi.org/10.1016/S0254-0584" />
+	</analytic>
+	<monogr>
+		<title level="j">Materials Chemistry and Physics</title>
+		<title level="j" type="abbrev">Materials Chemistry and Physics</title>
+		<idno type="ISSN">0254-0584</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">1-3</biblScope>
+			<biblScope unit="page" from="19" to="25" />
+			<date type="published" when="2002-04" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,148.51,234.53,5.73;10,323.15,156.50,215.34,5.73;10,323.15,164.44,168.51,5.74" xml:id="b63">
+	<analytic>
+		<title level="a" type="main">On the repeatability of friction and wear results and on the influence of humidity in oscillating sliding tests of steel-steel pairings</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Klaffke</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0043-1648(95)06672-1</idno>
+		<idno type="PII">0043-1648(95)06672-1</idno>
+		<idno type="ark">ark:/67375/6H6-ZHRRJZ1X-8</idno>
+		<idno type="istexId">DA405C16577F9B46687F93AAA863034F9271CDC3</idno>
+		<ptr target="https://doi.org/" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">189</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="117" to="121" />
+			<date type="published" when="1995-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,172.44,234.53,5.73;10,323.15,180.38,226.29,5.73;10,323.15,188.37,199.74,5.73" xml:id="b64">
+	<analytic>
+		<title level="a" type="main">NIOBIUM CARBIDE (NbC) AS WEAR RESISTANT HARDMETAL IN OPENED AND CLOSED TRIBOSYSTEMS</title>
+		<author>
+			<persName><forename type="first">Mathias</forename><surname>Woydt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hardy</forename><surname>Mohrbacher</surname></persName>
+		</author>
+		<idno type="DOI">10.5151/1472-5836-25484</idno>
+		<ptr type="open-access" target="https://abmproceedings.com.br/ptbr/article/download-pdf/niobium-carbide-nbc-as-wear-resistant-hardmetal-in-opened-and-closed-tribosystems" />
+	</analytic>
+	<monogr>
+		<title level="m">ABM Proceedings</title>
+				<meeting><address><addrLine>Foz do Iguau -Brasil, Editora Blucher, So Paulo, 03</addrLine></address></meeting>
+		<imprint>
+			<publisher>Editora Blucher</publisher>
+			<date type="published" when="2014-11" />
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="3842" to="3851" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,196.31,230.08,5.73;10,323.15,204.30,234.45,5.73;10,323.15,212.29,217.87,5.73;10,323.15,220.23,66.35,5.73" xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Influence of atmospheric humidity and grain size on the friction and wear of high nitrogen austenitic stainless steel</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Bregliozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Di Schino</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Haefke</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/b:jmsc.0000013923.41628.69</idno>
+		<idno type="ark">ark:/67375/VQC-2WBHS2Q6-S</idno>
+		<idno type="istexId">666C2B1BAD923FC71E3E9A9A4516C53E1DFBC105</idno>
+		<ptr target="https://doi.org/10.1023/B:JMSC.0000013923.41628.69" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Materials Science</title>
+		<title level="j" type="abbrev">Journal of Materials Science</title>
+		<idno type="ISSN">0022-2461</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1481" to="1484" />
+			<date type="published" when="2004-02" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,228.23,220.94,5.73;10,323.15,236.16,234.52,5.73;10,323.15,244.16,233.27,5.73;10,323.15,252.15,88.92,5.73" xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Experimental study by means of thin layer activation of the humidity influence on the fretting wear of steel surfaces</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>De Baets</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Kalacska</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Strijckmans</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Van De Velde</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">P</forename><surname>Van Peteghem</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0043-1648(97)00189-0</idno>
+		<idno type="PII">S0043-1648(97)00189-0</idno>
+		<idno type="ark">ark:/67375/6H6-BGXG18M2-9</idno>
+		<idno type="istexId">82EBEE6471EE17D00FA386F44376E8E81A5AC3C2</idno>
+		<ptr target="https://doi.org/10.1016/S0043-1648(97" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">216</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="131" to="137" />
+			<date type="published" when="1998-04" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,260.09,231.83,5.73;10,323.15,268.08,230.67,5.73;10,323.15,276.02,107.40,5.73" xml:id="b67">
+	<analytic>
+		<title level="a" type="main">The influence of water vapour in air on the friction behaviour of pure metals during fretting</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Goto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">H</forename><surname>Buckley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0301-679x(85)90069-6</idno>
+		<idno type="PII">0301-679X(85)90069-6</idno>
+		<idno type="ark">ark:/67375/6H6-QK3934MH-N</idno>
+		<idno type="istexId">428585483D5A7DE5E38FC2491676A26C6D2E0A52</idno>
+		<ptr target="https://doi.org/10.1016/0301-679X(85" />
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="237" to="245" />
+			<date type="published" when="1985-08" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,284.01,234.48,5.73;10,323.15,291.95,234.50,5.73" xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Tribo-metallographic behavior of high carbon steels in dry sliding</title>
+		<author>
+			<persName><forename type="first">You</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tingquan</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiajun</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0043-1648(99)00115-5</idno>
+		<idno type="PII">S0043-1648(99)00115-5</idno>
+		<idno type="ark">ark:/67375/6H6-20MGG9S8-Q</idno>
+		<idno type="istexId">E5D42D2923A8C7521689E6F31860C9DF6D9A7105</idno>
+		<idno>S0043-1648(99)00115-5</idno>
+		<ptr target="https://doi.org/10.1016/" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">231</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="1999-06" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,299.94,234.48,5.73;10,323.15,307.93,221.26,5.73;10,323.15,315.87,25.36,5.73" xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Wear behavior of steel 1080 with different microstructures during dry sliding</title>
+		<author>
+			<persName><forename type="first">You</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tingquan</forename><surname>Lei</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0043-1648(95)06705-1</idno>
+		<idno type="PII">0043-1648(95)06705-1</idno>
+		<idno type="ark">ark:/67375/6H6-TV5TR1R2-1</idno>
+		<idno type="istexId">C358D8D792ADBACE6CF5D9B51DA315BACD3C54AF</idno>
+		<ptr target="https://doi.org/10.1016/0043-1648(95" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">194</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="44" to="53" />
+			<date type="published" when="1996-06" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,323.86,231.98,5.73;10,323.15,331.80,228.40,5.73;10,323.15,339.79,143.23,5.73" xml:id="b70">
+	<analytic>
+		<title level="a" type="main">The influence of atmospheric humidity on the friction and wear of carbon steels</title>
+		<author>
+			<persName><forename type="first">Hung-Kuk</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kyu-Hyun</forename><surname>Yeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hak</forename><surname>Yun Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0924-0136(99)00259-9</idno>
+		<idno type="PII">S0924-0136(99)00259-9</idno>
+		<idno type="ark">ark:/67375/6H6-172P7G7M-0</idno>
+		<idno type="istexId">84C7259347C1CF8820B15B93C8B047474B8FB844</idno>
+		<idno>S0924-0136(99)00259-9</idno>
+		<ptr target="https://doi.org/10.1016/" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Materials Processing Technology</title>
+		<title level="j" type="abbrev">Journal of Materials Processing Technology</title>
+		<idno type="ISSN">0924-0136</idno>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">1-3</biblScope>
+			<biblScope unit="page" from="10" to="16" />
+			<date type="published" when="1999-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,347.79,234.48,5.73;10,323.15,355.73,229.83,5.73;10,323.15,363.72,234.47,5.73;10,323.15,371.66,86.65,5.73" xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Colossal Pressure-Induced Lattice Expansion of Graphite Oxide in the Presence of Water</title>
+		<author>
+			<persName><forename type="first">Alexandr</forename><forename type="middle">V</forename><surname>Talyzin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vladimir</forename><forename type="middle">L</forename><surname>Solozhenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oleksandr</forename><forename type="middle">O</forename><surname>Kurakevych</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tams</forename><surname>Szab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Imre</forename><surname>Dkny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexandr</forename><surname>Kurnosov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vladimir</forename><surname>Dmitriev</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/anie.200802860</idno>
+		<idno type="PMID">18814163</idno>
+		<idno type="ark">ark:/67375/WNG-KQJXV7JW-Z</idno>
+		<idno type="istexId">09937FCA88459973EB2566C325694BB5560B61E0</idno>
+		<ptr target="https://doi.org/10.1002/anie.200802860" />
+	</analytic>
+	<monogr>
+		<title level="j">Angewandte Chemie International Edition</title>
+		<title level="j" type="abbrev">Angew. Chem. Int. Ed.</title>
+		<idno type="ISSN">1433-7851</idno>
+		<idno type="ISSNe">1521-3773</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">43</biblScope>
+			<biblScope unit="page" from="8268" to="8271" />
+			<date type="published" when="2008-10-13" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,379.65,234.49,5.73;10,323.15,387.64,207.96,5.73;10,323.15,395.58,155.42,5.73" xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Pressure-Induced Water Insertion in Synthetic Clays</title>
+		<author>
+			<persName><forename type="first">Shujie</forename><surname>You</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Kunz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthias</forename><surname>Stter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hussein</forename><surname>Kalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernd</forename><surname>Putz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Josef</forename><surname>Breu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexandr</forename><forename type="middle">V</forename><surname>Talyzin</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/anie.201210060</idno>
+		<idno type="PMID">23447111</idno>
+		<idno type="ark">ark:/67375/WNG-WJKNZ8CH-0</idno>
+		<idno type="istexId">34C23B8EA9B1445C826F601F696F842BBDF65AF1</idno>
+		<ptr type="open-access" target="http://umu.diva-portal.org/smash/get/diva2:616702/FULLTEXT02" />
+		<ptr target="https://doi.org/10.1002/anie.201210060" />
+	</analytic>
+	<monogr>
+		<title level="j">Angewandte Chemie International Edition</title>
+		<title level="j" type="abbrev">Angew. Chem. Int. Ed.</title>
+		<idno type="ISSN">1433-7851</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="3891" to="3895" />
+			<date type="published" when="2013-02-27" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,403.57,234.53,5.73;10,323.15,411.51,229.39,5.73;10,323.15,419.50,107.17,5.73" xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Pressure-Induced Intercalation of Alcohol Molecules into a Layered Titanate</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Nakano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Takemura</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/cm980273h</idno>
+		<ptr target="https://doi.org/10.1021/cm980273h" />
+	</analytic>
+	<monogr>
+		<title level="j">Chemistry of Materials</title>
+		<title level="j" type="abbrev">Chem. Mater.</title>
+		<idno type="ISSN">0897-4756</idno>
+		<idno type="ISSNe">1520-5002</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2044" to="2046" />
+			<date type="published" when="1998-08" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,427.44,230.31,5.73;10,323.15,435.43,232.64,5.73;10,323.15,443.43,165.45,5.73" xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Conductive two-dimensional titanium carbide clay with high volumetric capacitance</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Ghidiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">R</forename><surname>Lukatskaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meng-Qiang</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><forename type="middle">W</forename><surname>Barsoum</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature13970</idno>
+		<idno type="PMID">25470044</idno>
+		<ptr target="https://doi.org/10.1038/nature13970" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">516</biblScope>
+			<biblScope unit="page" from="78" to="81" />
+			<date type="published" when="2014-11-26" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,451.36,234.50,5.73;10,323.15,459.36,234.49,5.73;10,323.15,467.30,142.60,5.73" xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Ion-Exchange and Cation Solvation Reactions in Ti3C2 MXene</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Ghidiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Halim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sankalp</forename><surname>Kota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Bish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><forename type="middle">W</forename><surname>Barsoum</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acs.chemmater.6b01275</idno>
+		<ptr type="open-access" target="http://liu.diva-portal.org/smash/get/diva2:942278/FULLTEXT01" />
+		<ptr target="https://doi.org/10.1021/acs.chemmater.6b01275" />
+	</analytic>
+	<monogr>
+		<title level="j">Chemistry of Materials</title>
+		<title level="j" type="abbrev">Chem. Mater.</title>
+		<idno type="ISSN">0897-4756</idno>
+		<idno type="ISSNe">1520-5002</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="3507" to="3514" />
+			<date type="published" when="2016-05-10" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,475.29,234.48,5.73;10,323.15,483.28,234.47,5.73;10,323.15,491.22,117.32,5.73" xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Pressure-induced shear and interlayer expansion in Ti 3 C 2 MXene in the presence of water</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Ghidiu</surname></persName>
+			<idno type="ORCID">0000-0002-0599-9824</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sankalp</forename><surname>Kota</surname></persName>
+			<idno type="ORCID">0000-0003-3775-3279</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Vadym</forename><surname>Drozd</surname></persName>
+			<idno type="ORCID">0000-0001-9421-5712</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><forename type="middle">W</forename><surname>Barsoum</surname></persName>
+			<idno type="ORCID">0000-0001-7800-3517</idno>
+		</author>
+		<idno type="DOI">10.1126/sciadv.aao6850</idno>
+		<idno type="PMID">29340304</idno>
+		<idno type="PMCID">PMC5766327</idno>
+		<ptr type="open-access" target="https://advances.sciencemag.org/content/advances/4/1/eaao6850.full.pdf" />
+		<ptr target="https://doi.org/10.1126/sciadv.aao6850" />
+	</analytic>
+	<monogr>
+		<title level="j">Science Advances</title>
+		<title level="j" type="abbrev">Sci. Adv.</title>
+		<idno type="ISSNe">2375-2548</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">eaao6850</biblScope>
+			<date type="published" when="2018-01" />
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,323.15,499.21,232.51,5.73;10,323.15,507.15,231.53,5.73;10,323.15,515.14,234.52,5.73;10,323.15,523.09,222.96,5.73;10,323.15,531.08,26.84,5.73" xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Effect of Metal Ion Intercalation on the Structure of MXene and Water Dynamics on its Internal Surfaces</title>
+		<author>
+			<persName><forename type="first">Naresh</forename><forename type="middle">C</forename><surname>Osti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Naguib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alireza</forename><surname>Ostadhossein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yu</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">R C</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Boris</forename><surname>Dyatkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gernot</forename><surname>Rother</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">T</forename><surname>Heller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adri</forename><forename type="middle">C T</forename><surname>Van Duin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yury</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eugene</forename><surname>Mamontov</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acsami.6b01490</idno>
+		<idno type="PMID">27010763</idno>
+		<ptr target="https://doi.org/10.1021/acsami.6b01490" />
+	</analytic>
+	<monogr>
+		<title level="j">ACS Applied Materials &amp; Interfaces</title>
+		<title level="j" type="abbrev">ACS Appl. Mater. Interfaces</title>
+		<idno type="ISSN">1944-8244</idno>
+		<idno type="ISSNe">1944-8252</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="8859" to="8863" />
+			<date type="published" when="2016-03-30" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,12 @@
+{
+  "email": "[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+",
+  "links": "[a-zA-Z0-9_.+-]+@[a-zA-Z0-9_.+-]+\\..{1,5}",
+  "dokumentation": "received.*?accepted",
+  "doi": "doi(:[0-9]+|\\.org)",
+  "furtherInformation": "please cite this article",
+  "image": "<image:",
+  "keywords": "keyword",
+  "journal": "journal",
+  "university":  "universit(y|ies)",
+  "website": "http:"
+}

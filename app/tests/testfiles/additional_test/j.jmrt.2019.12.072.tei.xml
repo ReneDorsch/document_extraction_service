@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Design and high-temperature tribological properties of CoCrW with rare earth fluoride composites</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName coords="1,51.99,271.84,68.48,11.37"><forename type="first">Gongjun</forename><surname>Cui</surname></persName>
+							<email>cuigongjun@tyut.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">College of Mechanical and Vehicle Engineering</orgName>
+								<orgName type="institution">Taiyuan University of Technology</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">National-local Joint Engineering Laboratory of Mining Fluid Control</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,148.97,271.84,71.93,11.37"><forename type="first">Huiqiang</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">College of Mechanical and Vehicle Engineering</orgName>
+								<orgName type="institution">Taiyuan University of Technology</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">National-local Joint Engineering Laboratory of Mining Fluid Control</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,241.96,271.84,30.76,11.37"><forename type="first">Sai</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">College of Mechanical and Vehicle Engineering</orgName>
+								<orgName type="institution">Taiyuan University of Technology</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">National-local Joint Engineering Laboratory of Mining Fluid Control</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,293.77,271.84,61.97,11.37"><forename type="first">Guijun</forename><surname>Gao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">College of Mechanical and Vehicle Engineering</orgName>
+								<orgName type="institution">Taiyuan University of Technology</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">National-local Joint Engineering Laboratory of Mining Fluid Control</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,376.79,271.84,64.50,11.37"><forename type="first">Ziming</forename><surname>Kou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">College of Mechanical and Vehicle Engineering</orgName>
+								<orgName type="institution">Taiyuan University of Technology</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">National-local Joint Engineering Laboratory of Mining Fluid Control</orgName>
+								<address>
+									<postCode>030024</postCode>
+									<settlement>Taiyuan</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Design and high-temperature tribological properties of CoCrW with rare earth fluoride composites</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">052A84AF40C9E684C6FBE6CA5188382D</idno>
+					<idno type="DOI">10.1016/j.jmrt.2019.12.072</idno>
+					<note type="submission">Received 24 August 2019 Accepted 23 December 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0" ident="GROBID" when="2021-10-03T17:37+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Co matrix composites</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,216.47,359.76,331.64,7.66;1,216.47,371.21,101.52,7.11">CoCrW matrix containing rare earth LaF 3 self-lubricating composites were fabricated by using hot-pressing method.</s><s coords="1,320.21,371.21,227.90,7.11;1,216.47,382.67,229.10,7.11">The microstructure, phases and high-temperature tribological properties of obtained composites were systematically studied.</s><s coords="1,447.28,382.67,100.83,7.11;1,216.47,392.72,331.64,8.51;1,216.47,405.21,168.02,7.48">Friction and wear behaviors were evaluated by using ball-on-disc tribo-tester from RT (24 • C) to 1000 • C. Metal matrix consisted of two allotropes: (hcp) and ␥ (fcc).</s><s coords="1,386.52,405.58,161.59,7.11;1,216.47,417.04,203.27,7.11">Mo had a solid solution strengthening effect and lubricating effect when it changed into compounds.</s><s coords="1,421.45,417.04,126.66,7.66;1,216.47,428.50,186.45,7.11">Rare earth LaF 3 and its compounds showed lubricating effect at elevated temperatures.</s><s coords="1,404.62,428.50,143.49,7.11;1,216.47,439.95,307.90,7.11">The friction coefficients and wear resistance of reinforced composites were greatly enhanced with little hardness dropping.</s><s coords="1,526.32,439.96,21.79,7.11;1,216.47,451.41,331.64,7.11;1,216.47,462.87,331.64,7.67;1,216.47,474.33,135.20,7.11">It was ascribed to the synergistic effect of in-situ formed and extra added solid lubricants (silver, LaCrO 3 , Ag 2 MoO 4 , AgF 3 and metal oxides) as well as oxides film which changed the wear model of tribo-couples during sliding.</s><s coords="1,353.05,474.33,195.06,7.66;1,216.47,485.78,242.23,7.67">The wear rate of CoCrW-10LaF 3 -8Mo-9Ag was about 10 times lower than those of reported Ni and ZrO 2 matrix composites.</s><s coords="1,460.45,485.78,87.66,7.11;1,216.47,497.24,254.59,7.11">The composites showed the slight abrasive wear and oxidative wear at elevated temperatures.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.28" lry="793.7"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p><s coords="1,51.99,594.23,239.09,7.58;1,51.99,605.69,239.09,7.58;1,51.99,617.14,183.32,7.58">With the development of aero-engine and braking systems of train, the wear of sleeves and brake disc is becoming more and more serious under unlubricated condition.</s><s coords="1,236.67,617.14,54.41,7.58;1,51.99,628.60,239.09,7.58;1,51.99,640.06,157.29,7.58">Especially, the high-temperature wear is one of the main factors influencing the working life of mechanical parts.</s><s coords="1,211.38,640.06,79.70,7.58;1,51.99,651.52,239.09,7.58;1,51.99,662.97,198.93,7.58">Thus, wear resistant materials should be developed in order to improve the efficiency and service life of mechanical parts <ref type="bibr" coords="1,230.85,662.97,6.69,7.58" target="#b0">[1]</ref><ref type="bibr" coords="1,237.54,662.97,3.34,7.58" target="#b1">[2]</ref><ref type="bibr" coords="1,240.88,662.97,6.69,7.58" target="#b2">[3]</ref>.</s><s coords="1,254.65,662.97,36.43,7.58;2,47.37,67.80,111.88,7.58">In recent cal properties of composites.</s><s coords="2,161.34,67.80,125.13,7.58;2,47.37,79.25,239.09,7.58;2,47.37,90.71,239.09,7.58;2,47.37,102.17,86.23,7.58">Cobalt matrix materials that are one of the superalloys have the better mechanical properties, oxidation resistance and wear resistance than other alloys at high temperature <ref type="bibr" coords="2,117.52,102.17,12.87,7.58" target="#b10">[11]</ref>.</s><s coords="2,135.50,102.17,150.96,7.58;2,47.37,113.62,239.09,7.58;2,47.37,125.08,22.29,7.58">In many industrial fields, cobalt matrix alloys have been widely used as high-temperature mechanical parts.</s><s coords="2,71.40,125.08,215.07,7.58;2,47.37,136.54,239.09,7.58;2,47.37,148.00,54.98,7.58">How to improve the high-temperature friction and wear of cobalt alloys has become a very important issue at elevated temperatures.</s></p><p><s coords="2,59.33,159.45,227.14,7.58;2,47.37,170.91,239.09,7.58;2,47.37,182.37,239.09,7.58;2,47.37,193.82,188.14,7.58">Nowadays, the investigations of wear resistant cobalt matrix materials mainly focus on the wear resistant coatings that obviously enhance the oxidation resistance, wear resistance and hardness of part surface <ref type="bibr" coords="2,206.58,193.82,10.85,7.58" target="#b11">[12]</ref><ref type="bibr" coords="2,217.43,193.82,3.62,7.58" target="#b12">[13]</ref><ref type="bibr" coords="2,221.05,193.82,10.85,7.58" target="#b13">[14]</ref>.</s><s coords="2,238.23,193.82,48.24,7.58;2,47.37,205.28,238.59,8.40;2,47.37,216.74,130.81,7.58">Prasad et al. <ref type="bibr" coords="2,47.37,205.28,13.87,7.58" target="#b14">[15]</ref> fabricated a CoMoCrSi matrix coating with 30 wt%Cr 3 C 2 on the surface of titanium alloy.</s><s coords="2,181.62,216.74,104.84,7.58;2,47.37,228.19,239.09,7.58;2,47.37,237.85,239.09,9.38;2,47.37,251.11,239.09,8.40;2,47.37,262.57,105.48,7.58">The obtained results indicated that the wear rate of coating was lower than that of titanium alloy from 200 • C to 600 • C. It was ascribed to the formation of CoO, Co 3 O 4 , MoO 2 and Cr 2 O 3 on the worn surfaces as well as higher hardness.</s><s coords="2,155.02,262.57,131.44,7.58;2,47.37,274.02,239.09,7.58;2,47.37,283.68,239.09,9.38;2,47.37,296.94,239.09,7.58;2,47.37,308.39,68.88,7.58">Sassatelli et al. <ref type="bibr" coords="2,215.25,262.57,13.87,7.58" target="#b15">[16]</ref> prepared Stellite 6 coating by using a HVOF method to strengthen the wear properties of AISI 304 at 800 • C. The Stellite 6 coating showed higher wear rates than the bulk Stellite because of interlamellar delamination.</s><s coords="2,119.90,308.39,166.57,7.58;2,47.37,319.85,239.09,7.58;2,47.37,331.31,239.09,7.58;2,47.37,342.77,82.19,7.58">Co matrix coatings can provide the wear protection for the critical parts, though the applicable temperature and the carrying capacity of coating are low due to the thickness <ref type="bibr" coords="2,102.40,342.77,13.58,7.58" target="#b14">[15,</ref><ref type="bibr" coords="2,115.98,342.77,10.19,7.58" target="#b16">17]</ref>.</s><s coords="2,131.97,342.77,154.49,7.58;2,47.37,354.22,239.09,7.58;2,47.37,365.68,134.79,7.58">The studies of tribological properties of bulk Co matrix materials focus primarily on tribological mechanism at high temperature <ref type="bibr" coords="2,153.24,365.68,10.85,7.58" target="#b17">[18]</ref><ref type="bibr" coords="2,164.09,365.68,3.62,7.58" target="#b18">[19]</ref><ref type="bibr" coords="2,167.70,365.68,10.85,7.58" target="#b19">[20]</ref>.</s><s coords="2,184.04,365.68,102.42,7.58;2,47.37,377.14,116.17,7.58">Stellite alloys are the most important representative <ref type="bibr" coords="2,147.47,377.14,12.87,7.58" target="#b19">[20]</ref>.</s><s coords="2,165.63,377.14,120.83,7.58;2,47.37,388.59,214.07,7.58">At high temperature, oxidation of elements influenced the wear behaviors of alloys <ref type="bibr" coords="2,245.36,388.59,12.87,7.58" target="#b20">[21]</ref>.</s><s coords="2,262.98,388.59,23.49,7.58;2,47.37,400.05,239.09,7.58;2,47.37,411.51,239.09,7.58;2,47.37,422.96,78.16,7.58">These metallic oxides form tribofilm (glaze layer) on the contact surfaces under some special conditions such as load, speed and temperature <ref type="bibr" coords="2,98.37,422.96,13.58,7.58" target="#b18">[19,</ref><ref type="bibr" coords="2,111.95,422.96,10.19,7.58" target="#b20">21]</ref>.</s><s coords="2,127.76,422.96,158.71,8.40;2,47.37,434.42,239.09,7.58;2,47.37,444.08,239.09,9.38;2,47.37,457.34,63.13,7.58">Li et al. <ref type="bibr" coords="2,158.19,422.96,13.87,7.58" target="#b19">[20]</ref> reported that the Y 2 O 3 could enhance the adhesion of glaze layer of Stellite alloys from RT to 650 • C. Different types of Stellite alloys needed different Y contents <ref type="bibr" coords="2,83.35,457.34,13.58,7.58" target="#b19">[20,</ref><ref type="bibr" coords="2,96.93,457.34,10.19,7.58" target="#b21">22]</ref>.</s><s coords="2,112.36,457.34,174.10,7.58;2,47.37,468.79,239.09,7.58;2,47.37,480.25,239.09,7.58;2,47.37,491.71,50.85,7.58">Because the high-temperature wear of cobalt materials is dependent on high temperature, alloys are impossible to have good lubricating properties, especially, at low temperature.</s><s coords="2,100.37,491.71,186.09,7.58;2,47.37,503.16,239.09,7.58;2,47.37,514.62,70.63,7.58">And therefore, it is necessary to fabricate cobalt matrix self-lubricating composites from low temperature to high temperature.</s></p><p><s coords="2,59.33,526.08,227.14,8.40;2,47.37,537.54,239.09,7.58;2,47.37,547.20,239.09,9.38;2,47.37,560.45,239.09,7.58;2,47.37,571.91,124.37,7.58">In this research, LaF 3 , Mo and silver were added into the matrix to design a high-temperature continuous selflubricating CoCrW matrix composites from RT to 1000 • C. The effect of adding phases on microstructure, phase and tribological performances was studied.</s><s coords="2,174.91,571.91,111.56,7.58;2,47.37,581.57,239.09,9.38;2,47.37,593.02,239.09,10.19;2,47.37,606.28,56.08,7.58">Friction and wear behaviors were conducted on a ball-on-disk tribo-tester from 24 • C (RT) to 1000 • C rubbing against Si 3 N 4 ball, and the wear mechanism was proposed.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p><s coords="2,79.25,637.52,114.67,9.00">Experimental procedure</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Specimens preparation</head><p><s coords="2,47.37,686.17,239.09,7.98;2,47.37,697.63,239.09,7.98;2,47.37,709.08,239.09,8.79;2,47.37,720.54,239.09,7.98">The commercial Co powder with a size of 64 m, Cr with a size of about 53 m, W with a size of 70 m, Mo with a size of 70 m, LaF 3 with a size of about 30 m, and silver with a size of 60 m were used as the raw materials in this study.</s><s coords="2,47.37,732.40,131.92,7.58">All powders were analytical pure.</s><s coords="2,181.92,732.40,104.55,7.58;2,47.37,743.85,79.64,7.58">Table <ref type="table" coords="2,205.17,732.40,4.43,7.58" target="#tab_0">1</ref> gives the compositions of composites.</s><s coords="2,129.77,743.85,156.70,7.58;2,304.41,162.45,90.51,7.58">The prepared composites were denoted as CW, CL, CM and CA.</s><s coords="2,397.62,162.45,145.88,7.58;2,304.41,173.91,162.30,7.58">The powders were thoroughly mixed by using a high-energy ball mill for 6 h.</s><s coords="2,470.41,173.91,73.09,7.58;2,304.41,185.37,51.69,7.58">The milling speed was 200 rpm.</s><s coords="2,359.16,185.37,163.79,7.58">Ration of ball to mixed powder was 10:1.</s><s coords="2,526.02,185.37,17.49,7.58;2,304.41,196.82,239.09,7.58;2,304.41,208.28,47.29,7.58">Four specimens were sintered by using a high-temperature sintering furnace.</s><s coords="2,354.70,208.28,146.33,7.58">A graphite die was use in this study.</s><s coords="2,504.03,208.28,39.47,7.58;2,304.41,217.94,239.09,9.38;2,304.41,231.19,239.09,7.58;2,304.41,240.85,239.09,9.38;2,304.41,254.11,42.07,7.58">When the temperature reached up to 1100 • C, the mixtures were pressed with a pressure of 32 MPa for 30 min under vacuum condition (10 −2 Pa), and then the specimen was cooled down naturally in furnace.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">High-temperature tribological tests</head><p><s coords="2,304.41,301.16,239.09,7.58;2,304.41,310.82,239.09,9.38">The tribological performance was evaluated by using a ballon-disk tribo-tester from RT to 1000 • C in air (see Fig. <ref type="figure" coords="2,534.35,312.62,3.05,7.58">1</ref>).</s></p><p><s coords="2,304.41,324.08,185.97,7.58">The upper ball was fixed, and the disk rotated.</s><s coords="2,493.16,324.08,50.34,7.58;2,304.41,335.53,239.09,8.40;2,304.41,346.99,66.39,7.58">The ball was the Si 3 N 4 ceramic ball (diameter: 6 mm, hardness: 15 GPa) as the tribo-couple.</s><s coords="2,374.57,346.99,150.09,7.58">The sliding radius of test was 5 mm.</s><s coords="2,528.43,346.99,15.07,7.58;2,304.41,358.45,228.43,7.58;2,304.41,369.51,239.09,7.98;2,304.41,380.96,110.40,7.98">The sintered specimens were the disk with a dimension of 30 mm × 4 mm, which were polished to a surface roughness of 0.3 m (Ra) before each test.</s><s coords="2,417.48,381.36,126.03,7.58;2,304.41,392.82,70.58,7.58">The testing surfaces were ultrasonically cleaned.</s><s coords="2,378.20,392.82,165.30,7.58;2,304.41,404.28,85.02,7.58">The load and sliding speed was 10 N and 0.20 m/s, respectively.</s><s coords="2,392.30,404.28,151.20,7.58;2,304.41,413.94,239.09,9.38;2,304.41,427.19,129.38,7.58">Testing temperatures were room temperature (24 • C)-1000 • C, and temperature interval was 200 • C. The testing duration was 20 min.</s><s coords="2,436.34,427.19,107.16,7.58;2,304.41,438.65,239.09,7.58;2,304.41,450.10,69.27,7.58">Cross profile of wear tracks was tested by a contact surface profiler in order to calculate the wear volume.</s><s coords="2,376.62,450.10,166.88,7.58;2,304.41,461.56,239.09,7.58;2,304.41,473.02,137.99,7.58">The wear rates, W = V/L.F, were calculated according to a function that takes three parameters: wear volume, sliding distance and load.</s><s coords="2,445.74,473.02,97.76,7.58;2,304.41,482.98,102.63,9.08">The unit of wear rate of specimens was mm 3 /m.N.</s><s coords="2,409.14,484.48,134.36,7.58;2,304.41,495.93,185.95,7.58">The friction coefficient of composites was automatically recorded by computer.</s><s coords="2,494.27,495.93,49.24,7.58;2,304.41,507.39,123.93,7.58">Each testing point was repeated three times.</s></p><p><s coords="2,316.37,518.85,227.14,7.58;2,304.41,530.30,239.09,7.58;2,304.41,541.76,13.58,7.58">The worn morphologies and microstructures of composites were analyzed by SEM (IT-300) equipped with EDS (X-MAX-50).</s><s coords="2,320.72,541.76,222.79,7.58;2,304.41,553.22,239.09,7.58;2,304.41,564.67,74.79,7.58">The Vickers-hardness (Hv) of specimens was tested by a Vickers-hardness instrument (MH-5) with a load of 200 g and a dwell time of 10 s.</s><s coords="2,380.98,564.67,162.52,7.58;2,304.41,576.13,111.22,7.58">The sintered density was tested according to the Archimedes' principle.</s><s coords="2,417.17,576.13,126.33,7.58;2,304.41,587.59,222.10,7.58">Phases of specimens were examined by using X-ray Diffraction (DIFFRACTOMETER-6000).</s><s coords="3,51.99,434.11,239.09,7.98;3,51.99,445.97,96.60,7.58">transformation, resulting in the (hcp) and ␥ (fcc) of two allotropes in matrix <ref type="bibr" coords="3,132.50,445.97,12.87,7.58" target="#b23">[24]</ref>.</s><s coords="3,151.10,445.97,139.98,7.58;3,51.99,457.43,239.09,7.58;3,51.99,468.88,239.09,7.58;3,51.99,480.34,115.54,7.58">When Mo element diffuses into the crystal structure of solid solutions of Co alloys, which further leads to a slight increase in lattice parameters of cobalt due to the big radius of Mo element.</s><s coords="3,169.99,480.34,121.09,7.58;3,51.99,491.40,239.09,7.98;3,51.99,503.26,128.28,7.58">Herein, the angle of diffraction peaks of (hcp) and ␥ (fcc) for specimen CM slightly decreases according to the Bragg equation.</s><s coords="3,182.98,503.26,108.09,7.58;3,51.99,514.71,178.81,7.58">In this case, the position of diffraction peaks moves to the low angle area.</s><s coords="3,232.88,514.71,58.20,7.58;3,51.99,526.17,239.09,8.40;3,51.99,537.63,156.44,7.58">The diffraction peaks of LaF 3 and silver are obvious in the figure, and no peak of corresponding compound is detected.</s><s coords="3,210.42,537.63,80.16,8.40;3,51.99,549.08,239.09,7.58">It indicates that LaF 3 and silver do not form other compound at high temperature.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Microstructure and physical properties</head>
+<p><s coords="3,51.99,560.54,239.09,7.58;3,51.99,571.60,86.98,8.79">For CA, it is confirmed that the main phases consist of (hcp), ␥ (fcc), LaF 3 and silver.</s></p>
+<p><s coords="3,63.94,583.45,227.14,7.58;3,51.99,594.91,239.09,7.58;3,51.99,606.37,184.89,7.58">The back scattering electron image and element distribution maps of CA are shown in Fig. <ref type="figure" coords="3,196.15,594.91,4.34,7.58">3</ref>.
+The microstructure of composite is compacted, and no hole is noted.</s>
+<s coords="3,239.62,606.37,51.46,7.58;3,51.99,617.83,239.09,7.58;3,51.99,629.28,93.43,7.58">The distribution of each ingredient is uniform in matrix according to EDS analysis (see Fig. <ref type="figure" coords="3,122.24,629.28,15.45,7.58">3b-h</ref>).</s><s coords="3,148.60,629.28,142.48,7.58;3,51.99,640.74,71.58,7.58">Different compositions keep a good interface bonding.</s><s coords="3,126.05,640.74,165.03,7.58;3,51.99,652.20,116.16,7.58">It is beneficial for mechanical and tribologial properties of composites.</s><s coords="3,170.68,652.20,120.39,7.58;3,51.99,663.65,239.09,7.58;3,51.99,674.71,112.52,7.98">The continuous dark grey area is the Co-Cr-W-Mo solid solution phases which correspond to the (hcp) and ␥ (fcc) phase.</s><s coords="3,167.04,675.11,124.04,7.58;3,51.99,686.57,239.09,7.58">The bright area of nearly round is the W-rich area, and the irregular shape is the silver phase.</s><s coords="3,51.99,698.03,239.09,8.40;3,51.99,709.48,196.93,7.58">LaF 3 phase is located in the fine and dispersed light grey area according to the distribution of La and F elements.</s></p><p><s coords="3,63.94,720.94,227.14,7.58;3,51.99,732.40,135.53,7.58">Table <ref type="table" coords="3,87.25,720.94,4.43,7.58" target="#tab_1">2</ref> shows the Vickers-hardness, sintered density and porosity of obtained composites.</s><s coords="3,192.40,732.40,98.68,7.58;3,51.99,743.85,238.59,8.40;3,309.02,339.05,41.21,7.58">It is clear that Vickershardness of composites decreases with the addition of LaF 3 and silver.</s><s coords="3,353.46,339.05,194.66,7.58;3,309.02,350.51,239.09,7.58;3,309.02,361.97,239.09,7.58;3,309.02,373.42,27.16,7.58">One reason is that the poor sinterability of solid lubricants obviously influences the formation of sintering neck of alloy particles and destroy the continuity of matrix <ref type="bibr" coords="3,309.02,373.42,13.58,7.58" target="#b24">[25,</ref><ref type="bibr" coords="3,322.60,373.42,10.19,7.58" target="#b25">26]</ref>.</s><s coords="3,338.27,373.42,209.85,7.58;3,309.02,384.88,19.93,7.58">Another reason is that solid lubricants have low hardness.</s><s coords="3,332.68,384.88,215.44,7.58;3,309.02,396.34,46.21,7.58">The silver has excellent toughness and compatibility with metal.</s><s coords="3,358.80,396.34,189.31,7.58;3,309.02,407.79,215.23,7.58">Thus, during sintering, the silver can fill some fine holes in matrix, resulting in a good compactness.</s><s coords="3,527.19,407.79,20.92,7.58;3,309.02,419.25,239.09,7.58;3,309.02,430.71,162.68,7.58">However, Mo element shows a solid solution strengthening effect because of the formation of compounds.</s><s coords="3,474.78,430.71,73.33,7.58;3,309.02,442.16,143.76,7.58">And therefore, the hardness of specimen CM increases.</s><s coords="3,455.46,442.16,92.65,7.58;3,309.02,453.62,239.09,7.58">Generally speaking, CM has the highest hardness in comparison with CW, CL and CA.</s><s coords="3,309.02,465.08,239.09,7.58;3,309.02,476.54,151.63,7.58">Additionally, the sintering density of specimens varies with the addition of different compositions.</s><s coords="3,463.00,476.54,85.11,7.58;3,309.02,487.99,239.09,7.58;3,309.02,499.45,169.60,7.58">The low density composition reduces the sintered density, and the high density composition increases the sintered density.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">High-temperature tribological properties</head><p><s coords="3,309.02,549.08,239.09,7.58;3,309.02,560.54,117.46,7.58">Fig. <ref type="figure" coords="3,324.31,549.08,4.43,7.58">4</ref> gives the friction coefficient traces of CA for three experiments at room temperature.</s><s coords="3,430.12,560.54,118.00,7.58;3,309.02,572.00,221.42,7.58">The process of friction of CA includes two stages: running-in and steady wear stages.</s><s coords="3,533.04,572.00,15.07,7.58;3,309.02,583.46,161.79,7.58">The running-in stage is short and less 4 min.</s><s coords="3,473.84,583.46,74.28,7.58;3,309.02,594.91,239.09,7.58">The friction coefficient of CA is determined according to the steady wear stage.</s><s coords="3,309.02,606.37,239.09,7.58;3,309.02,617.83,178.68,7.58">At other testing temperatures, similar trend is found on the time-friction relationship of other specimens.</s></p><p><s coords="3,320.98,629.28,227.14,7.58;3,309.02,640.74,239.09,8.40;3,309.02,652.20,70.29,7.58">The friction coefficients of obtained specimens with temperature sliding against Si 3 N 4 ceramic ball at 10 N and 0.20 m/s are given in Fig. <ref type="figure" coords="3,372.66,652.20,3.32,7.58">5</ref>.</s><s coords="3,381.54,652.20,166.58,7.58;3,309.02,661.86,239.09,9.38;3,309.02,673.31,239.09,9.38;3,309.02,686.57,118.62,7.58">The friction coefficients of specimens generally decrease with increasing of temperatures from 24 • C to 1000 • C. The trend of friction coefficients is dependent on the variation of temperature <ref type="bibr" coords="3,411.56,686.57,12.87,7.58" target="#b20">[21]</ref>.</s><s coords="3,431.27,686.57,116.84,7.58;3,309.02,696.23,239.09,9.38;3,309.02,707.69,239.09,9.38;3,309.02,720.94,64.89,7.58">CL has higher friction coefficient than that of CW when the testing temperature is &lt;600 • C. While testing temperature is &gt;600 • C, the friction coefficient of CL decreases.</s><s coords="3,377.32,720.94,170.79,7.58;3,309.02,732.40,117.14,7.58">Friction coefficient of CM increases due to the addition of molybdenum.</s><s coords="3,429.30,732.40,118.82,7.58;3,309.02,743.85,239.09,7.58;5,51.99,315.29,239.09,7.58;5,51.99,326.75,239.09,7.58;5,51.99,336.41,239.09,10.19;5,51.99,349.67,193.72,7.58">However, CL and CA keep the low friction coefficients as compared with that of CW above results, the wear rates of prepared Co matrix self-lubricating composites was about 10 times lower than those of Ni matrix and ZrO 2 matrix composites from 24 • C to 1000 • C that were previously reported by other researchers <ref type="bibr" coords="5,218.55,349.67,13.58,7.58" target="#b26">[27,</ref><ref type="bibr" coords="5,232.13,349.67,10.19,7.58" target="#b27">28]</ref>.</s><s coords="5,249.24,349.67,41.84,7.58;5,51.99,361.12,205.30,7.58">The corresponding wear mechanisms will be discussed below.</s></p><p><s coords="5,63.94,372.58,227.14,7.58;5,51.99,384.04,123.77,7.58">The tribological behaviors of composites greatly depend on compositions and temperature.</s><s coords="5,178.40,384.04,112.68,7.58;5,51.99,395.49,239.09,7.58;5,51.99,406.95,239.09,7.58;5,51.99,418.41,51.37,7.58">At lower temperature, ingredients and wear debris are oxidized due to the friction heat and external temperature, and form oxides on the contact surfaces <ref type="bibr" coords="5,87.27,418.41,12.87,7.58" target="#b17">[18]</ref>.</s><s coords="5,106.02,418.41,185.06,7.58;5,51.99,429.86,49.67,7.58">However, the speed of oxides removal is &gt; that of oxidation.</s><s coords="5,104.25,429.86,186.82,7.58;5,51.99,441.32,239.09,7.58">At this point, little oxides cannot form an obvious and stable oxides film on the wear tracks (see Fig. <ref type="figure" coords="5,277.35,441.32,6.86,7.58">7a</ref>).</s><s coords="5,51.99,452.78,239.09,7.58;5,51.99,464.24,239.09,7.58">Meanwhile, the oxidation-oxides removal-oxidation is accelerated, resulting in high friction coefficient and wear rates.</s><s coords="5,51.99,475.69,239.09,7.58;5,51.99,487.15,239.09,7.58;5,51.99,498.61,239.09,7.58;5,51.99,510.06,88.05,7.58">With increasing of temperature, oxidation predominates in the oxidation-oxides removal-oxidation in order that large amount of oxides and complex compounds increases on the worn tracks (see Fig. <ref type="figure" coords="5,130.89,510.06,3.05,7.58" target="#fig_3">8</ref>).</s><s coords="5,141.60,510.06,149.48,7.58;5,51.99,521.52,239.09,7.58;5,51.99,532.98,239.09,7.58">These compounds form a stable oxides film containing oxides, silver, chromate, molybdate and fluoride on the wear tracks of composites (see Fig. <ref type="figure" coords="5,242.94,532.98,7.77,7.58">7b</ref>) <ref type="bibr" coords="5,257.27,532.98,10.14,7.58" target="#b0">[1,</ref><ref type="bibr" coords="5,267.41,532.98,10.14,7.58" target="#b14">15,</ref><ref type="bibr" coords="5,277.55,532.98,10.14,7.58" target="#b27">28]</ref>.</s><s coords="5,51.99,544.44,204.97,7.58">The oxidation-oxides removal-oxidation is restricted.</s><s coords="5,258.41,544.44,32.67,7.58;5,51.99,555.89,239.09,7.58;5,51.99,567.35,239.09,7.58">Not only does the intact oxides film reduce the oxidation of materials, it also strengthens tribological properties of composites.</s><s coords="5,51.99,578.81,239.09,7.58;5,51.99,590.26,97.72,7.58">Herein, the friction and wear rate of composites decrease when temperature rises.</s><s coords="5,152.92,590.26,138.16,8.40;5,420.77,371.32,16.08,7.58">LaF 3 and Mo do not possess lubri-  <ref type="bibr" coords="5,420.77,371.32,12.87,7.58" target="#b28">[29]</ref>.</s><s coords="5,438.87,371.32,109.24,7.58;5,309.02,382.78,169.46,7.58">The hardness of composites decreases with increasing of temperature.</s><s coords="5,482.05,382.78,66.06,7.58;5,309.02,393.84,239.09,7.98;5,309.02,405.69,35.54,7.58">Additionally, the phase transformation of →␥ leads to the a decrease in hardness <ref type="bibr" coords="5,328.48,405.69,12.87,7.58" target="#b29">[30]</ref>.</s><s coords="5,346.31,405.69,201.80,7.58;5,309.02,417.15,67.17,7.58">In this case, the wear rate of composites increases at low temperature.</s><s coords="5,378.53,417.15,169.58,7.58;5,309.02,428.61,118.45,7.58">CM has higher hardness than that of CL, so CM has a good wear resistance.</s><s coords="5,428.91,428.61,119.20,7.58;5,309.02,440.06,161.41,7.58">The silver is a low-temperature solid lubricant because of its toughness.</s><s coords="5,473.60,440.06,74.52,7.58;5,309.02,451.52,239.09,7.58;5,309.02,462.98,92.64,7.58">During sliding, the silver can smear on the surfaces of wear tracks and form an Ag-rich lubricating film.</s><s coords="5,403.55,462.98,144.56,7.58;5,309.02,474.43,239.09,8.40;5,309.02,485.89,160.08,7.58">At high temperature, the silver reacts with other ingredients, and forms AgF 3 and Ag 2 MoO 4 that are high-temperature solid lubricants <ref type="bibr" coords="5,441.94,485.89,13.58,7.58" target="#b26">[27,</ref><ref type="bibr" coords="5,455.52,485.89,10.19,7.58" target="#b30">31]</ref>.</s><s coords="5,470.83,485.89,77.28,7.58;5,309.02,497.35,239.09,8.40;5,309.02,508.81,239.09,8.40;5,309.02,518.47,239.09,9.38;5,309.02,529.92,30.22,9.38">Due to the synergistic effect of silver, LaCrO 3 , Ag 2 MoO 4 , AgF 3 , metal oxides and LaF 3 (see Fig. <ref type="figure" coords="5,364.38,508.81,3.05,7.58" target="#fig_3">8</ref>), the CA shows the most excellent tribological performance than those of other specimens from 24 • C to 1000 • C.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Analysis of worn surfaces</head><p><s coords="5,309.02,578.81,239.09,7.58;5,309.02,590.26,222.07,8.40">SEM images of wear tracks of obtained composites sliding against Si 3 N 4 ball at room temperature are given in Fig. <ref type="figure" coords="5,524.44,590.26,3.32,7.58">9</ref>.</s><s coords="5,533.04,590.26,15.07,7.58;6,47.37,402.63,239.09,7.58;6,47.37,414.09,239.09,7.58;6,47.37,425.54,239.09,7.58;6,47.37,437.00,22.52,7.58">The plastic deformation, wear debris and grooves are noted on the worn surfaces of CW and CL (see Fig. <ref type="figure" coords="6,188.60,414.09,30.34,7.58">9a and b</ref>), suggesting that the wear mechanism is plastic deformation and abrasive wear at RT.</s><s coords="6,73.22,437.00,213.24,7.58;6,47.37,448.46,239.09,7.58;6,47.37,459.91,172.46,7.58">The worn surface of specimen CM has a low surface roughness, and slight plastic deformation and micro-gooves are noted on the worn surfaces (see Fig. <ref type="figure" coords="6,206.55,459.91,6.64,7.58">9c</ref>).</s><s coords="6,222.31,459.91,64.16,7.58;6,47.37,471.37,239.09,7.58;6,47.37,482.83,139.66,7.58">Plastic deformation resistance of matrix is reinforced because of the solid solution strengthening effect of Mo.</s><s coords="6,189.24,482.83,97.22,7.58;6,47.37,494.28,177.97,7.58">High hardness can cause the increase of sliding resistance of asperities.</s><s coords="6,227.17,494.28,59.30,7.58;6,47.37,505.74,120.99,7.58">Hence, the friction coefficients of CM is high.</s><s coords="6,171.13,505.74,115.34,7.58;6,47.37,517.20,79.61,7.58">It also means that CM shows slight abrasive wear.</s><s coords="6,129.23,517.20,157.24,7.58;6,47.37,528.66,239.09,7.58;6,47.37,540.11,30.69,7.58">CA shows the distinct worn morphology as compared with other specimens at room temperature (see Fig. <ref type="figure" coords="6,63.90,540.11,7.09,7.58">9d</ref>).</s><s coords="6,81.15,540.11,205.31,7.58;6,47.37,551.57,87.43,7.58">A dense and continuous lubricating film covers the surface of wear track.</s><s coords="6,138.15,551.57,148.32,7.58;6,47.37,563.03,203.82,7.58">The lubricating film is the silver-rich phase according to the analysis of EDS (see Fig. <ref type="figure" coords="6,237.62,563.03,6.79,7.58" target="#fig_5">10</ref>).</s><s coords="6,253.91,563.03,32.56,7.58;6,47.37,574.48,239.09,7.58;6,47.37,585.94,198.65,7.58">The soft silver smears on the worn track under the reciprocating effect of tribo-couple, and separates tribo-couples <ref type="bibr" coords="6,218.86,585.94,13.58,7.58" target="#b24">[25,</ref><ref type="bibr" coords="6,232.44,585.94,10.19,7.58" target="#b27">28]</ref>.</s><s coords="6,248.06,585.94,38.41,7.58;6,47.37,597.40,239.09,7.58;6,47.37,608.86,239.09,7.58">The silver lubricating film greatly improve the tribological behaviors as is evident from the Figs. <ref type="figure" coords="6,134.61,608.86,27.11,7.58">5 and 6</ref>, especially, at low temperature.</s><s coords="6,47.37,620.31,239.09,7.58">The wear mechanism of CA is characterized by abrasive wear.</s><s coords="6,59.33,631.77,227.14,7.58;6,47.37,641.43,239.09,9.38;6,47.37,654.68,86.74,7.58">Fig. <ref type="figure" coords="6,76.37,631.77,8.86,7.58">11</ref> depicts the SEM images of worn tracks of different specimens at 600 • C. The wear track of CW is covered by much wear debris.</s><s coords="6,137.42,654.68,149.04,7.58;6,47.37,666.14,239.09,7.58;6,47.37,677.60,26.23,7.58">Due to the decrease of hardness, the material peels off from the worn surfaces and becomes wear debris.</s><s coords="6,76.82,677.60,129.11,7.58">It corresponds to the high wear.</s><s coords="6,209.15,677.60,77.32,7.58;6,47.37,689.05,239.09,7.58;6,47.37,700.51,214.70,7.58">Plastic deformation and grooves are obvious on the worn track, suggesting that the wear mechanism of CW is mainly abrasive wear.</s><s coords="6,265.55,700.51,20.92,7.58;6,47.37,711.97,239.09,7.58;6,47.37,723.43,200.51,7.58">However, a discontinuous lubricating film is found on the worn surfaces of CL, CM and CA (see Fig. <ref type="figure" coords="6,193.67,723.43,47.72,7.58">11b, c and d</ref>).</s><s coords="6,251.16,723.43,35.31,7.58;6,47.37,734.88,239.09,7.58">It means that the solid lubricants start to provide a lubricating effect.</s><s coords="6,304.41,594.91,239.09,7.58;6,304.41,606.37,239.09,7.58;6,304.41,617.83,91.76,7.58">Obviously, the coverage of lubricating film of CA is higher than those of CL and CM, thereby keeping the lowest friction coefficients and wear rates.</s><s coords="6,398.70,617.83,144.80,7.58;6,304.41,629.28,94.99,7.58">The wear is accompanied by grooves and plastic deformation.</s><s coords="6,401.05,629.28,142.45,7.58;6,304.41,640.74,239.09,7.58;6,304.41,650.40,239.09,9.38;6,304.41,663.65,81.97,7.58">By comprehensive consideration, CL, CM and CA suffer from slight oxidative wear and abrasive wear at 600 • C. The worn surfaces of composites at 1000 • C are shown in Fig. <ref type="figure" coords="6,375.30,663.65,7.39,7.58" target="#fig_1">12</ref>.</s><s coords="6,389.19,663.65,154.31,7.58;6,304.41,675.11,239.09,7.58;6,304.41,686.57,239.09,7.58;6,304.41,696.23,130.62,9.38">At high temperature, metal oxides and compounds form a stable oxides film on the surfaces of wear tracks, and the continuous oxides film covers the whole worn surfaces of specimens at 1000 • C.</s><s coords="6,437.70,698.03,105.81,7.58;6,304.41,709.48,239.09,7.58;6,304.41,720.94,27.16,7.58">This oxides film maintains the low friction and wear of composites at higher temperature <ref type="bibr" coords="6,304.41,720.94,13.58,7.58" target="#b21">[22,</ref><ref type="bibr" coords="6,317.99,720.94,10.19,7.58" target="#b23">24]</ref>.</s><s coords="6,335.08,720.94,208.43,7.58;6,304.41,732.40,42.51,7.58">Additionally, the specimens show the characteristic of grooves.</s><s coords="6,349.63,732.40,193.87,7.58;6,304.41,743.85,156.25,7.58">The dominant wear mechanism of composites is oxidative wear and slight abrasive wear.</s><s coords="9,63.94,67.80,227.14,8.40;9,51.99,79.25,101.55,7.58">Fig. <ref type="figure" coords="9,80.55,67.80,8.86,7.58">13</ref> shows wear scars of Si 3 N 4 ball sliding against CA at different temperatures.</s><s coords="9,155.98,79.25,135.09,7.58;9,51.99,90.71,114.93,7.58">The significant transferred layer is visible on the worn surfaces.</s><s coords="9,169.87,90.71,121.21,7.58;9,51.99,102.17,239.09,7.58;9,51.99,113.62,38.88,7.58">The transferred layer becomes more and more compacted and continuous when temperature increases.</s><s coords="9,92.52,113.62,198.56,7.58;9,51.99,125.08,239.09,7.58;9,51.99,136.54,192.81,7.58">According to the EDS (see Fig. <ref type="figure" coords="9,206.64,113.62,11.16,7.58">13d</ref>), the ingredient of oxides film is similar with that of transferred layer, indicating that the transferred layer has lubricating effect.</s><s coords="9,248.22,136.54,42.86,7.58;9,51.99,148.00,239.09,7.58;9,51.99,159.45,106.47,7.58">Because of the presence of lubricating film, it changes the wear model between specimen and ball.</s><s coords="9,159.80,159.45,131.28,7.58;9,51.99,170.91,239.09,7.58;9,51.99,182.37,80.59,7.58">Because of the formation of oxides film, the wear of tribo-couples turns into the wear of film-tofilm (see Fig. <ref type="figure" coords="9,102.91,182.37,7.58,7.58">14</ref>) <ref type="bibr" coords="9,116.49,182.37,12.87,7.58" target="#b31">[32]</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p><s coords="9,57.17,234.29,233.91,7.58;9,71.78,245.75,219.29,7.58;9,71.78,257.21,71.90,7.58">(1) The microstructure of Co matrix self-lubricating composites was compacted, the distribution of ingredients was uniform in matrix.</s><s coords="9,145.47,257.21,145.61,8.40;9,71.78,268.66,219.29,7.58;9,71.78,280.12,201.97,7.58">LaF 3 and Ag degraded the hardness of materials, whereas Mo reinforced the hardness of materials due to the solid solutions strengthening effect.</s><s coords="9,276.01,280.12,15.07,7.58;9,71.78,291.18,152.01,7.98">The target composites consisted of , ␥, LaF</s></p></div><
+	figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="2,304.41,663.65,239.09,7.58;2,304.41,675.11,239.09,7.58;2,304.41,686.57,239.09,7.58;2,304.41,698.03,239.09,7.58;2,304.41,709.48,239.09,7.58;2,304.41,720.54,239.09,7.98;2,304.41,732.00,239.09,7.98;2,304.41,743.85,239.09,7.58"><
+		head>Fig. 2</head>
+		<label>2</label>
+		<figDesc>
+		<div>
+		<p><s coords="2,304.41,663.65,239.09,7.58;2,304.41,675.11,29.98,7.58">Fig.2gives the XRD patterns of different cobalt matrix composites.</s>
+		<s coords="2,337.55,675.11,205.95,7.58;2,304.41,686.57,239.09,7.58;2,304.41,698.03,113.62,7.58">At elevated temperatures, W and Cr elements have high solid solubility in the crystal lattice of Co according to their phase diagram<ref type="bibr" coords="2,401.95,698.03,12.87,7.58" target="#b22">[23]</ref>.</s>
+		<s coords="2,421.88,698.03,121.62,7.58;2,304.41,709.48,239.09,7.58;2,304.41,720.54,239.09,7.98;2,304.41,732.40,52.85,7.58">Co reacts with Cr and W due to the high-temperature solid solution reaction, and forms high-temperature ␥ phase with face centered cubic during solidification.</s>
+		<s coords="2,360.42,732.00,183.08,7.98;2,304.41,743.85,239.09,7.58">With the decreasing of temperature, part of ␥ (fcc) transforms into (hcp) because of the martensitic phase</s>
+		</p>
+		</div>
+		</figDesc>
+		</figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="3,190.90,190.05,218.31,7.58;3,149.06,67.30,301.20,111.89"><head>Fig. 1 -Fig. 2 -</head><label>12</label><figDesc><div><p><s coords="3,190.90,190.05,218.31,7.58">Fig. 1 -Configuration of high-temperature tribo-tester.</s></p></div></figDesc><graphic coords="3,149.06,67.30,301.20,111.89" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="4,47.37,669.05,226.38,7.58;4,47.37,680.51,13.88,7.58;4,51.93,67.65,229.20,590.54"><head>Fig. 3 -Fig. 4 -Fig. 5 -Fig. 6 -</head><label>3456</label><figDesc><div><p><s coords="4,47.37,669.05,226.38,7.58;4,47.37,680.51,13.88,7.58">Fig. 3 -Microstructure and element distribution maps of CA.</s></p></div></figDesc><graphic coords="4,51.93,67.65,229.20,590.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="5,339.09,241.05,178.97,7.58;5,307.57,67.47,241.20,162.72"><head>Fig. 8 -</head><label>8</label><figDesc><div><p><s coords="5,339.09,241.05,178.97,7.58">Fig. 8 -XRD patterns of worn surfaces of CA.</s></p></div></figDesc><graphic coords="5,307.57,67.47,241.20,162.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4" coords="5,156.91,741.94,286.28,9.38;5,149.06,613.50,301.20,119.38"><head>Fig. 7 -Fig. 9 -</head><label>79</label><figDesc><div><p><s coords="5,156.91,741.94,286.28,9.38">Fig. 7 -Cross-sectional morphologies of CA at (a) 400 • C and (b) 1000 • C.</s></p></div></figDesc><graphic coords="5,149.06,613.50,301.20,119.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5" coords="6,304.41,544.88,235.71,7.58;6,304.41,556.34,28.76,7.58;6,302.96,402.12,241.20,131.90"><head>Fig. 10 -</head><label>10</label><figDesc><div><p><s coords="6,304.41,544.88,235.71,7.58;6,304.41,556.34,28.76,7.58">Fig. 10 -EDS analysis result of the lubricating film of CA in Fig. 9d.</s></p></div></figDesc><graphic coords="6,302.96,402.12,241.20,131.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6" coords="7,103.67,367.25,392.76,9.38;7,119.06,68.03,361.20,290.16"><head>Fig. 11 -Fig. 12 -</head><label>1112</label><figDesc><div><p><s coords="7,103.67,367.25,392.76,9.38">Fig. 11 -Worn surface morphologies of four composites at 600 • C: (a) CW, (b) CL, (c) CM and (d) CA.</s></p></div></figDesc><graphic coords="7,119.06,68.03,361.20,290.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7" coords="8,47.37,561.25,492.73,10.21;8,47.37,572.71,132.03,9.38;8,114.44,67.77,361.20,484.42"><head>Fig. 13 -Fig. 14 -</head><label>1314</label><figDesc><div><p><s coords="8,47.37,561.25,492.73,10.21;8,47.37,572.71,132.03,9.38">Fig. 13 -SEM images of worn scars of Si 3 N 4 ceramic balls rubbing against CA at different temperatures: (a) RT, (b) 600 • C, (c) 1000 • C and (d) EDS analysis in c.</s></p></div></figDesc><graphic coords="8,114.44,67.77,361.20,484.42" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8" coords="9,223.79,291.58,46.24,8.40;9,57.17,303.04,233.91,8.40;9,71.78,314.49,219.30,7.58;9,71.78,325.95,219.29,7.58;9,71.78,337.41,219.30,8.40;9,71.78,348.86,219.29,7.58;9,71.78,360.32,219.29,7.58;9,71.78,369.98,219.30,9.38;9,71.78,383.24,219.29,7.58;9,71.78,394.69,219.30,8.40;9,71.78,404.35,219.30,9.38;9,71.78,417.61,219.30,7.58;9,71.78,429.06,219.29,7.58;9,71.78,440.52,69.78,7.58;9,57.17,451.98,233.91,8.40;9,71.78,461.64,219.29,9.38;9,71.78,473.09,219.30,9.38;9,71.78,486.35,219.29,7.58;9,71.78,497.81,219.29,7.58;9,71.78,509.26,59.11,7.58"><head></head><label></label><figDesc><div><p><s coords="9,223.79,291.58,46.24,8.40">3 and silver.</s><s coords="9,57.17,303.04,233.91,8.40;9,71.78,314.49,171.27,7.58">(2) At low temperature, LaF 3 and Mo destroyed the lubricating properties and wear resistance of alloys.</s><s coords="9,245.16,314.49,45.92,7.58;9,71.78,325.95,188.72,7.58">Composites showed high friction coefficients and wear rates.</s><s coords="9,262.50,325.95,28.58,7.58;9,71.78,337.41,219.30,8.40;9,71.78,348.86,81.50,7.58">At high temperature, LaF 3 and Mo obviously improved the tribological properties.</s><s coords="9,157.75,348.86,133.33,7.58;9,71.78,360.32,219.29,7.58;9,71.78,369.98,219.30,9.38;9,71.78,383.24,219.29,7.58;9,71.78,394.69,95.15,8.40">Cobalt matrix composites had a continuous self-lubricating properties due to the addition of silver from RT to 1000 • C. It was attributed to the lubricating effect of chromates, molybdates, silver, metal oxides and LaF 3 .</s><s coords="9,171.21,394.69,119.87,8.40;9,71.78,404.35,219.30,9.38;9,71.78,417.61,99.97,7.58">LaF 3 only showed lubrication above 600 • C. When Mo formed compounds, Mo possessed lubricating effect.</s><s coords="9,175.55,417.61,115.54,7.58;9,71.78,429.06,219.29,7.58;9,71.78,440.52,69.78,7.58">The silver formed silver-rich lubricating film which improved low-temperature tribological properties.</s><s coords="9,57.17,451.98,233.91,8.40;9,71.78,461.64,219.29,9.38;9,71.78,473.09,154.72,9.38">(3) Co-15Cr-7W-10LaF 3 -8Mo-9Ag showed the most excellent tribological performance from RT to 1000 • C, and the wear rate was about 1.2-3.6 × 10 −5 mm 3 /N.m.</s><s coords="9,228.76,474.89,62.32,7.58;9,71.78,486.35,149.90,7.58">The presence of oxides film changed the wear model.</s><s coords="9,225.08,486.35,66.00,7.58;9,71.78,497.81,219.29,7.58;9,71.78,509.26,59.11,7.58">The wear mechanisms of composites were mainly abrasive wear and oxidative wear.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="2,310.39,73.14,227.15,67.72"><head>Table 1 -Compositions of Co matrix composites (wt%).</head><label>1</label><figDesc></figDesc><table coords="2,310.39,87.91,227.15,52.96"><row><cell>Specimens</cell><cell>Co</cell><cell>Cr</cell><cell>W</cell><cell>LaF 3</cell><cell>Mo</cell><cell>Ag</cell></row><row><cell>CW</cell><cell>78</cell><cell>15</cell><cell>7</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>CL</cell><cell>68</cell><cell>15</cell><cell>7</cell><cell>10</cell><cell>0</cell><cell>0</cell></row><row><cell>CM</cell><cell>60</cell><cell>15</cell><cell>7</cell><cell>10</cell><cell>8</cell><cell>0</cell></row><row><cell>CA</cell><cell>51</cell><cell>15</cell><cell>7</cell><cell>10</cell><cell>8</cell><cell>9</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="3,315.00,229.67,227.15,77.47"><head>Table 2 -Vickers-hardness, density and porosity of obtained composites.</head><label>2</label><figDesc></figDesc><table coords="3,315.00,253.04,227.15,54.10"><row><cell cols="4">Specimens Vickers hardness (Hv) Density (g/cm 3 ) Porosity (%)</cell></row><row><cell>CW</cell><cell>486</cell><cell>8.89</cell><cell>0.3%</cell></row><row><cell>CL</cell><cell>431</cell><cell>8.45</cell><cell>0.6%</cell></row><row><cell>CM</cell><cell>512</cell><cell>8.53</cell><cell>0.5%</cell></row><row><cell>CA</cell><cell>457</cell><cell>8.67</cell><cell>0.3%</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">j m a t e r r e s t e c h n o l . 2 0 1 9;x x x(x x):xxx-xxx</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4">j m a t e r r e s t e c h n o l . 2 0 1 9;x x x(x x):xxx-xxx</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p><s coords="9,51.99,609.29,239.09,7.58;9,51.99,620.75,184.83,7.58">This work was supported by National Natural Science Foundation of China (Grant No. 51775365, 51405329).</s></p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p><s coords="9,51.99,559.09,170.22,7.58">The authors declare no conflicts of interest.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Supplementary data</head><p><s coords="9,51.99,675.00,239.09,7.58;9,51.99,686.46,239.09,7.58">Supplementary material related to this article can be found, in the online version, at doi:https://doi.org/10.1016/j.</s><s coords="9,51.99,697.92,65.71,7.58">jmrt.2019.12.072.</s><s coords="9,308.52,68.25,61.62,7.16">r e f e r e n c e s</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="9,325.51,103.31,208.17,7.11;9,325.51,113.27,174.26,7.11;9,325.51,123.23,75.74,7.11" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Chromium-nickel-alloys for wear application at elevated temperature</title>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Krell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arne</forename><surname>Röttger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Werner</forename><surname>Theisen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2019.05.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">432-433</biblScope>
+			<biblScope unit="page">102924</biblScope>
+			<date type="published" when="2019-08" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,133.19,218.16,7.11;9,325.51,143.16,218.06,7.11;9,325.51,153.12,178.72,7.11" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Room and high temperature reciprocated sliding wear behavior of SiC-WC composites</title>
+		<author>
+			<persName><forename type="first">Sandan</forename><forename type="middle">Kumar</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Bvm</forename><forename type="middle">Venkata Manoj</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Blaz</forename><forename type="middle">Brodnik</forename><surname>Zugelj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mitjan</forename><surname>Kalin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Young-Wook</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ceramint.2017.09.080</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ceramics International</title>
+		<title level="j" type="abbrev">Ceramics International</title>
+		<idno type="ISSN">0272-8842</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="16827" to="16834" />
+			<date type="published" when="2017-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,163.08,213.75,7.11;9,325.51,173.04,197.22,7.66;9,325.51,183.01,203.60,7.11;9,325.51,192.97,173.72,7.11" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Effect of TiB 2 addition on the elevated temperature tribological behavior of spark plasma sintered Ti matrix composite</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">S</forename><surname>Namini</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Ali</forename><surname>Dilawary</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">A</forename><surname>Motallebzadeh</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Shahedi</forename><surname>Asl</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Compos Part B-Eng</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="271" to="280" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,202.85,217.92,7.19;9,325.51,212.89,212.46,7.11;9,325.51,222.86,182.25,7.11" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Wear and corrosion behaviour of Inconel 718 laser surface alloyed with rhenium</title>
+		<author>
+			<persName><forename type="first">Tomasz</forename><surname>Kurzynowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Irina</forename><surname>Smolina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karol</forename><surname>Kobiela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bogumiła</forename><surname>Kuźnicka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Chlebus</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.matdes.2017.07.024</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials &amp; Design</title>
+		<title level="j" type="abbrev">Materials &amp; Design</title>
+		<idno type="ISSN">0264-1275</idno>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="349" to="359" />
+			<date type="published" when="2017-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,232.82,194.16,7.11;9,325.51,242.78,219.78,7.11;9,325.51,252.74,214.57,7.11;9,325.51,261.30,181.27,8.51;9,325.51,272.67,55.67,7.11" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Effect of alumina dispersion on oxidation behavior as well as friction and wear behavior of HVOF-sprayed CoCrAlYTaCSi coating at elevated temperature up to 1000 °C</title>
+		<author>
+			<persName><forename type="first">Guoliang</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yulong</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoqin</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Huidi</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianmin</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.actamat.2015.05.025</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Materialia</title>
+		<title level="j" type="abbrev">Acta Materialia</title>
+		<idno type="ISSN">1359-6454</idno>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="164" to="175" />
+			<date type="published" when="2015-08" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,282.63,222.00,7.11;9,325.51,292.60,161.99,7.11;9,325.51,302.56,202.67,7.11;9,325.51,312.52,175.56,7.11" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">wear, and corrosion characterization of high TiC content Inconel 625 matrix composites</title>
+		<author>
+			<persName coords=""><forename type="first">Mohamed</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Mzab</forename><surname>Alsaleh</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><forename type="middle">A</forename><surname>El-Sayed Seleman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">M</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Ataya</forename><forename type="middle">S</forename><surname>Microstructure</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Mater Res Technol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1102" to="1110" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,322.48,212.27,7.11;9,325.51,332.07,212.32,7.48;9,325.51,342.41,71.17,7.11" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">High-temperature sliding wear behavior of an intermetallic γ–based TiAl alloy</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Mengis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Grimme</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">C</forename><surname>Galetz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2018.11.025</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">426-427</biblScope>
+			<biblScope unit="page" from="341" to="347" />
+			<date type="published" when="2019-04" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,352.37,197.50,7.11;9,325.51,362.33,218.63,7.66;9,325.51,372.30,132.41,7.11" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Mechanical and tribological properties of NiCr–Al2O3 composites at elevated temperatures</title>
+		<author>
+			<persName><forename type="first">Feng</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Junhong</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gewen</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wenzhen</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yu</forename><surname>Shan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2014.11.023</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2015-04" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,382.26,218.82,7.11;9,325.51,392.22,170.11,7.11;9,325.51,402.18,167.46,7.11" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Sliding wear behavior of HVOF sprayed WC-(nano-WC-Co) coating at elevated temperatures</title>
+		<author>
+			<persName><forename type="first">Pengbo</forename><surname>Mi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hongjian</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Teng</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fuxing</forename><surname>Ye</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.matchemphys.2017.09.066</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials Chemistry and Physics</title>
+		<title level="j" type="abbrev">Materials Chemistry and Physics</title>
+		<idno type="ISSN">0254-0584</idno>
+		<imprint>
+			<biblScope unit="volume">206</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2018-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,412.15,185.48,7.11;9,325.51,422.11,222.61,7.11;9,325.51,432.07,213.96,7.66;9,325.51,442.04,51.51,7.11" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Microstructure and high temperature tribological behavior of Fe3Al–Ba0.25Sr0.75SO4 self-lubricating composites</title>
+		<author>
+			<persName><forename type="first">Xinghua</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jun</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Muye</forename><surname>Niu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hui</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weimin</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jun</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2016.04.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="81" to="87" />
+			<date type="published" when="2016-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,452.00,186.69,7.11;9,325.51,461.88,220.28,7.19;9,325.51,471.92,206.54,7.11;9,325.51,481.89,211.20,7.11;9,325.51,491.85,59.82,7.11" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Microstructure, microhardness and corrosion resistance of Stellite-6 coatings reinforced with WC particles using laser cladding</title>
+		<author>
+			<persName><forename type="first">Dariusz</forename><surname>Bartkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrzej</forename><surname>Młynarczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Piasecki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bartłomiej</forename><surname>Dudziak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marek</forename><surname>Gościański</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aneta</forename><surname>Bartkowska</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.optlastec.2014.12.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Optics &amp; Laser Technology</title>
+		<title level="j" type="abbrev">Optics &amp; Laser Technology</title>
+		<idno type="ISSN">0030-3992</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="191" to="201" />
+			<date type="published" when="2015-05" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,501.81,210.95,7.11;9,325.51,511.77,190.90,7.11;9,325.51,521.74,178.66,7.11;9,325.51,531.70,68.13,7.11" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Fretting wear properties of HVOF-sprayed CoMoCrSi coatings with different spraying parameters</title>
+		<author>
+			<persName><forename type="first">Wen-Jin</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lang</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiao-Ying</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jian-Hua</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ding-Jun</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhen-Bing</forename><surname>Cai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2018.12.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="994" to="1005" />
+			<date type="published" when="2019-01" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,541.66,204.39,7.11;9,325.51,551.62,216.94,7.11;9,325.51,561.59,86.83,7.11" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The effect of oxidation on the tribolayer and sliding wear of a Co-based coating</title>
+		<author>
+			<persName><forename type="first">Leandro</forename><forename type="middle">Da</forename><surname>Conceição</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S C M</forename><surname>D'oliveira</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2016.01.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page" from="69" to="78" />
+			<date type="published" when="2016-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,571.55,213.91,7.11;9,325.51,581.51,218.44,7.11" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Cobalt-base high temperature alloys</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Omori</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Oikawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Ohnuma</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Kainuma</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Ishida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">312</biblScope>
+			<biblScope unit="page" from="90" to="91" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,591.48,201.01,7.11;9,325.51,601.44,189.14,7.11;9,325.51,611.40,206.02,7.11;9,325.51,621.36,211.69,7.66;9,325.51,631.33,113.97,7.11" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Effect of microwave heating on microstructure and elevated temperature adhesive wear behavior of HVOF deposited CoMoCrSi-Cr3C2 coating</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Durga</forename><surname>Prasad</surname></persName>
+			<idno type="ORCID">0000-0002-6632-0037</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sharnappa</forename><surname>Joladarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Ramesh</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">S</forename><surname>Srinath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Channabasappa</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2019.05.056</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="page" from="291" to="304" />
+			<date type="published" when="2019-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,641.29,222.61,7.11;9,325.51,651.25,201.68,7.11;9,325.51,661.21,157.84,7.11" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Properties of HVOF-sprayed Stellite-6 coatings</title>
+		<author>
+			<persName><forename type="first">Paolo</forename><surname>Sassatelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giovanni</forename><surname>Bolelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Magdalena</forename><surname>Lassinantti Gualtieri</surname></persName>
+			<idno type="ORCID">0000-0001-7317-2661</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Esa</forename><surname>Heinonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mari</forename><surname>Honkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luca</forename><surname>Lusvarghi</surname></persName>
+			<idno type="ORCID">0000-0001-9629-8507</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Tiziano</forename><surname>Manfredini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rinaldo</forename><surname>Rigon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Minnamari</forename><surname>Vippola</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.surfcoat.2018.01.078</idno>
+		<ptr type="open-access" target="http://jultika.oulu.fi/files/nbnfi-fe2018080733445.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Surface and Coatings Technology</title>
+		<title level="j" type="abbrev">Surface and Coatings Technology</title>
+		<idno type="ISSN">0257-8972</idno>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="45" to="62" />
+			<date type="published" when="2018-03" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,325.51,671.18,194.88,7.11;9,325.51,681.14,197.57,7.11;9,325.51,691.10,191.84,7.11;9,325.51,701.06,55.67,7.11" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">High temperature wear performance of laser cladding Co06 coating on high-speed train brake disc</title>
+		<author>
+			<persName><forename type="first">Yan</forename><surname>Liu</surname></persName>
+			<idno type="ORCID">0000-0003-0469-9253</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ying</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuanming</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wei</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guiying</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hao</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Naiyuan</forename><surname>Xi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hui</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apsusc.2019.02.235</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Surface Science</title>
+		<title level="j" type="abbrev">Applied Surface Science</title>
+		<idno type="ISSN">0169-4332</idno>
+		<imprint>
+			<biblScope unit="volume">481</biblScope>
+			<biblScope unit="page" from="761" to="766" />
+			<date type="published" when="2019-07" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,63.86,67.94,216.90,7.11;10,63.86,77.90,170.91,7.11" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">High temperature sliding wear behaviour of Inconel 617 and Stellite 6 alloys</title>
+		<author>
+			<persName coords=""><forename type="first">Yucel</forename><surname>Birol</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2010.07.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">269</biblScope>
+			<biblScope unit="issue">9-10</biblScope>
+			<biblScope unit="page" from="664" to="671" />
+			<date type="published" when="2010-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,63.86,87.86,202.11,7.11;10,63.86,97.83,222.61,7.11;10,63.86,107.79,126.07,7.11" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Elevated temperature tribology of cobalt and tantalum-based alloys</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">W</forename><surname>Scharf</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">V</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">G</forename><surname>Kotula</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">R</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">V</forename><surname>Robino</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2014.12.051</idno>
+		<ptr type="open-access" target="https://manuscript.elsevier.com/S0043164815000046/pdf/S0043164815000046.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">330-331</biblScope>
+			<biblScope unit="page" from="199" to="208" />
+			<date type="published" when="2015-05" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,63.86,117.75,192.76,7.11;10,63.86,127.71,219.39,7.11;10,63.86,137.68,162.05,7.11" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effects of yttrium on microstructure, mechanical properties and high-temperature wear behavior of cast Stellite 6 alloy</title>
+		<author>
+			<persName><forename type="first">Linchun</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0043-1648(03)00057-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">255</biblScope>
+			<biblScope unit="issue">1-6</biblScope>
+			<biblScope unit="page" from="535" to="544" />
+			<date type="published" when="2003-08" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,63.86,147.64,222.61,7.11;10,63.86,157.60,202.73,7.11;10,63.86,167.56,55.67,7.11" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Origins and development of oxidational wear at low ambient temperatures</title>
+		<author>
+			<persName coords=""><forename type="first">Tfj</forename><forename type="middle">F J</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">L</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">M</forename><surname>Rowson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0043-1648(84)90053-x</idno>
+		<idno type="PII">0043-1648(84)90053-X</idno>
+		<idno type="ark">ark:/67375/6H6-WZGMMF7B-N</idno>
+		<idno type="istexId">8E7F4BBADDA8560F6CD618F2276E034150B589C8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="191" />
+			<date type="published" when="1984-03" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,63.86,177.53,209.70,7.11;10,63.86,187.49,171.37,7.11;10,63.86,197.45,55.67,7.11" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The wear performance of yttrium-modified Stellite 712 at elevated temperatures</title>
+		<author>
+			<persName><forename type="first">Iulian</forename><surname>Radu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2005.09.027</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="254" to="265" />
+			<date type="published" when="2007-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,63.86,207.41,210.29,7.11;10,63.86,217.38,222.61,7.11;10,63.86,227.34,215.57,7.11;10,63.86,237.30,178.86,7.11" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Direct evidence of magnetically induced phase separation in the fcc phase and thermodynamic calculations of phase equilibria of the Co–Cr system</title>
+		<author>
+			<persName><forename type="first">Katsunari</forename><surname>Oikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gao-Wu</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tamio</forename><surname>Ikeshoji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryosuke</forename><surname>Kainuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kiyohito</forename><surname>Ishida</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1359-6454(01)00433-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Materialia</title>
+		<title level="j" type="abbrev">Acta Materialia</title>
+		<idno type="ISSN">1359-6454</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2223" to="2232" />
+			<date type="published" when="2002-05" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,63.86,247.27,212.23,7.11;10,63.86,255.54,208.81,9.82;10,63.86,268.21,96.50,7.11" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">High-temperature sliding wear behaviour of Stellite®12 and Tribaloy®T400</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Renz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Braham</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jens</forename><surname>Hardell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Lehmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wear.2018.02.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Wear</title>
+		<title level="j" type="abbrev">Wear</title>
+		<idno type="ISSN">0043-1648</idno>
+		<imprint>
+			<biblScope unit="volume">402-403</biblScope>
+			<biblScope unit="page" from="148" to="159" />
+			<date type="published" when="2018-05" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,63.86,278.18,190.68,7.11;10,63.86,288.14,196.66,7.11;10,63.86,298.10,198.75,7.66;10,63.86,308.06,88.34,7.11" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Microstructure and tribological properties of Fe–Cr matrix self-lubricating composites against Si3N4 at high temperature</title>
+		<author>
+			<persName><forename type="first">Gongjun</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lei</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yanping</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guijun</forename><surname>Gao</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jallcom.2014.05.160</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Alloys and Compounds</title>
+		<title level="j" type="abbrev">Journal of Alloys and Compounds</title>
+		<idno type="ISSN">0925-8388</idno>
+		<imprint>
+			<biblScope unit="volume">611</biblScope>
+			<biblScope unit="page" from="235" to="242" />
+			<date type="published" when="2014-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,320.90,67.94,204.91,7.66;10,320.90,77.90,185.10,7.11;10,320.90,87.86,55.67,7.11" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Ni3Al matrix high temperature self-lubricating composites</title>
+		<author>
+			<persName><forename type="first">Shengyu</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qinling</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jun</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weimin</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qunji</forename><surname>Xue</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2010.11.016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="445" to="453" />
+			<date type="published" when="2011-04" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,320.90,97.83,219.85,7.11;10,320.90,107.79,187.64,7.66;10,320.90,117.75,136.08,7.11" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Friction and Wear Behaviors of Ni-based Composites Containing Graphite/Ag2MoO4 Lubricants</title>
+		<author>
+			<persName><forename type="first">Eryong</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yimin</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Junhong</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yaping</forename><surname>Bai</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11249-013-0131-0</idno>
+		<idno type="ark">ark:/67375/VQC-CM8MSKHG-G</idno>
+		<idno type="istexId">F54C4458845C6C5E05B57A6BBEBD6990EB0AE93A</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Letters</title>
+		<title level="j" type="abbrev">Tribol Lett</title>
+		<idno type="ISSN">1023-8883</idno>
+		<idno type="ISSNe">1573-2711</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="313" to="322" />
+			<date type="published" when="2013-03-24" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,320.90,127.71,222.61,7.11;10,320.90,137.68,178.35,7.66;10,320.90,146.23,219.85,9.07;10,320.90,157.60,59.82,7.11" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Effect of Mo and Ag on the friction and wear behavior of ZrO2 (Y2O3)–Ag–CaF2–Mo composites from 20°C to 1000°C</title>
+		<author>
+			<persName><forename type="first">Lingqian</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shengyu</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhuhui</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jun</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qinling</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weimin</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2014.04.032</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="7" to="13" />
+			<date type="published" when="2014-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,320.90,167.56,217.19,7.11;10,320.90,177.53,51.51,7.11" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Contact and rubbing of flat surfaces</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">F</forename><surname>Archard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Phys</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="981" to="988" />
+			<date type="published" when="1952" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,320.90,187.49,210.01,7.11;10,320.90,197.45,219.21,7.11;10,320.90,207.41,213.70,7.11;10,320.90,217.38,150.57,7.11" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Microstructure and mechanical properties of Co-based alloy coatings fabricated by laser cladding and plasma arc spray welding</title>
+		<author>
+			<persName><forename type="first">Jian</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qingwei</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Houqin</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fengyuan</forename><surname>Shu</surname></persName>
+			<idno type="ORCID">0000-0003-3994-5186</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Hongyun</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wenxiong</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhishui</forename><surname>Yu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jallcom.2019.01.056</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Alloys and Compounds</title>
+		<title level="j" type="abbrev">Journal of Alloys and Compounds</title>
+		<idno type="ISSN">0925-8388</idno>
+		<imprint>
+			<biblScope unit="volume">785</biblScope>
+			<biblScope unit="page" from="846" to="854" />
+			<date type="published" when="2019-05" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,320.90,227.34,201.41,7.11;10,320.90,237.30,202.59,7.11;10,320.90,247.27,220.39,7.11;10,320.90,257.23,51.51,7.11" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">High-temperature tribological behavior of a nickel alloy matrix solid-lubricating composite under vacuum</title>
+		<author>
+			<persName><forename type="first">Jinming</forename><surname>Zhen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jun</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shengyu</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Junying</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhuhui</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jun</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weimin</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.triboint.2017.02.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<title level="j" type="abbrev">Tribology International</title>
+		<idno type="ISSN">0301-679X</idno>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="52" to="56" />
+			<date type="published" when="2017-06" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,320.90,267.19,222.61,7.11;10,320.90,277.15,215.68,7.11;10,320.90,287.12,170.54,7.11;10,320.90,297.08,195.88,7.11;10,320.90,307.04,55.67,7.11" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effects of temperature and normal load on tribological behavior of nickel-based high temperature self-lubricating wear-resistant composite coating</title>
+		<author>
+			<persName><forename type="first">Xiu-Bo</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hai-Qing</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuan-Fu</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiang-Ming</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cheng-Feng</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ming-Di</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hong-Bing</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Long-Hao</forename><surname>Qi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.compositesb.2013.05.032</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Composites Part B: Engineering</title>
+		<title level="j" type="abbrev">Composites Part B: Engineering</title>
+		<idno type="ISSN">1359-8368</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="347" to="354" />
+			<date type="published" when="2013-10" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

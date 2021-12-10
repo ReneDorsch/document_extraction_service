@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Effect of Temperature on Lubrication Property with MoDTC-Containning Lubricant</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Japanese Society of Tribologists</publisher>
+				<availability status="unknown"><p>Copyright Japanese Society of Tribologists</p>
+				</availability>
+				<date type="published" when="2018-12-15">15 December 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName coords="1,90.99,228.19,81.42,10.08"><forename type="first">Masanori</forename><surname>Komaba</surname></persName>
+							<email>masanori-komaba@kyodoyushi.co.jp</email>
+							<affiliation key="aff1">
+								<orgName type="department">) Research &amp; Development Dept</orgName>
+								<orgName type="institution">KYODOYUSHI CO. LTD</orgName>
+								<address>
+									<addrLine>2-2-30 Tsujido Kandai</addrLine>
+									<postCode>251-8588</postCode>
+									<settlement>Fujisawa</settlement>
+									<region>Kanagawa</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,184.53,228.19,62.70,10.08"><forename type="first">Shinya</forename><surname>Kondo</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">KYODOYUSHI CO. LTD</orgName>
+								<address>
+									<addrLine>2-2-30 Tsujido Kandai</addrLine>
+									<postCode>251-8588</postCode>
+									<settlement>Fujisawa</settlement>
+									<region>Kanagawa</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,256.73,228.19,66.85,10.08"><forename type="first">Atsushi</forename><surname>Suzuki</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">) Gear &amp; Analysis Engeneering Dept., AISIN AI CO. LTD</orgName>
+								<address>
+									<addrLine>1-33 Kounosu, Nishiazai-cho, Nishio, Aichi 445-0004</addrLine>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,333.44,228.19,70.50,10.08"><forename type="first">Kazue</forename><surname>Kurihara</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Institute of Multidisciplinary Research for Advanced Materials</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<addrLine>2-1-1 Katahira, Aoba-ku, Japan 5) Iwate University, 4-3-5 Ueda</addrLine>
+									<postCode>980-8577, 020-8550</postCode>
+									<settlement>Sendai, Morioka</settlement>
+									<region>Miyagi, Iwate</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,430.73,228.19,68.67,10.08"><forename type="first">Shigeyuki</forename><surname>Mori</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Japanese Society of Tribologists</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Effect of Temperature on Lubrication Property with MoDTC-Containning Lubricant</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Tribology Online</title>
+						<title level="j" type="abbrev">Tribology Online</title>
+						<idno type="ISSN">1881-2198</idno>
+						<imprint>
+							<publisher>Japanese Society of Tribologists</publisher>
+							<biblScope unit="volume">13</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="275" to="281"/>
+							<date type="published" when="2018-12-15">15 December 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">24E5104E8B1439213FCB26F0058E1824</idno>
+					<idno type="DOI">10.2474/trol.13.275</idno>
+					<ptr type="open-access" target="https://www.jstage.jst.go.jp/article/trol/13/5/13_275/_pdf" />
+					<note type="submission">received 27 August 2018; accepted 21 October 2018;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0" ident="GROBID" when="2021-10-12T15:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>molybudenum dithiocarbamate</term>
+					<term>molybdenum disulfide</term>
+					<term>tribo chemistry</term>
+					<term>friction coefficient</term>
+					<term>tribofilm</term>
+					<term>X-ray photoelectron spectroscopy</term>
+					<term>high resolution transmission electron microscopy</term>
+					<term>temperature dependence</term>
+					<term>layer structure</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,56.71,409.70,481.91,8.06;1,56.71,420.64,393.68,8.06">The effect of temperature on the lubricity of molybdenum dithiocarbamate (MoDTC) was investigated by a ball on disk tribometer with lubricant oil containing MoDTC and calcium sulfonate (CaSU) at temperatures of 25C, 40C, 60C and 80C.</s><s coords="1,453.08,420.64,85.72,8.06;1,56.71,431.57,209.39,8.06">The behavior of friction coefficient was closely dependent on the oil temperature.</s><s coords="1,268.88,431.57,269.83,8.06;1,56.71,442.51,107.53,8.06">Friction coefficient decreased after a certain induction period and became to be constant at steady state.</s><s coords="1,166.67,442.51,372.09,8.06;1,56.71,453.44,115.29,8.06">At higher temperature, the induction period became to be shorter, and the slope of decreasing friction coefficient became to be steeper.</s><s coords="1,174.37,453.44,364.25,8.06;1,56.71,464.38,123.36,8.06">Friction coefficient at steady state decreased at higher temperature, and was changed reversibly when the oil temperature was changed.</s><s coords="1,182.93,464.38,355.53,8.06">Oscillatory change in friction was observed when the oil temperature was changed periodically.</s><s coords="1,56.71,475.32,481.91,8.06;1,56.71,486.24,332.42,8.56">Chemical analysis of the tribofilm with X-ray Photoelectron Spectroscopy (XPS) revealed that higher content of Mo(IV) as a component of molybdenum disulfide (MoS 2 ) was observed in the tribofilm formed at higher temperature.</s><s coords="1,391.25,486.24,147.35,8.56;1,56.71,497.18,359.40,8.06">Highly oriented MoS 2 layer was observed with High Resolution Transmission Electron Microscopy (HR-TEM) in the tribofilm formed at 80C.</s><s coords="1,418.68,497.18,119.92,8.06;1,56.71,508.12,182.34,8.06">It was found that the structure of tribofilm is altered reversibly with oil temperature.</s><s coords="1,241.17,508.12,297.46,8.06;1,56.71,519.05,25.54,8.06">A steady state model of tribofilm formation was proposed on the basis of observed results.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p><s coords="1,70.95,618.77,212.51,8.06;1,56.78,629.70,226.72,8.06;1,56.78,640.64,226.71,8.06;1,56.78,651.57,226.62,8.06;1,56.78,662.51,11.30,8.06">A reduction in friction coefficient has been one of the major issues concerning energy conservation as it was reported that positive economic effects that are the equivalent of about 2% of Japan's GNP could be expected by reducing friction and wear <ref type="bibr" coords="1,56.78,662.51,8.48,8.06" target="#b0">[1]</ref>.</s><s coords="1,70.07,662.51,213.35,8.06;1,56.78,673.45,226.66,8.06;1,56.78,684.38,226.69,8.06;1,56.78,695.32,113.99,8.06">In the field of lubricants, low viscosity base oils can decrease viscous resistance in hydrodynamic lubrication <ref type="bibr" coords="1,225.55,673.45,9.18,8.06" target="#b1">[2,</ref><ref type="bibr" coords="1,234.72,673.45,6.12,8.06" target="#b2">3]</ref> and the use of friction modifiers has been an effective solution to decrease friction in boundary lubrication.</s></p><p><s coords="1,70.95,706.25,212.59,8.06;1,56.78,717.19,226.63,8.06;1,56.78,728.13,226.70,8.06;1,56.78,739.05,226.73,8.56">Molybdenum dithiocarbamate, MoDTC as a typical friction modifier has been extensively studied and is known to effectively reduce friction by producing molybdenum disulfide, MoS 2 on the frictional surface through chemical reaction <ref type="bibr" coords="1,265.28,739.05,6.08,8.06" target="#b3">[4]</ref><ref type="bibr" coords="1,271.35,739.05,3.04,8.06" target="#b5">[5]</ref><ref type="bibr" coords="1,274.39,739.05,6.08,8.06" target="#b6">[6]</ref>.</s><s coords="1,56.78,749.99,226.70,8.56;1,311.82,596.90,226.72,8.06;1,311.82,607.83,197.16,8.56">Yamamoto et al. reported that the production of MoS 2 can take place exclusively in frictional contact while only molybdenum trioxide, MoO 3 is produced in non-frictional contact <ref type="bibr" coords="1,497.66,607.83,8.50,8.06" target="#b7">[7]</ref>.</s><s coords="1,511.12,607.83,27.41,8.06;1,311.83,618.77,226.78,8.06;1,311.83,629.70,226.69,8.56;1,311.83,640.64,215.84,8.06"><ref type="bibr" coords="1,511.12,607.83,27.41,8.06;1,311.83,618.77,8.38,8.06">Kano et al.</ref> suggested that an engine oil consisting of MoDTC and zinc dialkyldithiophosphate, ZDDP produces a MoS 2 compound having "inner-skin-layer" that effectively reduces friction <ref type="bibr" coords="1,516.34,640.64,8.50,8.06" target="#b8">[8]</ref>.</s></p><p><s coords="1,326.00,651.57,212.60,8.06;1,311.83,662.51,226.74,8.06;1,311.83,673.44,226.60,8.06;1,311.83,684.38,226.68,8.06;1,311.83,695.32,226.70,8.06;1,311.83,706.25,58.55,8.06">Some studies on MoDTC, including the reports on the effect of material and coating on friction reducing properties of MoDTC <ref type="bibr" coords="1,353.25,673.44,6.35,8.06" target="#b9">[9]</ref><ref type="bibr" coords="1,359.60,673.44,3.18,8.06" target="#b10">[10]</ref><ref type="bibr" coords="1,362.77,673.44,9.53,8.06" target="#b11">[11]</ref>, the synergetic effects by combining MoDTC with other additives <ref type="bibr" coords="1,386.04,684.38,9.75,8.06" target="#b12">[12]</ref><ref type="bibr" coords="1,395.78,684.38,3.25,8.06" target="#b13">[13]</ref><ref type="bibr" coords="1,399.03,684.38,9.75,8.06" target="#b14">[14]</ref>, and so on, showed that lubricity of MoDTC is greatly affected by the condition and environment of lubrication tests.</s><s coords="1,372.23,706.25,166.30,8.06;1,311.83,717.19,226.75,8.06;1,311.83,728.12,226.70,8.06;1,311.83,739.06,226.58,8.06;1,311.83,750.00,81.48,8.06">Although temperature is considered one of the important factors affecting its lubricity, previous studies dealt only with experiments at some different constant temperatures <ref type="bibr" coords="1,311.83,739.06,11.08,8.06" target="#b3">[4,</ref><ref type="bibr" coords="1,322.91,739.06,11.08,8.06" target="#b15">15]</ref> but not with those under continuously changing temperature condition.</s></p><p><s coords="2,70.88,72.00,212.59,8.06;2,56.71,82.94,226.58,8.06;2,56.71,93.87,226.57,8.06;2,56.71,104.81,226.72,8.06;2,56.71,115.75,38.30,8.06">Therefore, this study aimed to evaluate the effect of temperature on the friction reducing properties of MoDTC as a friction modifier and to identify the temperature-dependent structure of the tribofilm in relation to friction reducing properties.</s><s coords="2,97.55,115.75,185.87,8.06;2,56.71,126.68,226.71,8.06;2,56.71,137.62,132.33,8.06">In detail, the correlation between friction coefficient and tribofilm structure during testing at temperatures changing from 25C to 80C was evaluated.</s><s coords="2,192.45,137.62,90.95,8.06;2,56.71,148.55,226.59,8.06;2,56.71,159.49,226.70,8.06;2,56.71,170.43,202.17,8.06">Furthermore, the effect of temperature was discussed by focusing on the dynamic behavior of tribofilm structure relative to the friction coefficient changing with an increase or decrease in oil temperature.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Experimental</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Test oil</head><p><s coords="2,70.88,225.09,212.60,8.06;2,56.71,236.03,43.22,8.06;2,100.25,234.56,2.33,4.70;2,102.76,236.03,180.56,8.06;2,56.71,246.96,226.70,8.06;2,56.71,257.90,186.04,8.06">A test oil, polyalphaolefin oil with a kinematic viscosity of 7.94 mm 2 /sec at 100C (PAO8), was prepared by adding commercially available oil-soluble MoDTC of Mo:220 ppm and neutral calcium sulfonate (CaSU) of Ca:120 ppm.</s><s coords="2,245.82,257.90,37.62,8.06;2,56.71,268.83,160.81,8.06">Molecular structure of the additives are shown in Fig. <ref type="figure" coords="2,211.52,268.83,3.00,8.06">1</ref>.</s><s coords="2,219.66,268.83,63.76,8.06;2,56.71,279.77,226.68,8.06;2,56.71,290.71,226.79,8.06;2,56.71,301.64,226.70,8.06;2,56.71,312.58,226.71,8.06;2,56.71,323.51,226.68,8.06;2,56.71,334.45,25.33,8.06">MoDTC was used in combination with CaSU to achieve a stable friction coefficient based on previous studies showing that the friction coefficient becomes unstable when MoDTC is used alone and that CaSU or ZDDP promotes MoDTC adsorption on the frictional surface by forming an underlayer leading to a stable friction coefficient <ref type="bibr" coords="2,56.71,334.45,12.66,8.06" target="#b12">[12,</ref><ref type="bibr" coords="2,69.37,334.45,9.50,8.06" target="#b16">16]</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Lubrication test</head><p><s coords="2,70.88,367.26,212.59,8.06;2,56.71,378.19,226.58,8.06;2,56.71,389.13,226.71,8.06;2,56.71,400.07,226.77,8.06;2,56.71,411.00,45.08,8.06">Lubrication tests were carried out using a ball on disk tribometer as shown in Fig. <ref type="figure" coords="2,160.78,378.19,3.04,8.06">2</ref>. The tribometer consists of an 8 mm diameter-ball and a 30 mm diameter-and 4 mm thicknessdisk made of high-carbon chromium bearing steel, SUJ2 (AISI52100).</s><s coords="2,104.80,411.00,178.47,8.06;2,311.75,246.98,192.94,8.06">The arithmetic surface roughness in a direction perpendicular to grinding marks is Ra=0.2~0.3 m.</s><s coords="2,507.78,246.98,30.59,8.06;2,311.75,257.91,145.66,8.06">The ball and disk were immersed in the test oil.</s><s coords="2,460.29,257.91,78.17,8.06;2,311.75,268.85,226.60,8.06;2,311.75,279.79,226.63,8.06;2,311.75,290.72,194.89,8.06">The temperature was controlled by an oil bath connected to a chiller with error tolerance levels of 0.5C and 2.5C for constant temperature and changing temperature conditions, respectively.</s><s coords="2,509.73,290.72,28.74,8.06;2,311.75,301.66,226.69,8.06;2,311.75,312.59,226.85,8.06;2,311.75,323.53,226.70,8.06;2,311.75,334.47,89.29,8.06">In most previous studies, the amount of test oil was probably too small to allow the oil temperature to be stable and properly controlled when the surface was exposed to a significant temperature rise caused by frictional heat.</s><s coords="2,403.33,334.47,135.12,8.06;2,311.75,345.40,226.69,8.06;2,311.75,356.34,226.58,8.06;2,311.75,367.27,226.72,8.06;2,311.75,378.21,46.63,8.06">For this reason, our experiments were performed with a large amount of lubricating oil (about 400 ml) capable of providing enough heat capacity for heat generation in frictional contact so that a proper temperature control could be achieved.</s><s coords="2,361.45,378.21,177.02,8.06;2,311.75,389.15,226.73,8.06;2,311.75,400.08,186.18,8.06">The oil temperature was measured about 1 cm away from the lubricated contact during testing, at which no temperature rise due to frictional heat was observed.</s></p><p><s coords="2,325.93,411.02,26.08,8.06;3,70.87,137.63,212.59,8.06;3,56.69,148.57,81.62,8.06">Table <ref type="table" coords="2,348.01,411.02,4.00,8.06" target="#tab_1">1</ref>    Under test methods 2 and 3, the temperature was changed in a different sequence.</s><s coords="3,140.12,148.57,143.31,8.06;3,56.69,159.50,226.69,8.06;3,56.69,170.44,112.86,8.06">As for test method 2, the test was started at 60C and the temperature was increased to 80C, brought back to 60C and decreased to 40C.</s><s coords="3,172.06,170.44,111.42,8.06;3,56.69,181.38,226.67,8.06;3,56.69,192.31,22.34,8.06">All these temperature changes were made after confirming that the friction coefficient became stable.</s><s coords="3,81.40,192.31,201.99,8.06;3,56.69,203.25,226.71,8.06;3,56.69,214.18,189.70,8.06">Under test method 3, the test was started at 40C or 80C and the temperature was increased to 80C or decreased to 40C after maintaining the initial temperature for 30 min.</s><s coords="3,249.14,214.18,34.13,8.06;3,56.69,225.12,226.82,8.06">Then, the temperature was maintained for another 30 min to finish the test.</s></p><formula xml:id="formula_0" coords="2,297.32,72.90,223.01,669.09"> 80C  60C  40C 40C  80C 80C  40C Mo Mo S S X C X X X S N R R C N R R S X = S or O SO 3 Ca</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Lubrication test</head><p><s coords="3,70.87,257.93,212.60,8.06;3,56.69,268.86,226.72,8.06;3,56.69,279.80,226.77,8.06;3,56.69,290.74,33.27,8.06">High Resolution Transmission Electron Microscopy, HR-TEM and X-ray Photoelectron Spectroscopy, XPS were performed to examine the structure and composition of tribofilm.</s></p><p><s coords="3,70.87,301.67,90.45,8.06">A thin layer of approx.</s><s coords="3,164.65,301.67,118.68,8.06;3,56.69,312.61,226.74,8.06;3,56.69,323.54,226.71,8.06;3,56.69,334.48,226.72,8.06;3,56.69,345.42,226.77,8.06;3,56.69,356.35,226.77,8.06;3,56.69,367.29,73.25,8.06">10 m width, 7 m depth and 100 nm thickness was cut out of the tribofilm formed on the wear track of the tested ball perpendicular to the direction of friction using Focused Ion Beam System, as a specimen for HR-TEM observation and elemental analyses by Electron Energy Loss Spectroscopy, EELS as well as Energy Dispersive X-ray Spectrometry, EDS.</s><s coords="3,133.03,367.29,150.43,8.06;3,56.69,378.22,226.75,8.06;3,56.69,389.16,44.50,8.06">In the qualitative analysis of S and Mo, S-L and Mo-K rays were used for EELS and EDS analyses, respectively.</s></p><p><s coords="3,70.87,400.10,212.41,8.06;3,56.69,411.03,226.77,8.06;3,56.69,421.97,42.40,8.06">XPS analysis was performed with monochlomated Al K X-ray source for the area within 200 m of the center of the wear scars.</s><s coords="3,102.29,421.97,181.14,8.06;3,56.69,432.90,226.57,8.06;3,56.69,443.84,142.38,8.06">Mo3d curve fitting was performed by setting a binding energy difference between 3d5/2 and 3d3/2 as 3.13 eV and a peak area ratio as 3d5/2:3d3/2=3:2.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Lubrication test : method 1 -constant temperature</head><p><s coords="3,70.87,498.48,212.54,8.06;3,56.69,509.42,226.81,8.06;3,56.69,520.35,226.72,8.06;3,56.69,531.29,40.32,8.06">Lubrication tests were carried out at four different constant temperatures (room temperature (about 25C), 40C, 60C and 80C) to study the temperature dependence of friction coefficient.</s><s coords="3,100.03,531.29,183.28,8.06;3,56.69,542.23,193.64,8.06">Figure <ref type="figure" coords="3,126.96,531.29,4.00,8.06">3</ref> shows friction coefficients as a function of temperature for the MoDTC-containing lubricant.</s><s coords="3,252.93,542.23,30.55,8.06;3,56.69,553.16,226.57,8.06;3,56.69,564.10,226.74,8.06;3,311.74,72.03,226.78,8.06;3,311.74,82.96,106.60,8.06">At room temperature of about 25C, the friction coefficient gradually decreases similarly to its base oil alone suggesting that it decreases due solely to smoothing of the contact surface without any effects from the additive.</s><s coords="3,420.75,82.96,117.67,8.06;3,311.74,93.90,226.71,8.06;3,311.74,104.83,19.00,8.06">At 40C or above, it decreases in three steps: (1) initial decline, (2) drastic drop and (3) steady state.</s><s coords="3,333.34,104.83,205.08,8.06;3,311.74,115.77,226.70,8.06;3,311.74,126.71,226.79,8.06;3,311.74,137.64,45.99,8.06">Although the friction coefficient curves at 40C become fluctuant as time advances, those at 60C or above are relatively more reproducible showing nearly equal values for same temperature.</s><s coords="3,360.44,137.64,177.90,8.06;3,311.74,148.58,226.72,8.06;3,311.74,159.51,180.84,8.06">The friction coefficients in the temperature range of this study were found to be lower at higher temperature being temperature dependent at steady state.</s><s coords="3,495.78,159.51,42.64,8.06;3,311.74,170.45,226.78,8.06;3,311.74,181.39,226.71,8.06;3,311.74,192.32,226.71,8.06;3,311.74,203.26,199.35,8.06">As the test temperature increases, initial decline period before a drastic drop in friction coefficient became shorter and the friction coefficient curve became more steep, i.e. the rate of decline of friction coefficient became higher in drastic drop period.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">Lubrication test : method 2 -changing temperature</head><p><s coords="3,325.92,236.07,212.56,8.06;3,311.74,247.00,226.56,8.06">The results of the lubrication tests by method 1 showed that the friction coefficient is highly sensitive to temperature.</s><s coords="3,311.74,257.94,226.70,8.06;3,311.74,268.87,226.74,8.06;3,311.74,279.81,151.64,8.06">Subsequently, another series of lubrication tests were carried out under a changing temperature condition to study the dynamic behavior of friction coefficient.</s><s coords="3,466.43,279.81,71.88,8.06;3,311.74,290.75,226.79,8.06;3,311.74,301.68,155.29,8.06">Figure <ref type="figure" coords="3,493.49,279.81,4.00,8.06" target="#fig_1">4</ref> shows the results of the tests in which the oil temperature was changed stepwise from 60C to 80C, 60C and 40C.</s><s coords="3,469.50,301.68,68.94,8.06;3,311.74,312.62,226.56,8.06;3,311.74,323.55,226.69,8.06;3,311.74,334.49,28.05,8.06">The drastic drop in friction coefficient at the onset temperature of 60C indicates that a tribofilm from MoDTC formed during the initial stage of friction.</s><s coords="3,342.55,334.49,195.74,8.06;3,311.74,345.43,226.78,8.06;3,311.74,356.36,115.73,8.06">The friction coefficient of about 0.04 at 60C is almost the same as that at steady state in the constant temperature test at 60C as shown in Fig. <ref type="figure" coords="3,421.33,356.36,3.07,8.06">3</ref>.</s><s coords="3,430.12,356.36,108.38,8.06;3,311.74,367.30,226.71,8.06;3,311.74,378.23,226.70,8.06;3,311.74,389.17,200.66,8.06">As the temperature increases to 80C when 20 min have passed, the friction coefficient slightly decreases and becomes stable at around 0.036 which is similar to that at 80C in the constant temperature test.</s><s coords="3,514.85,389.17,23.57,8.06;3,311.74,400.11,226.81,8.06;3,311.74,411.04,226.77,8.06;3,311.74,421.98,142.38,8.06">As the temperature decreases to 60C, and then to 40C, the friction coefficient increases and becomes stable at around 0.04, and then further increases to around 0.05.</s><s coords="3,457.18,421.98,81.26,8.06;3,311.74,432.91,226.70,8.06;3,311.74,443.85,226.80,8.06;3,311.74,454.79,226.66,8.06;3,311.74,465.72,226.68,8.06;3,311.74,476.66,226.71,8.06;3,311.74,487.59,29.92,8.06">These results confirm that the MoDTC-containing oil has a friction coefficient varying according to the oil temperature and the coefficient values are almost the same as those in the constant temperature tests as indicated with dashed lines in Fig. <ref type="figure" coords="3,437.69,465.72,3.00,8.06" target="#fig_1">4</ref>. It is worth noting that the friction coefficient fluctuates when the set temperature has been reached.</s><s coords="3,343.66,487.59,171.28,8.06">This fluctuation will be further explained below.</s></p><p><s coords="3,325.92,498.53,212.53,8.06;3,311.74,509.47,226.70,8.06">Figure <ref type="figure" coords="3,351.01,498.53,4.00,8.06" target="#fig_1">4</ref> shows that the temperature undergoes a sinusoidal variation or a ripple after once reaching the set temperature.</s><s coords="3,311.74,520.40,226.70,8.06;3,311.74,531.34,46.87,8.06">Interestingly, at 80C, the friction coefficient corresponds closely to the ripple.</s><s coords="3,361.31,531.34,176.99,8.06;3,311.74,542.27,226.59,8.06;3,56.66,738.17,226.87,8.06;3,85.00,749.11,102.85,8.06">The enlarged view of the friction coefficient data at 80C with the temperature axis displayed inverted in Fig. <ref type="figure" coords="3,534.33,542.27,4.00,8.06">5</ref> Fig. <ref type="figure" coords="3,73.82,738.17,4.00,8.06">3</ref> Friction coefficient as a function of temperature for MoDTC-containing lubricant</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Discussion</head><p><s coords="4,325.93,93.87,212.61,8.06;4,311.75,104.81,226.84,8.06;4,311.75,115.74,226.78,8.06;4,311.75,126.68,226.68,8.06;4,311.75,137.62,226.71,8.06;4,311.75,148.55,66.05,8.06">Assuming that the temperature-dependent change of friction coefficient is caused not by a change in base oil viscosity, but by the effect of tribofilm formed through a tribochemical reaction in lubricated contact, frictional surfaces were analyzed to study the relationship between the surface structure and friction coefficient.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Surface analysis: constant temperature condition</head><p><s coords="4,325.93,181.36,212.43,8.06;4,311.75,192.30,226.58,8.06;4,311.75,203.23,226.73,8.06;4,311.75,214.17,194.02,8.06">The wear scars on the balls subjected to lubrication testing under three constant temperature conditions of room temperature (about 25C), 40C and 80C, were analyzed using HR-TEM and XPS to identify the structure of tribofilm.</s></p><p><s coords="4,328.76,225.10,209.68,8.06;4,311.75,236.04,226.70,8.06;4,311.75,246.98,226.78,8.06;4,311.75,257.91,45.64,8.06">The TEM images and EELS and EDS chemical mapping shown in Fig. <ref type="figure" coords="4,367.50,236.04,4.00,8.06">6</ref> reveal the formation of tribofilms between the substrate and the protecting overcoat regardless of test temperature.</s><s coords="4,359.38,257.91,179.13,8.06;4,311.75,268.85,226.70,8.06;4,311.75,279.78,226.70,8.06">By comparing these HR-TEM images, the tribofilm at 80C seems to have a structure composed of layers regularly aligned along the upper surface unlike those at 25C and 40C.</s><s coords="4,311.75,290.72,226.75,8.06;4,311.75,301.66,226.55,8.06;4,311.75,312.57,226.75,8.56;4,311.76,323.51,226.76,8.06;4,311.76,334.44,226.63,8.56;4,311.76,345.38,30.95,8.56">Considering that the TEM and electron diffraction pattern analyses on wear debris performed by Grossiord et al. identified a monolayer MoS 2 film <ref type="bibr" coords="4,398.98,312.57,9.48,8.06" target="#b6">[6]</ref> and that in Fig. <ref type="figure" coords="4,470.86,312.57,12.84,8.06">6 (c</ref>) the interlayer distance is about 0.6 nm which is almost the same as that of MoS 2 , 6.16  <ref type="bibr" coords="4,363.76,334.44,13.11,8.06" target="#b17">[17]</ref>, this layered structure is likely to consist of MoS 2 .</s><s coords="4,345.61,345.38,192.85,8.06;4,311.75,356.31,226.70,8.06;4,311.75,367.25,158.57,8.06">In the results of elemental analyses as shown in the bottom part of Fig. <ref type="figure" coords="4,382.04,356.31,3.00,8.06">6</ref>, the higher intensity of white color means that the element is present at a higher rate.</s><s coords="4,472.82,367.25,65.50,8.06;4,311.75,378.18,226.70,8.06;4,311.75,389.12,208.38,8.06;5,70.87,334.46,212.52,8.56;5,56.69,345.39,226.70,8.06;5,56.69,356.33,101.95,8.06">At 40C and 80C, unlike 25C, there is considerable overlap in the distribution of Mo, S and O which is indicative of the production of MoS Based on the XPS results, the higher MoS 2 ratio of the tribofilm at steady state at 80C would be one of the factors that decrease friction coefficient.</s><s coords="5,161.45,356.33,121.94,8.56;5,56.70,367.26,125.73,8.06">The cause for the increased MoS 2 ratio at 80C will be discussed later.</s><s coords="5,184.42,367.26,98.97,8.06;5,56.70,378.20,226.70,8.56;5,56.69,389.13,226.79,8.56;5,56.70,400.07,118.83,8.56">The fact that XPS confirmed the presence of MoS 2 while HR-TEM observations revealed no formation of MoS 2 layered structure is indicative of the presence of MoS 2 nanoclusters <ref type="bibr" coords="5,133.14,400.07,13.33,8.06" target="#b18">[18]</ref> at 40C.</s><s coords="5,177.59,400.07,105.80,8.56;5,56.69,411.00,226.70,8.56;5,311.74,72.02,226.71,8.06;5,311.74,82.95,214.16,8.06">Thus, the MoS 2 structure with layers aligned along the lubricated surface at 80C, not like MoS 2 nanoclusters with slip planes arranged in random order, can enhance lubricity leading to a decrease in friction coefficient.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">Surface analysis: changing temperature condition</head><p><s coords="5,325.91,115.76,212.60,8.06;5,311.74,126.70,226.78,8.06;5,311.74,137.63,121.25,8.06">In the lubrication tests under changing temperature condition (method 2), the friction coefficient changed in response to temperature change.</s><s coords="5,435.91,137.63,102.56,8.06;5,311.74,148.57,226.71,8.06;5,311.74,159.50,226.63,8.06;5,311.74,170.44,226.69,8.06;5,311.74,181.38,226.72,8.06;5,311.74,192.31,168.37,8.06">In order to further examine the temperature-dependent structure of tribofilm, TEM and XPS analyses were performed on the tribofilms formed on the wear scar of the balls subjected to lubrication testing either at increased temperature (40C to 80C) or at decreased temperature (80C to 40C) as shown in Fig. <ref type="figure" coords="5,474.08,192.31,3.01,8.06" target="#fig_4">8</ref>.</s><s coords="5,482.81,192.31,55.72,8.06;5,311.74,203.25,226.80,8.06;5,311.74,214.18,57.66,8.06">In the tests, the friction coefficients decreased as the oil temperature increased and vice versa.</s><s coords="5,372.59,214.18,165.93,8.06;5,311.74,225.12,226.70,8.06;5,311.74,236.06,226.72,8.06;5,311.74,246.99,226.59,8.06;5,311.74,257.93,226.58,8.06;5,311.74,268.86,124.27,8.06">Same as in Fig. <ref type="figure" coords="5,434.26,214.18,3.14,8.06">5</ref>, the friction coefficient at around 80C followed a very small temperature change of 2C and there was a phase difference between the friction coefficient and oil temperature, clearly demonstrating reproducibility of test results in which the friction coefficient underwent reversible change in response to temperature.</s></p><p><s coords="5,325.91,279.80,212.49,8.06;5,311.74,290.74,226.66,8.06;5,311.74,301.67,226.79,8.06;5,311.74,312.59,20.62,8.56">As shown in Fig. <ref type="figure" coords="5,394.75,279.80,4.00,8.06">9</ref> (a), the HR-TEM image of the wear track on the ball tested at increased temperature reveals the layered structure in the tribofilm which most likely consists of MoS 2 .</s><s coords="5,335.10,312.59,203.22,8.06;5,311.74,323.52,226.78,8.06;5,311.74,334.46,226.62,8.06;5,311.74,345.39,118.59,8.06">On the other hand, the tribofilm formed during the test at decreased temperature also has the layered structure but it seems to be out of alignment or in a less dense arrangement especially near the upper surface.</s><s coords="5,432.35,345.39,106.08,8.06;5,311.74,356.33,226.70,8.56;5,311.74,367.26,226.70,8.06;5,311.74,378.20,226.80,8.06">The layered structure in Fig. <ref type="figure" coords="5,534.44,345.39,4.00,8.06">9</ref> (b) should be derived from MoS 2 produced at 80C because the HR-TEM image of Fig. <ref type="figure" coords="5,395.83,367.26,4.00,8.06">6</ref> (b) shows no layered structure for the tribofilm formed during the constant temperature test at 40C.</s><s coords="5,311.74,389.13,226.71,8.06;5,311.74,400.07,226.57,8.06;5,311.74,411.00,226.70,8.56;6,70.88,82.94,212.50,8.06;6,56.71,93.87,20.19,8.06">The layered structure being out of alignment in a less dense arrangement near the upper surface may be due to that the MoS 2 layered structure produced at 80C was damaged through  Figure <ref type="figure" coords="6,96.04,82.94,8.00,8.06" target="#fig_6">10</ref> shows XPS spectra of the wear tracks of the tested balls.</s><s coords="6,80.24,93.87,203.21,8.06;6,56.71,104.81,148.32,8.56">Mo3d curve fitting was performed to determine the peak area ratio between MoS 2 and MoO 3 .</s><s coords="6,207.61,104.81,75.80,8.06;6,56.71,115.74,226.59,8.06;6,56.71,126.68,226.66,8.06;6,56.71,137.61,226.69,8.06;6,56.71,148.55,45.35,8.06">The tribofilm formed during the test at increased temperature (40C to 80C) is similar to that in the constant temperature test at 80C (Fig. <ref type="figure" coords="6,253.68,126.68,16.48,8.06">7 (b)</ref>) in both Mo3d spectrum shape and the peak area ratio obtained by curve fitting.</s><s coords="6,104.05,148.55,179.39,8.06;6,56.71,159.49,173.52,8.06">Their peak area ratios between Mo(IV) and Mo(VI) are specifically 70:30 and 68:32, respectively.</s><s coords="6,233.48,159.49,49.89,8.06;6,56.71,170.42,226.70,8.06;6,56.71,181.36,226.70,8.06;6,56.71,192.29,226.65,8.06;6,56.71,203.23,102.97,8.06">Whereas, the tribofilm formed during the test at decreased temperature (80C to 40C) is more similar to that in the constant temperature test at 40C (Fig. <ref type="figure" coords="6,105.54,192.29,16.27,8.06">7 (a)</ref>) and has a larger Mo(VI) peak area with a Mo(IV):Mo(VI) ratio of 32:68.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3">Steady-state model for tribofilm formation</head><p><s coords="6,70.88,236.04,212.51,8.06;6,56.71,246.96,226.70,8.56;6,56.71,257.90,226.69,8.06;6,56.71,268.83,226.70,8.56;6,56.71,279.77,226.70,8.06;6,56.71,290.70,226.73,8.06;6,56.71,301.64,170.78,8.06">The results of HR-TEM and XPS analyses, in which the tribofilm structure and the relative proportion of MoS 2 :MoO 3 in the tribofilm were found to depend on the oil temperature at the point of lubrication, suggest that MoS 2 was produced on the frictional surface through tribochemical reaction of MoDTC while at the same time being removed by wear leading to the formation of a temperature-dependent tribofilm.</s><s coords="6,229.44,301.64,54.10,8.06;6,56.71,312.57,226.76,8.56;6,56.70,323.51,226.69,8.56;6,56.71,334.44,226.71,8.06;6,56.71,345.38,90.80,8.06">In other words, the production of MoS 2 was facilitated at higher temperature but the MoS 2 tribofilm could not be formed in advance before it was partly worn off at lower temperature resulting in a smaller ratio of Mo(IV):Mo(VI).</s><s coords="6,150.76,345.38,132.65,8.56;6,56.71,356.31,226.57,8.06;6,56.71,367.25,226.71,8.06;6,56.71,378.18,226.58,8.06;6,56.71,389.12,226.72,8.56;6,56.71,400.05,226.70,8.56;6,56.71,410.99,15.60,8.06">This high rate of MoS 2 production at higher temperature is supported also by the steeper slope during the period of drastic drop in friction coefficient at higher temperature as shown in Fig. <ref type="figure" coords="6,173.47,378.18,3.14,8.06">3</ref>. Thus, the tribofilm with a higher MoS 2 ratio could continue to stay on the frictional surface because at 80C MoS 2 was produced from MoDTC at a higher rate.</s><s coords="6,74.45,410.99,208.96,8.56;6,56.71,421.92,67.40,8.06">Another point to note is that MoS 2 of high orientation was produced at 80C.</s><s coords="6,127.13,421.92,156.18,8.06;6,56.71,432.86,226.71,8.06;6,56.71,443.79,226.71,8.06;6,56.71,454.73,226.68,8.56;6,56.71,465.66,61.74,8.06">The phase difference or time lag between temperature and friction coefficient in Fig. <ref type="figure" coords="6,208.51,432.86,4.00,8.06">5</ref> can be attributed to the time needed for the change in the structure and composition of tribofilm associated with accumulation of MoS 2 through MoDTC reaction.</s><s coords="6,120.99,465.66,162.41,8.06;6,56.71,476.60,226.56,8.06;6,56.71,487.53,226.78,8.06;6,56.71,498.47,226.70,8.06;6,56.71,509.41,226.70,8.06;6,56.71,520.34,182.88,8.06">It is suggested by the layered structure being out of alignment near the upper surface in Fig. <ref type="figure" coords="6,230.78,476.60,4.00,8.06">9</ref> (b) that such a change in the structure and composition occured because of a dynamic behavior of tribofilm: a tribofilm was formed on the frictional surface, partly removed by being sheared and worn, and replaced with another tribofilm newly formed.</s><s coords="6,241.97,520.34,41.44,8.06;6,311.76,72.01,226.67,8.06;6,311.76,82.94,226.70,8.06;6,311.76,93.88,226.70,8.06;6,311.76,104.81,88.16,8.06">The friction coefficient at steady state regardless of temperature can be described by a steady-state model that assumes that it depends on the tribofilm structure maintained by a balance between production and removal.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">Conclusions</head><p><s coords="6,325.93,148.55,212.59,8.06;6,311.75,159.48,226.62,8.06;6,311.75,170.42,226.61,8.06;6,311.75,181.35,226.68,8.06">With an aim to study the effect of temperature on the friction reducing properties of MoDTC as a friction modifier, lubrication tests at different temperatures ranging from room temperature (about 25C), 40C, 60C and 80C were carried</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="2,337.38,225.04,175.39,8.06"><head>Fig. 1 Fig. 2</head><label>12</label><figDesc><div><p><s coords="2,337.38,225.04,175.39,8.06">Fig. 1 Chemical structures of MoDTC and CaSU</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="3,311.67,716.04,226.67,8.06;3,340.01,726.98,148.29,8.06;3,340.01,737.91,198.42,8.06;3,340.01,748.85,140.91,8.06"><head>Fig. 4</head><label>4</label><figDesc><div><p><s coords="3,311.67,716.04,226.67,8.06;3,340.01,726.98,148.29,8.06">Fig.4Friction coefficient of MoDTC-containing lubricant when temperature was changed stepwise.</s><s coords="3,340.01,737.91,198.42,8.06;3,340.01,748.85,140.91,8.06">Broken lines show friction coefficient obtained at a constant temperature as shown in Fig.3</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="4,56.71,227.79,226.86,8.06;4,85.05,238.73,70.87,8.06"><head>2 and MoO 3 .Fig. 5</head><label>35</label><figDesc><div><p><s coords="4,56.71,227.79,226.86,8.06;4,85.05,238.73,70.87,8.06">Fig. 5 Oscillatory behavior of friction coefficient according to temperature change</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="5,56.69,252.03,225.15,8.06;5,85.04,262.97,73.30,8.06"><head>Fig. 7 Fig. 9</head><label>79</label><figDesc><div><p><s coords="5,56.69,252.03,225.15,8.06;5,85.04,262.97,73.30,8.06">Fig. 7 XPS spectra (Mo3d) of tribofilm on the ball lubricated at (a) 40C and (b) 80C</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4" coords="5,104.88,602.47,385.52,8.06"><head>Fig. 8</head><label>8</label><figDesc><div><p><s coords="5,104.88,602.47,385.52,8.06">Fig. 8 Temperature dependence of friction coefficient under the condition of a stepwise temperature change</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5" coords="6,311.75,192.29,226.71,8.06;6,311.75,203.23,226.78,8.06;6,311.75,214.16,226.75,8.06;6,311.75,225.10,226.60,8.06;6,311.75,236.03,84.06,8.06;6,311.75,246.97,226.73,8.06;6,325.93,257.91,212.53,8.55;6,325.93,268.83,212.53,8.06;6,325.93,279.77,80.87,8.06;6,311.75,290.70,226.62,8.06;6,325.93,301.64,208.60,8.06;6,311.75,312.58,226.73,8.06;6,325.93,323.51,212.44,8.06;6,325.93,334.45,212.52,8.06;6,325.93,345.38,212.42,8.06;6,325.93,356.32,212.56,8.06;6,325.93,367.26,212.57,8.06;6,325.93,378.19,212.62,8.06;6,325.93,389.13,212.43,8.06;6,325.93,400.06,33.27,8.06;6,311.75,411.00,226.65,8.06;6,325.93,421.92,212.53,8.56;6,325.93,432.86,212.40,8.06;6,325.93,443.79,212.46,8.06;6,325.93,454.73,157.43,8.06;6,311.75,465.67,226.71,8.06;6,325.93,476.60,212.61,8.06;6,325.93,487.54,212.53,8.06;6,325.93,498.47,212.44,8.56;6,325.93,509.40,85.80,8.06"><head></head><label></label><figDesc><div><p><s coords="6,311.75,192.29,226.71,8.06;6,311.75,203.23,54.70,8.06">out to evaluate lubricity of MoDTC based on friction coefficient measurements.</s><s coords="6,369.28,203.23,169.26,8.06;6,311.75,214.16,116.43,8.06">The tribofilm formed in lubrication tests were analyzed by HR-TEM and XPS.</s><s coords="6,431.06,214.16,107.44,8.06;6,311.75,225.10,226.60,8.06;6,311.75,236.03,84.06,8.06;6,311.75,246.97,226.73,8.06;6,325.93,257.91,121.48,8.06">The results of the lubrication tests, the HR-TEM observations and the XPS analyses are summarized as follows: (1) Friction-reducing properties of MoDTC are highly dependent on the oil temperature.</s><s coords="6,449.56,257.91,88.90,8.55;6,325.93,268.83,212.53,8.06;6,325.93,279.77,80.87,8.06">MoDTC provides a MoS 2 tribofilm with a structure and composition ratio depending on the oil temperature.</s><s coords="6,311.75,290.70,226.62,8.06;6,325.93,301.64,208.60,8.06">(2) The friction coefficient changes with change in oil temperature and decreases inversely with the temperature.</s><s coords="6,311.75,312.58,226.73,8.06;6,325.93,323.51,212.44,8.06;6,325.93,334.45,108.27,8.06">(3) The friction coefficient precisely follows a temperature change of about 2C while exhibiting the same periodic change as the oil temperature.</s><s coords="6,436.67,334.45,101.78,8.06;6,325.93,345.38,212.42,8.06;6,325.93,356.32,212.56,8.06;6,325.93,367.26,212.57,8.06;6,325.93,378.19,212.62,8.06;6,325.93,389.13,212.43,8.06;6,325.93,400.06,33.27,8.06">Considering that the friction coefficient always starts to change about one and a half minutes later than the oil temperature, it is believed that such a temperature-dependent change is caused not by a change in oil viscosity resulting from temperature change, but by a change in the structure and composition of the tribofilm.</s><s coords="6,311.75,411.00,226.65,8.06;6,325.93,421.92,161.17,8.56">(4) The XPS analysis showed that the tribofilm formed at higher temperature has a higher MoS 2 ratio.</s><s coords="6,489.88,421.92,48.58,8.06;6,325.93,432.86,212.40,8.06;6,325.93,443.79,109.95,8.06">The HR-TEM observation revealed the tribofilm at 80C with a structure composed of aligned layers.</s><s coords="6,439.25,443.79,99.14,8.06;6,325.93,454.73,157.43,8.06">The tribofilm structure is changed reversibly with the oil temperature.</s><s coords="6,311.75,465.67,226.71,8.06;6,325.93,476.60,212.61,8.06;6,325.93,487.54,212.53,8.06;6,325.93,498.47,212.44,8.56;6,325.93,509.40,85.80,8.06">(5) A steady-state model of the tribofilm is proposed: The friction coefficient at steady state depends on the tribofilm structure maintained by a balance between production of MoS 2 through MoDTC tribochemical reaction and removal of the tribofilm by wear.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6" coords="6,56.67,736.47,226.60,8.06;6,87.86,747.41,158.66,8.06;6,50.77,547.17,235.34,182.73"><head>Fig. 10</head><label>10</label><figDesc><div><p><s coords="6,56.67,736.47,226.60,8.06;6,87.86,747.41,158.66,8.06">Fig. 10 XPS spectra of the test ball lubricated at (a) 80C and (b) 40C after the lubrication test shown in Fig. 8</s></p></div></figDesc><graphic coords="6,50.77,547.17,235.34,182.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="2,123.20,411.02,415.17,341.78"><head></head><label></label><figDesc><div><p><s coords="2,354.87,411.02,102.46,8.06">summarizes test conditions.</s><s coords="2,459.89,411.02,78.48,8.06">A load of 17 N (max.</s></p></div></figDesc><table coords="2,123.20,656.81,340.82,96.00"><row><cell></cell><cell>Method 1</cell><cell>Method 2</cell><cell>Method 3</cell></row><row><cell>Load, N</cell><cell>17</cell><cell>17</cell><cell>17</cell></row><row><cell>Sliding speed, m/s</cell><cell>0.31</cell><cell>0.31</cell><cell>0.31</cell></row><row><cell></cell><cell>RT (ca.25C)</cell><cell></cell><cell></cell></row><row><cell>Temperature, C</cell><cell>40C 60C</cell><cell>60C</cell><cell></cell></row><row><cell></cell><cell>80C</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="2,226.71,638.22,141.90,8.06"><head>Table 1</head><label>1</label><figDesc></figDesc><table coords="2,259.55,638.22,109.06,8.06"><row><cell>Conditions for ball on disk test</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The Effect of Temperature on Lubrication Property with MoDTC-Containning Lubricant -Temperature Dependence of Friction Coefficient and Tribofilm Structure-</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Masanori Komaba, Shinya Kondo, Atsushi Suzuki, Kazue Kurihara and Shigeyuki Mori</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgement</head><p><s coords="6,325.93,553.14,212.55,8.06;6,311.75,564.08,226.69,8.06;6,311.75,575.01,224.77,8.06">The authors would appreciate MEXT for financial support through the Tohoku Innovative Materials Technology Initiatives for Reconstruction implemented by the Reconstruction Agency.</s></p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="6,327.34,619.11,211.13,7.06;6,327.34,630.04,211.19,7.06;6,327.34,640.98,124.18,7.06" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Plot for ST/GSC Technical Development Program, For the Concretization of ST Strategy</title>
+	</analytic>
+	<monogr>
+		<title level="m">Reference Data: Commission Investigation Report</title>
+				<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="6,327.34,651.91,211.14,7.06;6,327.34,662.85,211.12,7.06;6,327.34,673.78,211.11,7.06;6,327.34,684.71,57.31,7.06" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Studies on the Characteristics of Piston Ring Friction. Influences of Oil Properties.</title>
+		<author>
+			<persName><forename type="first">Yutaro</forename><surname>Wakuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mitsuhiro</forename><surname>Soejima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tatsumi</forename><surname>Kitahara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Masatoshi</forename><surname>Nunotani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yukimasa</forename><surname>Kabe</surname></persName>
+		</author>
+		<idno type="DOI">10.1299/kikaic.59.1186</idno>
+		<ptr type="open-access" target="https://www.jstage.jst.go.jp/article/kikaic1979/59/560/59_560_1186/_pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the Japan Society of Mechanical Engineers Series C</title>
+		<title level="j" type="abbrev">JSMET</title>
+		<idno type="ISSN">0387-5024</idno>
+		<idno type="ISSNe">1884-8354</idno>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">560</biblScope>
+			<biblScope unit="page" from="1186" to="1191" />
+			<date type="published" when="1993" />
+			<publisher>Japan Society of Mechanical Engineers</publisher>
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="6,327.34,695.65,211.17,7.06;6,327.34,706.58,211.12,7.06;6,327.34,717.52,211.19,7.06;6,327.34,728.45,31.37,7.06" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Low Friction Gasoline Engine Oil -Effects of Lower Viscosity and Friction Modifiers</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Tohyama</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Ohmori</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><surname>Tsutsui</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Yamamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">R&amp;D Review of Toyota CRDL</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="35" to="44" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="6,327.34,739.38,211.12,7.06;6,327.34,750.32,211.12,7.06" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">On Properties of Surface Films Formed with MoDTC under Different Conditions</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Gondo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,226.27,590.75,46.02,6.78;6,232.35,598.49,33.87,6.78" xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName coords=""><forename type="first">(vi) </forename><surname>Mo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Mo</surname></persName>
+		</author>
+		<idno>IV) 30  70</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,72.28,83.31,211.18,7.06;7,72.28,94.24,211.08,7.06;7,72.28,105.18,211.15,7.06;7,72.28,116.11,211.17,7.06;7,72.28,127.04,31.37,7.06" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Frictional Characteristics and Topographical Changes of Surfaces with Organomolybdenum Compounds in Rolling / Sliding Contact</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Gondo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Hashimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Japanese Society of Tribologists</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="735" to="742" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="7,72.28,137.98,211.12,7.06;7,72.28,148.91,211.10,7.50;7,72.29,159.85,198.15,7.06" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">MoS 2 Single Sheet Lubrication by Molybdenum Dithiocarbamate</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Grossiord</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Varlot</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Th</forename><surname>Mogne</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Esnouf</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Inoue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="737" to="743" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,72.29,170.79,211.11,7.06;7,72.29,181.72,211.06,7.06;7,72.29,192.66,135.15,7.06" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Friction and Wear Characteristics of Molybdenum Dithiocarbamate and Molybdenum Dithiophosphate</title>
+		<author>
+			<persName><forename type="first">Yuji</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seigo</forename><surname>Gondo</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10402008908981886</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Transactions</title>
+		<title level="j" type="abbrev">Tribology Transactions</title>
+		<idno type="ISSN">1040-2004</idno>
+		<idno type="ISSNe">1547-397X</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="251" to="257" />
+			<date type="published" when="1989-01" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,72.29,203.59,210.98,7.06;7,72.29,214.52,211.08,7.06;7,72.29,225.46,211.13,7.06;7,72.29,236.39,211.00,7.06;7,72.29,247.33,59.64,7.06" xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Friction Properties of Tribofilm Formed from Engine Oil Additives (Part 2) -Frictional and Mechanical Properties in nm-Scale and Mechanisms of Friction Reducing</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Yasuda</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Journal of Japanese Society of Tribologists</publisher>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="60" to="68" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="7,72.29,258.26,211.00,7.06;7,72.29,269.19,211.11,7.06;7,72.29,280.13,211.12,7.06;7,72.29,291.06,91.14,7.06" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mechanism of the Surface Film Formation of Molybdenum Dithiocarbamate (MoDTC) and Effect of Rubbing Materials</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Gondo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Japanese Society of Tribologists</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="242" to="248" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="7,72.29,302.00,210.98,7.06;7,72.29,312.93,211.11,7.06;7,72.29,323.86,210.99,7.06;7,72.29,334.80,166.75,7.06" xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Friction Properties of Tribofilm Formed from Engine Oil Additives (Part 1) -The Effect of DLC Coated Material on Forming Tribofilms</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Ye</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Journal of Japanese Society of Tribologists</publisher>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="54" to="59" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="7,72.29,345.73,211.11,7.06;7,72.29,356.67,211.10,7.06;7,327.33,72.35,211.02,7.06;7,327.33,83.29,53.81,7.06" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Effect of lubricant additive on lubricity of metal doped DLC films</title>
+		<author>
+			<persName><forename type="first">Toshimitsu</forename><surname>Numata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shinya</forename><surname>Sasaki</surname></persName>
+		</author>
+		<idno type="DOI">10.1299/jsmemp.2003.11.245</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Proceedings of the Materials and processing conference</title>
+		<idno type="ISSNe">2424-287X</idno>
+		<imprint>
+			<biblScope unit="volume">2003.11</biblScope>
+			<biblScope unit="issue">0</biblScope>
+			<biblScope unit="page" from="245" to="246" />
+			<date type="published" when="2003" />
+			<publisher>Japan Society of Mechanical Engineers</publisher>
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="7,327.33,94.22,210.99,7.06;7,327.33,105.16,211.03,7.06;7,327.33,116.09,211.09,7.06;7,327.33,127.02,94.64,7.06" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Frictional properties of organomolybdenum compounds in the presence of ZDTPs under sliding conditions</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Muraki</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Wada</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0167-8922(08)70647-3</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Tribology Series</title>
+				<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1995" />
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="409" to="422" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="7,327.33,137.96,211.17,7.06;7,327.33,148.89,211.18,7.06;7,327.33,159.83,211.19,7.06" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Simulating the Effect of Base Oil Sulfur Compounds and Peroxide Levels on the Tribological Properties of Organo-Molybdenum Compounds</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Gondo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Yamamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,327.33,181.69,211.16,7.06;7,327.33,192.63,211.18,7.06;7,327.33,203.56,145.43,7.06" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Effect of Organic Sulfides on Friction Characteristics of MoDTC</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Arai</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Yamamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Japanese Society of Tribologists</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="897" to="903" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="7,327.33,214.50,211.08,7.06;7,327.33,225.43,211.19,7.06;7,327.33,236.36,211.14,7.06;7,327.33,247.30,70.58,7.06" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">ZDDP and MoDTC Interactions in Boundary Lubrication-The Effect of Temperature and ZDDP/MoDTC Ratio</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Morina</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Neville</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Priest</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">H</forename><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology International</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1545" to="1557" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,327.33,258.23,211.11,7.06;7,327.33,269.17,211.12,7.06;7,327.33,280.10,211.17,7.06;7,327.33,291.03,33.78,7.06" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Synergistic Effect of Calcium Sulfonate and MoDTC Additives in Urea Grease</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Osawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kakizaki</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Nanao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Synopses of the International Tribology Conference</title>
+				<meeting><address><addrLine>Kobe, Kobe</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,327.33,301.97,211.04,7.06;7,327.33,312.90,112.72,7.06" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Solid Lubrication Handbook</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Matsunaga</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Tsuya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Saiwai Shobo</title>
+		<imprint>
+			<biblScope unit="page">85</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+	<note>in Japanese</note>
+</biblStruct>
+
+<biblStruct coords="7,327.33,323.84,211.01,7.06;7,327.33,334.77,211.11,7.06;7,327.33,345.70,211.11,7.06;7,327.33,356.64,60.08,7.06" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Friction Reducing Properties of Molybdenum Dialkyldithiocarbamate Additives: Part I  Factors Influencing Friction Reduction</title>
+		<author>
+			<persName><forename type="first">Jocelyn</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hugh</forename><surname>Spikes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Korcek</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10402000108982504</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tribology Transactions</title>
+		<title level="j" type="abbrev">Tribology Transactions</title>
+		<idno type="ISSN">1040-2004</idno>
+		<idno type="ISSNe">1547-397X</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="626" to="636" />
+			<date type="published" when="2001-01" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
